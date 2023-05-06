@@ -1,0 +1,9 @@
+[configuration]
+
+entry_symbol = "gdchess_cpp_init"
+
+[libraries]
+
+linux.64="res://bin/libgdchess-cpp.linux.template_debug.x86_64.so"
+windows.x86_64="res://bin/libgdexample.windows.template_debug.x86_64.dll"
+macos="res://bin/libgdexample.macos.framework"

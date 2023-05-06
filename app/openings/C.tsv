@@ -1,0 +1,1166 @@
+name	uci
+French Defense	e2e4 e7e6
+French Defense	e2e4 e7e6 d2d4 d7d5
+French Defense: Alapin Gambit	e2e4 e7e6 d2d4 d7d5 c1e3
+French Defense: Baeuerle Gambit	e2e4 e7e6 d2d4 b7b5
+French Defense: Banzai-Leong Gambit	e2e4 e7e6 b2b4
+French Defense: Banzai-Leong Gambit, Pinova Gambit	e2e4 e7e6 b2b4 f8b4 e4e5
+French Defense: Bird Invitation	e2e4 e7e6 f1b5
+French Defense: Carlson Gambit	e2e4 e7e6 d2d4 d7d5 g1f3 d5e4 f3e5
+French Defense: Chigorin Variation	e2e4 e7e6 d1e2
+French Defense: Diemer-Duhm Gambit	e2e4 e7e6 d2d4 d7d5 c2c4
+French Defense: Diemer-Duhm Gambit Accepted	e2e4 e7e6 d2d4 d7d5 c2c4 d5e4
+French Defense: Franco-Hiva Gambit	e2e4 e7e6 d2d4 f7f5
+French Defense: Franco-Hiva Gambit Accepted	e2e4 e7e6 d2d4 f7f5 e4f5
+French Defense: Franco-Sicilian Defense	e2e4 e7e6 d2d4 c7c5
+French Defense: Hoffmann Gambit	e2e4 e7e6 d2d4 d7d5 d1e2 e6e5 f2f4 e5f4
+French Defense: Horwitz Attack	e2e4 e7e6 b2b3
+French Defense: Horwitz Attack, Papa-Ticulat Gambit	e2e4 e7e6 b2b3 d7d5 c1b2
+French Defense: King's Indian Attack	e2e4 e7e6 d2d3
+French Defense: King's Indian Attack, Franco-Hiva Gambit	e2e4 e7e6 d2d3 f7f5
+French Defense: Knight Variation	e2e4 e7e6 g1f3
+French Defense: Knight Variation, Franco-Hiva Gambit	e2e4 e7e6 g1f3 f7f5
+French Defense: La Bourdonnais Variation	e2e4 e7e6 f2f4
+French Defense: La Bourdonnais Variation, Reuter Gambit	e2e4 e7e6 f2f4 d7d5 g1f3 d5e4
+French Defense: Mediterranean Defense	e2e4 e7e6 d2d4 g8f6
+French Defense: Morphy Gambit	e2e4 e7e6 d2d4 d7d5 g1h3
+French Defense: Normal Variation	e2e4 e7e6 d2d4
+French Defense: Orthoschnapp Gambit	e2e4 e7e6 c2c4 d7d5 c4d5 e6d5 d1b3
+French Defense: Pelikan Variation	e2e4 e7e6 b1c3 d7d5 f2f4
+French Defense: Perseus Gambit	e2e4 e7e6 d2d4 d7d5 g1f3
+French Defense: Queen's Knight	e2e4 e7e6 b1c3
+French Defense: Reversed Philidor Formation	e2e4 e7e6 d2d3 d7d5 b1d2 g8f6 g1f3 b8c6 f1e2
+French Defense: Réti-Spielmann Attack	e2e4 e7e6 g2g3
+French Defense: Schlechter Variation	e2e4 e7e6 d2d4 d7d5 f1d3
+French Defense: St. George Defense	e2e4 e7e6 d2d4 a7a6
+French Defense: St. George Defense, Sanky-George Gambit	e2e4 e7e6 d2d4 a7a6 c2c4 b7b5
+French Defense: St. George Defense, St. George Gambit	e2e4 e7e6 d2d4 a7a6 c2c4 b7b5 c4b5 a6b5
+French Defense: St. George Defense, Three Pawn Attack	e2e4 e7e6 d2d4 a7a6 c2c4
+French Defense: St. George Defense, Traditional Line	e2e4 e7e6 d2d4 a7a6 g1f3 b7b5 f1d3 c7c5 c2c3 c8b7 e1g1 g8f6
+French Defense: Steiner Variation	e2e4 e7e6 c2c4
+French Defense: Steinitz Attack	e2e4 e7e6 e4e5
+French Defense: Two Knights Variation	e2e4 e7e6 g1f3 d7d5 b1c3
+French Defense: Wing Gambit	e2e4 e7e6 g1f3 d7d5 e4e5 c7c5 b2b4
+Rat Defense: Small Center Defense	d2d4 e7e6 e2e4 d7d6
+French Defense: Exchange Variation	e2e4 e7e6 d2d4 d7d5 e4d5
+French Defense: Exchange Variation, Bogoljubov Variation	e2e4 e7e6 d2d4 d7d5 e4d5 e6d5 b1c3 g8f6 c1g5 b8c6
+French Defense: Exchange Variation, Monte Carlo Variation	e2e4 e7e6 d2d4 d7d5 e4d5 e6d5 c2c4
+French Defense: Exchange Variation, Svenonius Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 e4d5 e6d5 c1g5
+French Defense: Advance Variation	e2e4 e7e6 d2d4 d7d5 e4e5
+French Defense: Advance Variation	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5
+French Defense: Advance Variation	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 c2c3
+French Defense: Advance Variation	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 c2c3 b8c6
+French Defense: Advance Variation, Euwe Variation	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 c2c3 b8c6 g1f3 c8d7
+French Defense: Advance Variation, Extended Bishop Swap	e2e4 e7e6 d2d4 d7d5 e4e5 c8d7
+French Defense: Advance Variation, Frenkel Gambit	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 b2b4
+French Defense: Advance Variation, Lputian Variation	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 c2c3 b8c6 g1f3 d8b6 a2a3 g8h6
+French Defense: Advance Variation, Main Line	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 c2c3 b8c6 g1f3 d8b6 a2a3
+French Defense: Advance Variation, Milner-Barry Gambit	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 c2c3 b8c6 g1f3 d8b6 f1d3
+French Defense: Advance Variation, Nimzowitsch Attack	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 d1g4
+French Defense: Advance Variation, Nimzowitsch Gambit	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 d1g4 c5d4 g1f3
+French Defense: Advance Variation, Nimzowitsch System	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 g1f3
+French Defense: Advance Variation, Paulsen Attack	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 c2c3 b8c6 g1f3
+French Defense: Advance Variation, Ruisdonk Gambit	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 g1f3 c5d4 f1d3
+French Defense: Advance Variation, Steinitz Variation	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 d4c5
+French Defense: Advance Variation, Wade Variation	e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 c2c3 d8b6 g1f3 c8d7
+French Defense: Guimard Variation, Thunderbunny Variation	e2e4 e7e6 d2d4 d7d5 b1d2 b8c6 c2c3 d5e4 d2e4 e6e5
+French Defense: Tarrasch Variation	e2e4 e7e6 d2d4 d7d5 b1d2
+French Defense: Tarrasch Variation, Guimard Defense	e2e4 e7e6 d2d4 d7d5 b1d2 b8c6
+French Defense: Tarrasch Variation, Haberditz Variation	e2e4 e7e6 d2d4 d7d5 b1d2 f7f5
+French Defense: Tarrasch Variation, Modern System	e2e4 e7e6 d2d4 d7d5 b1d2 a7a6
+French Defense: Tarrasch Variation, Morozevich Variation	e2e4 e7e6 d2d4 d7d5 b1d2 f8e7
+French Defense: Tarrasch Variation, Guimard Defense, Main Line	e2e4 e7e6 d2d4 d7d5 b1d2 b8c6 g1f3 g8f6
+French Defense: Tarrasch Variation, Botvinnik Variation	e2e4 e7e6 d2d4 d7d5 b1d2 g8f6 e4e5 f6d7 f1d3 c7c5 c2c3 b7b6
+French Defense: Tarrasch Variation, Closed Variation	e2e4 e7e6 d2d4 d7d5 b1d2 g8f6
+French Defense: Tarrasch Variation, Closed Variation	e2e4 e7e6 d2d4 d7d5 b1d2 g8f6 e4e5 f6d7 f1d3 c7c5 c2c3 b8c6
+French Defense: Tarrasch Variation, Pawn Center Variation	e2e4 e7e6 d2d4 d7d5 b1d2 g8f6 e4e5 f6d7 f2f4
+French Defense: Tarrasch Variation, Closed Variation, Main Line	e2e4 e7e6 d2d4 d7d5 b1d2 g8f6 e4e5 f6d7 f1d3 c7c5 c2c3 b8c6 g1e2 c5d4 c3d4
+French Defense: Tarrasch Variation, Leningrad Variation	e2e4 e7e6 d2d4 d7d5 b1d2 g8f6 e4e5 f6d7 f1d3 c7c5 c2c3 b8c6 g1e2 c5d4 c3d4 d7b6
+French Defense: Tarrasch Variation, Chistyakov Defense	e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 e4d5 d8d5
+French Defense: Tarrasch Variation, Chistyakov Defense, Modern Line	e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 e4d5 d8d5 g1f3 c5d4 f1c4 d5d6 e1g1 g8f6 d2b3 b8c6 b3d4 c6d4 f3d4 a7a6
+French Defense: Tarrasch Variation, Eliskases Variation	e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 e4d5 d8d5 g1f3 c5d4 f1c4 d5d8
+French Defense: Tarrasch Variation, Open System	e2e4 e7e6 d2d4 d7d5 b1d2 c7c5
+French Defense: Tarrasch Variation, Open System, Euwe-Keres Line	e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 g1f3
+French Defense: Tarrasch Variation, Open System, Shaposhnikov Gambit	e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 e4d5 g8f6
+French Defense: Tarrasch Variation, Open System, Süchting Line	e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 c2c3
+French Defense: Tarrasch Variation, Open System	e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 e4d5 e6d5
+French Defense: Tarrasch Variation, Open System, Advance Line	e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 e4d5 e6d5 g1f3 c5c4
+French Defense: Tarrasch Variation, Open System, Main Line	e2e4 e7e6 d2d4 d7d5 b1d2 c7c5 e4d5 e6d5 g1f3 b8c6
+French Defense: Classical Variation, Svenonius Variation	e2e4 e7e6 d2d4 d7d5 b1c3 b8c6 e4d5
+French Defense: Paulsen Variation	e2e4 e7e6 d2d4 d7d5 b1c3
+French Defense: Rubinstein Variation	e2e4 e7e6 d2d4 d7d5 b1c3 d5e4
+French Defense: Rubinstein Variation, Blackburne Defense	e2e4 e7e6 d2d4 d7d5 b1c3 d5e4 c3e4 b8d7
+French Defense: Rubinstein Variation, Capablanca Line	e2e4 e7e6 d2d4 d7d5 b1c3 d5e4 c3e4 b8d7 g1f3 g8f6 e4f6 d7f6 f3e5
+French Defense: Rubinstein Variation, Ellis Gambit	e2e4 e7e6 d2d4 d7d5 b1c3 d5e4 c3e4 e6e5
+French Defense: Rubinstein Variation, Fort Knox Variation	e2e4 e7e6 d2d4 d7d5 b1c3 d5e4 c3e4 c8d7 g1f3 d7c6
+French Defense: Rubinstein Variation, Kasparov Attack	e2e4 e7e6 d2d4 d7d5 b1d2 d5e4 d2e4 b8d7 g1f3 g8f6 e4f6 d7f6 c2c3
+French Defense: Rubinstein Variation, Maric Variation	e2e4 e7e6 d2d4 d7d5 b1c3 d5e4 c3e4 d8d5
+Sicilian Defense: Marshall Gambit	e2e4 c7c5 b1c3 e7e6 d2d4 d7d5
+French Defense: Burn Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5
+French Defense: Classical Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6
+French Defense: Classical Variation, Burn Variation, Main Line	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 d5e4 c3e4 f8e7 g5f6 e7f6 g1f3 e8g8
+French Defense: Classical Variation, Burn Variation, Morozevich Line	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 d5e4 c3e4 f8e7 g5f6 g7f6
+French Defense: Classical Variation, Delayed Exchange Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 e4d5
+French Defense: Classical Variation, Steinitz Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 e4e5
+French Defense: Classical Variation, Swiss Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 f1d3
+French Defense: Henneberger Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1e3
+French Defense: Steinitz Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 e4e5 f6d7 f2f4 c7c5 d4c5 b8c6
+French Defense: Steinitz Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 e4e5 f6d7 f2f4 c7c5 g1f3
+French Defense: Steinitz Variation, Boleslavsky Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 e4e5 f6d7 f2f4 c7c5 g1f3 b8c6 c1e3
+French Defense: Steinitz Variation, Bradford Attack Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 e4e5 f6d7 f2f4 c7c5 d4c5 f8c5 d1g4
+French Defense: Steinitz Variation, Brodsky-Jones Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 e4e5 f6d7 f2f4 c7c5 d4c5 b8c6 a2a3 f8c5 d1g4 e8g8 g1f3 f7f6
+French Defense: Steinitz Variation, Gledhill Attack	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 e4e5 f6d7 d1g4
+French Defense: MacCutcheon Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8b4
+French Defense: MacCutcheon Variation, Advance Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8b4 e4e5
+French Defense: MacCutcheon Variation, Bernstein Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8b4 e4e5 h7h6 g5h4
+French Defense: MacCutcheon Variation, Bogoljubov Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8b4 e4d5 d8d5 g5f6 g7f6 d1d2 d5a5
+French Defense: MacCutcheon Variation, Chigorin Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8b4 e4e5 h7h6 e5f6
+French Defense: MacCutcheon Variation, Dr. Olland Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8b4 e4e5 h7h6 g5c1
+French Defense: MacCutcheon Variation, Duras Variation	e2e4 e7e6 b1c3 d7d5 d2d4 g8f6 c1g5 f8b4 e4e5 h7h6 g5d2 b4c3 b2c3 f6e4 d1g4 e8f8 d2c1
+French Defense: MacCutcheon Variation, Exchange Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8b4 e4d5
+French Defense: MacCutcheon Variation, Grigoriev Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8b4 e4e5 h7h6 e5f6 h6g5 f6g7 h8g8 h2h4 g5h4 d1g4
+French Defense: MacCutcheon Variation, Janowski Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8b4 e4e5 h7h6 g5e3
+French Defense: MacCutcheon Variation, Lasker Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8b4 e4e5 h7h6 g5d2 b4c3
+French Defense: MacCutcheon Variation, Lasker Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8b4 e4e5 h7h6 g5d2 b4c3 b2c3 f6e4 d1g4 g7g6
+French Defense: MacCutcheon Variation, Tartakower Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8b4 e4e5 h7h6 g5d2 f6d7
+French Defense: Alekhine-Chatard Attack	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 h2h4
+French Defense: Alekhine-Chatard Attack, Albin-Chatard Gambit	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 h2h4 e7g5 h4g5 d8g5
+French Defense: Alekhine-Chatard Attack, Breyer Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 h2h4 c7c5
+French Defense: Alekhine-Chatard Attack, Maróczy Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 h2h4 a7a6
+French Defense: Alekhine-Chatard Attack, Spielmann Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 h2h4 e8g8
+French Defense: Alekhine-Chatard Attack, Teichmann Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 h2h4 f7f6
+French Defense: Classical Variation, Frankfurt Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6g8 g5e3 b7b6
+French Defense: Classical Variation, Normal Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7
+French Defense: Classical Variation, Richter Attack	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 g5f6
+French Defense: Classical Variation, Richter Attack	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 g5f6 e7f6 e4e5 f6e7 d1g4
+French Defense: Classical Variation, Tartakower Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6e4
+French Defense: Classical Variation, Vistaneckis Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6g8
+French Defense: Classical Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 g5e7 d8e7
+French Defense: Classical Variation, Alapin Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 g5e7 d8e7 c3b5
+French Defense: Classical Variation, Pollock Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 g5e7 d8e7 d1g4
+French Defense: Classical Variation, Rubinstein Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 g5e7 d8e7 d1d2
+French Defense: Classical Variation, Stahlberg Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 g5e7 d8e7 f2f4 e8g8 g1f3 c7c5 d1d2 b8c6 e1c1 c5c4
+French Defense: Classical Variation, Steinitz Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 g5e7 d8e7 f2f4
+French Defense: Classical Variation, Tarrasch Variation	e2e4 e7e6 d2d4 d7d5 b1c3 g8f6 c1g5 f8e7 e4e5 f6d7 g5e7 d8e7 f1d3
+French Defense: MacCutcheon Variation, Wolf Gambit	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 g1e2 g8f6 c1g5
+French Defense: Winawer Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4
+French Defense: Winawer Variation, Alekhine Gambit Accepted	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 g1e2 d5e4 a2a3 b4c3
+French Defense: Winawer Variation, Alekhine Gambit, Alatortsev Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 g1e2 d5e4 a2a3 b4e7 c3e4 g8f6 e2g3 e8g8 f1e2 b8c6
+French Defense: Winawer Variation, Alekhine Gambit, Kan Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 g1e2 d5e4 a2a3 b4c3 e2c3 b8c6
+French Defense: Winawer Variation, Alekhine-Maróczy Gambit	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 g1e2
+French Defense: Winawer Variation, Delayed Exchange Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4d5
+French Defense: Winawer Variation, Exchange Variation, Canal Attack	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4d5 e6d5 f1d3 g8e7 d1h5
+French Defense: Winawer Variation, Fingerslip Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 c1d2
+French Defense: Winawer Variation, Fingerslip Variation, Kunin Double Gambit	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 c1d2 d5e4 d1g4 d8d4
+French Defense: Winawer Variation, Fingerslip Variation, Main Line	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 c1d2 d5e4 d1g4 g8f6 g4g7 h8g8 g7h6
+French Defense: Winawer Variation, Fingerslip Variation, Schwarz's Line	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 c1d2 g8e7 c3b1
+French Defense: Winawer Variation, Kondratiyev Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 f1d3 c7c5 e4d5 d8d5 c1d2
+French Defense: Winawer Variation, Winckelmann-Riemer Gambit	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 a2a3
+French Defense: Winawer Variation, Advance Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5
+French Defense: Winawer Variation, Petrosian Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 d8d7
+French Defense: Winawer Variation, Advance Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5
+French Defense: Winawer Variation, Advance Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3
+French Defense: Winawer Variation, Advance Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 c5d4 a3b4 d4c3 g1f3
+French Defense: Winawer Variation, Advance Variation, Moscow Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 d1g4
+French Defense: Winawer Variation, Bogoljubov Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 c1d2
+French Defense: Winawer Variation, Bogoljubov Variation, Icelandic Defense	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 c1d2 g8e7 f2f4
+French Defense: Winawer Variation, Maróczy-Wallis Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 c5d4 a3b4 d4c3
+French Defense: Winawer Variation, Retreat Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 b4a5
+French Defense: Winawer Variation, Retreat Variation, Armenian Line	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 b4a5 b2b4 c5d4
+French Defense: Winawer Variation, Advance Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 b4c3 b2c3
+French Defense: Winawer Variation, Classical Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 b4c3 b2c3 d8c7
+French Defense: Winawer Variation, Portisch-Hook Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 b4c3 b2c3 d8a5
+French Defense: Winawer Variation, Advance Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 b4c3 b2c3 g8e7
+French Defense: Winawer Variation, Advance Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 b4c3 b2c3 g8e7 a3a4
+French Defense: Winawer Variation, Poisoned Pawn Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 b4c3 b2c3 g8e7 d1g4
+French Defense: Winawer Variation, Poisoned Pawn Variation, Main Line	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 b4c3 b2c3 g8e7 d1g4 d8c7 g4g7 h8g8 g7h7 c5d4 g1e2
+French Defense: Winawer Variation, Poisoned Pawn Variation, Paoli Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 b4c3 b2c3 g8e7 d1g4 d8c7 g4g7 h8g8 g7h7 c5d4 e1d1
+French Defense: Winawer Variation, Positional Variation	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 b4c3 b2c3 g8e7 g1f3
+Barnes Opening: Walkerling	f2f3 e7e5 e2e4 g8f6 f1c4
+Bongcloud Attack	e2e4 e7e5 e1e2
+Center Game	e2e4 e7e5 d2d4
+English Opening: The Whale	e2e4 e7e5 c2c4
+King's Pawn Game	e2e4 e7e5
+King's Pawn Game: Alapin Opening	e2e4 e7e5 g1e2
+King's Pawn Game: Bavarian Gambit	e2e4 e7e5 c2c4 d7d5
+King's Pawn Game: Beyer Gambit	e2e4 e7e5 d2d4 d7d5
+King's Pawn Game: Clam Variation, King's Gambit Reversed	e2e4 e7e5 d2d3 f7f5
+King's Pawn Game: Clam Variation, Radisch Gambit	e2e4 e7e5 d2d3 g8f6 f2f4 f8c5
+King's Pawn Game: King's Head Opening	e2e4 e7e5 f2f3
+King's Pawn Game: King's Head Opening	e2e4 e7e5 f2f3 g8f6 b1c3
+King's Pawn Game: Leonardis Variation	e2e4 e7e5 d2d3
+King's Pawn Game: MacLeod Attack	e2e4 e7e5 c2c3
+King's Pawn Game: MacLeod Attack, Lasa Gambit	e2e4 e7e5 c2c3 f7f5
+King's Pawn Game: MacLeod Attack, Norwalde Gambit	e2e4 e7e5 c2c3 d7d5 d1h5 f8d6
+King's Pawn Game: Mengarini's Opening	e2e4 e7e5 a2a3
+King's Pawn Game: Napoleon Attack	e2e4 e7e5 d1f3
+King's Pawn Game: Philidor Gambit	e2e4 e7e5 d2d4 d7d6 d4e5 c8d7
+King's Pawn Game: Tortoise Opening	e2e4 e7e5 f1d3
+King's Pawn Game: Wayward Queen Attack	e2e4 e7e5 d1h5
+King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit	e2e4 e7e5 d1h5 g8f6
+King's Pawn Game: Wayward Queen Attack, Mellon Gambit	e2e4 e7e5 d1h5 b8c6 f1c4 g8h6 d2d3 g7g6 h5f3 f7f6 g1e2 d7d5
+King's Pawn Game: Weber Gambit	e2e4 e7e5 d2d3 d7d5 e4d5 c7c6 d5c6 b8c6
+King's Pawn Opening	e2e4 e7e5 b2b3
+King's Pawn Opening: Speers	e2e4 e7e5 d1g4 g8f6 g4f5
+King's Pawn Opening: Van Hooydoon Gambit	e2e4 e7e5 d1e2 b8c6 c2c3 g8f6 g1f3 f8c5 d2d4 e5d4 c3d4 c6d4
+Portuguese Opening	e2e4 e7e5 f1b5
+Portuguese Opening: Miguel Gambit	e2e4 e7e5 f1b5 f8c5 b2b4
+Portuguese Opening: Portuguese Gambit	e2e4 e7e5 f1b5 g8f6 d2d4
+Center Game	e2e4 e7e5 d2d4 e5d4 d1d4
+Center Game Accepted	e2e4 e7e5 d2d4 e5d4
+Center Game: Halasz-McDonnell Gambit	e2e4 e7e5 d2d4 e5d4 f2f4
+Center Game: Halasz-McDonnell Gambit, Crocodile Variation	e2e4 e7e5 d2d4 e5d4 f2f4 f8c5 g1f3 b8c6 c2c3
+Center Game: Kieseritzky Variation	e2e4 e7e5 d2d4 e5d4 g1f3
+Center Game: Kieseritzky Variation	e2e4 e7e5 d2d4 e5d4 g1f3 c7c5
+Center Game: Kieseritzky Variation	e2e4 e7e5 d2d4 e5d4 g1f3 c7c5 f1c4
+Center Game: Kieseritzky Variation	e2e4 e7e5 d2d4 e5d4 g1f3 c7c5 f1c4 b7b5
+Center Game: Lanc-Arnold Gambit	e2e4 e7e5 d2d4 e5d4 g1f3 f8c5 c2c3
+Center Game: Lanc-Arnold Gambit, Schippler Gambit	e2e4 e7e5 d2d4 e5d4 g1f3 f8c5 c2c3 d4c3 f1c4
+Center Game: Ross Gambit	e2e4 e7e5 d2d4 e5d4 f1d3
+Center Game: von der Lasa Gambit	e2e4 e7e5 d2d4 e5d4 f1c4
+Danish Gambit	e2e4 e7e5 d2d4 e5d4 c2c3
+Danish Gambit Accepted	e2e4 e7e5 d2d4 e5d4 c2c3 d4c3 f1c4 c3b2 c1b2
+Danish Gambit Accepted: Chigorin Defense	e2e4 e7e5 d2d4 e5d4 c2c3 d4c3 f1c4 c3b2 c1b2 d8e7
+Danish Gambit Accepted: Classical Defense	e2e4 e7e5 d2d4 e5d4 c2c3 d4c3 f1c4 c3b2 c1b2 g8f6
+Danish Gambit Accepted: Copenhagen Defense	e2e4 e7e5 d2d4 e5d4 c2c3 d4c3 f1c4 c3b2 c1b2 f8b4
+Danish Gambit Accepted: Schlechter Defense	e2e4 e7e5 d2d4 e5d4 c2c3 d4c3 f1c4 c3b2 c1b2 d7d5
+Danish Gambit Accepted: Svenonius Defense	e2e4 e7e5 d2d4 e5d4 c2c3 g8e7
+Danish Gambit Declined: Sorensen Defense	e2e4 e7e5 d2d4 e5d4 c2c3 d7d5
+Center Game: Berger Variation	e2e4 e7e5 d2d4 e5d4 d1d4 b8c6 d4e3 g8f6
+Center Game: Charousek Variation	e2e4 e7e5 d2d4 e5d4 d1d4 b8c6 d4e3 f8b4 c2c3 b4e7
+Center Game: Hall Variation	e2e4 e7e5 d2d4 e5d4 d1d4 b8c6 d4c4
+Center Game: Kupreichik Variation	e2e4 e7e5 d2d4 e5d4 d1d4 b8c6 d4e3 g8f6 b1c3 f8b4 c1d2 e8g8 e1c1 f8e8 f1c4 d7d6 g1h3
+Center Game: Normal Variation	e2e4 e7e5 d2d4 e5d4 d1d4 b8c6
+Center Game: Paulsen Attack Variation	e2e4 e7e5 d2d4 e5d4 d1d4 b8c6 d4e3
+Center Game: l'Hermet Variation	e2e4 e7e5 d2d4 e5d4 d1d4 b8c6 d4e3 f7f5
+Bishop's Opening	e2e4 e7e5 f1c4
+Bishop's Opening: Anderssen Gambit	e2e4 e7e5 f1c4 b7b5 c4b5 c7c6
+Bishop's Opening: Boi Variation	e2e4 e7e5 f1c4 f8c5
+Bishop's Opening: Calabrese Countergambit	e2e4 e7e5 f1c4 f7f5
+Bishop's Opening: Calabrese Countergambit, Jaenisch Variation	e2e4 e7e5 f1c4 f7f5 d2d3
+Bishop's Opening: Four Pawns Gambit	e2e4 e7e5 f1c4 f8c5 b2b4 c5b4 f2f4 e5f4 g1f3 b4e7 d2d4 e7h4 g2g3 f4g3 e1g1 g3h2 g1h1
+Bishop's Opening: Khan Gambit	e2e4 e7e5 f1c4 d7d5
+Bishop's Opening: Lewis Countergambit	e2e4 e7e5 f1c4 f8c5 c2c3 d7d5
+Bishop's Opening: Lewis Countergambit	e2e4 e7e5 f1c4 f8c5 c2c3 d7d5 c4d5 g8f6
+Bishop's Opening: Lewis Countergambit, Walker Variation	e2e4 e7e5 f1c4 f8c5 c2c3 d7d5 c4d5 g8f6 d2d4
+Bishop's Opening: Lewis Gambit	e2e4 e7e5 f1c4 f8c5 d2d4
+Bishop's Opening: Lisitsyn Variation	e2e4 e7e5 f1c4 c7c6 d2d4 d7d5 e4d5 c6d5 c4b5 c8d7 b5d7 b8d7 d4e5 d7e5 g1e2
+Bishop's Opening: Lopez Gambit	e2e4 e7e5 f1c4 f8c5 d1e2 b8c6 c2c3 g8f6 f2f4
+Bishop's Opening: Lopez Variation	e2e4 e7e5 f1c4 f8c5 d1e2
+Bishop's Opening: Lopez Variation, Lopez Gambit	e2e4 e7e5 f1c4 f8c5 d1e2 g8f6 f2f4
+Bishop's Opening: McDonnell Gambit	e2e4 e7e5 f1c4 f8c5 b2b4
+Bishop's Opening: McDonnell Gambit, La Bourdonnais-Denker Gambit	e2e4 e7e5 f1c4 f8c5 b2b4 c5b4 c2c3
+Bishop's Opening: McDonnell Gambit, McDonnell Double Gambit	e2e4 e7e5 f1c4 f8c5 b2b4 c5b4 f2f4
+Bishop's Opening: Philidor Counterattack	e2e4 e7e5 f1c4 c7c6
+Bishop's Opening: Philidor Variation	e2e4 e7e5 f1c4 f8c5 c2c3
+Bishop's Opening: Pratt Variation	e2e4 e7e5 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 e4e5 d7d5 e5f6 d5c4 d1h5 e8g8
+Bishop's Opening: Stein Gambit	e2e4 e7e5 f1c4 f8c5 f2f4
+Bishop's Opening: Thorold Gambit	e2e4 e7e5 f1c4 b7b5 c4b5 f7f5
+Bishop's Opening: del Rio Variation	e2e4 e7e5 f1c4 f8c5 c2c3 d8g5
+Bishop's Opening: Berlin Defense	e2e4 e7e5 f1c4 g8f6
+Bishop's Opening: Berlin Defense, Greco Gambit	e2e4 e7e5 f1c4 g8f6 f2f4
+Bishop's Opening: Kitchener Folly	e2e4 e7e5 f1c4 g8f6 d2d3 f8e7 g1f3 e8g8
+Bishop's Opening: Krejcik Gambit	e2e4 e7e5 f1c4 g8f6 f2f3 f8c5 g1e2 b8c6 b2b4
+Bishop's Opening: Pachman Gambit	e2e4 e7e5 f1c4 g8f6 g1e2 f6e4 e2c3
+Bishop's Opening: Ponziani Gambit	e2e4 e7e5 f1c4 g8f6 d2d4
+Bishop's Opening: Urusov Gambit, Panov Variation	e2e4 e7e5 f1c4 g8f6 d2d4 e5d4 g1f3 d7d5 e4d5 f8b4 c2c3 d8e7
+Bishop's Opening: Vienna Hybrid	e2e4 e7e5 f1c4 g8f6 d2d3 b8c6 b1c3
+Bishop's Opening: Warsaw Gambit	e2e4 e7e5 f1c4 g8f6 d2d4 e5d4 c2c3
+Vienna Gambit, with Max Lange Defense	e2e4 e7e5 b1c3 b8c6 f2f4
+Vienna Gambit, with Max Lange Defense: Cunningham Defense	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 g1f3 f8e7
+Vienna Gambit, with Max Lange Defense: Hamppe-Allgaier Gambit	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3g5
+Vienna Gambit, with Max Lange Defense: Hamppe-Allgaier Gambit, Alapin Variation	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3g5 d7d6
+Vienna Gambit, with Max Lange Defense: Hamppe-Allgaier Gambit, Thorold Variation	e2e4 e7e5 f2f4 e5f4 g1f3 b8c6 b1c3 g7g5 h2h4 g5g4 f3g5 h7h6 g5f7 e8f7 d2d4
+Vienna Gambit, with Max Lange Defense: Hamppe-Muzio Gambit	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1 g4f3
+Vienna Gambit, with Max Lange Defense: Knight Variation	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 g1f3
+Vienna Gambit, with Max Lange Defense: Pierce Gambit	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 g1f3 g7g5 d2d4
+Vienna Gambit, with Max Lange Defense: Quelle Gambit	e2e4 e7e5 b1c3 b8c6 f2f4 f8c5 f4e5 d7d6
+Vienna Gambit, with Max Lange Defense: Steinitz Gambit	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 d2d4
+Vienna Gambit, with Max Lange Defense: Steinitz Gambit, Fraser-Minckwitz Defense	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 d2d4 d8h4 e1e2 b7b6
+Vienna Gambit, with Max Lange Defense: Steinitz Gambit, Main Line	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 d2d4 d8h4 e1e2
+Vienna Gambit, with Max Lange Defense: Steinitz Gambit, Paulsen Defense	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 d2d4 d8h4 e1e2 d7d6
+Vienna Gambit, with Max Lange Defense: Steinitz Gambit, Sörensen Defense	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 d2d4 d8h4 e1e2 g7g5
+Vienna Gambit, with Max Lange Defense: Steinitz Gambit, Zukertort Defense	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 d2d4 d8h4 e1e2 d7d5
+Vienna Game	e2e4 e7e5 b1c3
+Vienna Game: Anderssen Defense	e2e4 e7e5 b1c3 f8c5
+Vienna Game: Fyfe Gambit	e2e4 e7e5 b1c3 b8c6 d2d4
+Vienna Game: Giraffe Attack	e2e4 e7e5 b1c3 f8c5 d1g4
+Vienna Game: Hamppe-Meitner Variation	e2e4 e7e5 b1c3 f8c5 c3a4
+Vienna Game: Hamppe-Muzio Gambit	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1
+Vienna Game: Hamppe-Muzio, Dubois Variation	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1 g4f3 d1f3 c6e5 f3f4 d8f6
+Vienna Game: Max Lange Defense	e2e4 e7e5 b1c3 b8c6
+Vienna Game: Omaha Gambit	e2e4 e7e5 b1c3 d7d6 f2f4
+Vienna Game: Paulsen Variation	e2e4 e7e5 b1c3 b8c6 g2g3
+Vienna Game: Paulsen Variation	e2e4 e7e5 b1c3 b8c6 g2g3 g8f6 f1g2 f8c5 g1e2 d7d5
+Vienna Game: Paulsen Variation, Mariotti Gambit	e2e4 e7e5 b1c3 b8c6 g2g3 f8c5 f1g2 h7h5 g1f3 h5h4
+Vienna Game: Philidor Countergambit	e2e4 e7e5 b1c3 b8c6 d2d4 f7f5
+Vienna Game: Pierce Gambit, Rushmere Attack	e2e4 e7e5 b1c3 b8c6 f2f4 e5f4 g1f3 g7g5 d2d4 g5g4 f1c4 g4f3 e1g1 d7d5 e4d5 c8g4 d5c6
+Vienna Game: Stanley Variation, Meitner-Mieses Gambit	e2e4 e7e5 b1c3 b8c6 f1c4 f8c5 d1g4 d8f6 c3d5
+Vienna Game: Zhuravlev Countergambit	e2e4 e7e5 b1c3 f8b4 d1g4 g8f6
+Bishop's Opening: Horwitz Gambit	e2e4 e7e5 f1c4 g8f6 b1c3 b7b5
+Bishop's Opening: Vienna Hybrid, Spielmann Attack	e2e4 e7e5 b1c3 g8f6 f1c4 f8c5 d2d3
+Vienna Game: Falkbeer Variation	e2e4 e7e5 b1c3 g8f6
+Vienna Game: Mengarini Variation	e2e4 e7e5 b1c3 g8f6 a2a3
+Vienna Game: Mieses Variation	e2e4 e7e5 b1c3 g8f6 g2g3
+Vienna Game: Mieses Variation, Erben Gambit	e2e4 e7e5 b1c3 g8f6 g2g3 d7d5 e4d5 c7c6
+Vienna Game: Paulsen Variation, Pollock Gambit	e2e4 e7e5 b1c3 g8f6 g2g3 f8c5 f1g2 b8c6 g1e2 d7d5 e4d5
+Vienna Game: Stanley Variation	e2e4 e7e5 b1c3 g8f6 f1c4
+Vienna Game: Stanley Variation, Eifel Gambit	e2e4 e7e5 b1c3 g8f6 f1c4 f8c5 g1e2 b7b5
+Vienna Game: Stanley Variation, Reversed Spanish	e2e4 e7e5 b1c3 g8f6 f1c4 f8b4
+Bishop's Opening: Boden-Kieseritzky Gambit	e2e4 e7e5 g1f3 g8f6 f1c4 f6e4 b1c3
+Bishop's Opening: Boden-Kieseritzky Gambit, Lichtenhein Defense	e2e4 e7e5 g1f3 g8f6 f1c4 f6e4 b1c3 d7d5
+Vienna Game: Adams' Gambit	e2e4 e7e5 b1c3 g8f6 f1c4 f6e4 d1h5 e4d6 c4b3 b8c6 d2d4
+Vienna Game: Frankenstein-Dracula Variation	e2e4 e7e5 b1c3 g8f6 f1c4 f6e4
+Vienna Game: Stanley Variation, Alekhine Variation	e2e4 e7e5 b1c3 g8f6 f1c4 f6e4 d1h5 e4d6 c4b3 f8e7 g1f3 b8c6 f3e5
+Vienna Game: Stanley Variation, Frankenstein-Dracula Variation	e2e4 e7e5 b1c3 g8f6 f1c4 f6e4 d1h5 e4d6 c4b3 b8c6 c3b5 g7g6 h5f3 f7f5 f3d5 d8e7 b5c7 e8d8 c7a8 b7b6
+Vienna Game: Stanley Variation, Monster Declined	e2e4 e7e5 b1c3 g8f6 f1c4 f6e4 d1h5 e4d6 c4b3 f8e7
+Bishop's Opening: Vienna Hybrid, Hromádka Variation	e2e4 e7e5 b1c3 b8c6 f1c4 g8f6 d2d3 f8b4 g1e2
+Vienna Game: Stanley Variation, Bronstein Gambit	e2e4 e7e5 b1c3 b8c6 f1c4 g8f6 f2f4 f6e4 g1f3
+Vienna Game: Stanley Variation, Three Knights Variation	e2e4 e7e5 b1c3 b8c6 f1c4 g8f6
+Vienna Game: Heyde Variation	e2e4 e7e5 b1c3 g8f6 f2f4 d7d5 f4e5 f6e4 d1f3 f7f5 d2d4
+Vienna Game: Vienna Gambit	e2e4 e7e5 b1c3 g8f6 f2f4
+Vienna Game: Vienna Gambit, Bardeleben Variation	e2e4 e7e5 b1c3 g8f6 f2f4 d7d5 f4e5 f6e4 d1f3 f7f5
+Vienna Game: Vienna Gambit, Breyer Variation	e2e4 e7e5 b1c3 g8f6 f2f4 d7d5 f4e5 f6e4 g1f3 f8e7
+Vienna Game: Vienna Gambit, Kaufmann Variation	e2e4 e7e5 b1c3 g8f6 f2f4 d7d5 f4e5 f6e4 g1f3 c8g4 d1e2
+Vienna Game: Vienna Gambit, Main Line	e2e4 e7e5 b1c3 g8f6 f2f4 d7d5
+Vienna Game: Vienna Gambit, Modern Variation	e2e4 e7e5 b1c3 g8f6 f2f4 d7d5 f4e5 f6e4 d2d3
+Vienna Game: Vienna Gambit, Paulsen Attack	e2e4 e7e5 b1c3 g8f6 f2f4 d7d5 f4e5 f6e4 d1f3
+Vienna Game: Vienna Gambit, Steinitz Variation	e2e4 e7e5 b1c3 g8f6 f2f4 d7d5 d2d3
+Vienna Game: Vienna Gambit, Wurzburger Trap	e2e4 e7e5 b1c3 g8f6 f2f4 d7d5 f4e5 f6e4 d2d3 d8h4 g2g3 e4g3 g1f3 h4h5 c3d5
+King's Gambit	e2e4 e7e5 f2f4
+King's Gambit Declined: Classical Variation	e2e4 e7e5 f2f4 f8c5
+King's Gambit Declined: Classical Variation	e2e4 e7e5 f2f4 f8c5 g1f3 d7d6 c2c3
+King's Gambit Declined: Classical Variation, Euwe Attack	e2e4 e7e5 f2f4 f8c5 g1f3 d7d6 c2c3 c8g4 f4e5 d6e5 d1a4
+King's Gambit Declined: Classical Variation, Rotlewi Countergambit	e2e4 e7e5 f2f4 f8c5 g1f3 d7d6 b2b4
+King's Gambit Declined: Classical Variation, Rubinstein Countergambit	e2e4 e7e5 f2f4 f8c5 g1f3 d7d6 c2c3 f7f5
+King's Gambit Declined: Classical, Hanham Variation	e2e4 e7e5 f2f4 f8c5 g1f3 d7d6 b1c3 b8d7
+King's Gambit Declined: Classical, Réti Variation	e2e4 e7e5 f2f4 f8c5 g1f3 d7d6 c2c3 f7f5 f4e5 d6e5 d2d4 e5d4 f1c4
+King's Gambit Declined: Classical, Soldatenkov Variation	e2e4 e7e5 f2f4 f8c5 g1f3 d7d6 f4e5
+King's Gambit Declined: Classical, Svenonius Variation	e2e4 e7e5 f1c4 b8c6 b1c3 g8f6 d2d3 f8c5 f2f4 d7d6 g1f3 c8g4 h2h3 g4f3 d1f3 e5f4
+King's Gambit Declined: Hobbs-Zilbermints Gambit	e2e4 e7e5 f2f4 b8c6 g1f3 g7g5 f4g5 h7h6
+King's Gambit Declined: Keene Defense	e2e4 e7e5 f2f4 d8h4 g2g3 h4e7
+King's Gambit Declined: Keene's Defense	e2e4 e7e5 f2f4 d8h4
+King's Gambit Declined: Keene's Defense	e2e4 e7e5 f2f4 d8h4 g2g3
+King's Gambit Declined: Mafia Defense	e2e4 c7c5 f2f4 e7e5
+King's Gambit Declined: Miles Defense	e2e4 e7e5 f2f4 b8c6 g1f3 f7f5
+King's Gambit Declined: Norwalde Variation	e2e4 e7e5 f2f4 d8f6
+King's Gambit Declined: Norwalde Variation, Bücker Gambit	e2e4 e7e5 f2f4 d8f6 b1c3 f6f4 g1f3 f8b4 f1c4
+King's Gambit Declined: Norwalde Variation, Schubert Variation	e2e4 e7e5 f2f4 d8f6 b1c3 f6f4 d2d4
+King's Gambit Declined: Panteldakis Countergambit	e2e4 e7e5 f2f4 f7f5
+King's Gambit Declined: Panteldakis Countergambit, Greco Variation	e2e4 e7e5 f2f4 f7f5 e4f5 d8h4
+King's Gambit Declined: Panteldakis Countergambit, Pawn Sacrifice Line	e2e4 e7e5 f2f4 f7f5 e4f5 e5f4 d1h5 g7g6 f5g6 d8e7 e1d1
+King's Gambit Declined: Panteldakis Countergambit, Schiller's Defense	e2e4 e7e5 f2f4 f7f5 e4f5 f8c5
+King's Gambit Declined: Panteldakis Countergambit, Shirazi Line	e2e4 e7e5 f2f4 f7f5 e4f5 e5f4 d1h5 e8e7
+King's Gambit Declined: Panteldakis Countergambit, Symmetrical Variation	e2e4 e7e5 f2f4 f7f5 e4f5 e5f4 g1f3 d7d5 d2d4 f8d6 f1d3
+King's Gambit Declined: Petrov's Defense	e2e4 e7e5 f2f4 g8f6
+King's Gambit Declined: Queen's Knight Defense	e2e4 e7e5 f2f4 b8c6
+King's Gambit Declined: Senechaud Countergambit	e2e4 e7e5 f2f4 f8c5 g1f3 g7g5
+King's Gambit Declined: Soller-Zilbermints Gambit	e2e4 e7e5 f2f4 f7f6 f4e5 b8c6
+King's Gambit Declined: Zilbermints Double Countergambit	e2e4 e7e5 f2f4 g7g5
+King's Gambit Declined: Zilbermints Double Gambit	e2e4 e7e5 f2f4 b8c6 g1f3 g7g5
+King's Gambit Declined: Falkbeer Countergambit	e2e4 e7e5 f2f4 d7d5
+King's Gambit Declined: Falkbeer Countergambit Accepted	e2e4 e7e5 f2f4 d7d5 e4d5
+King's Gambit Declined: Falkbeer Countergambit, Anderssen Attack	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4 f1b5
+King's Gambit Declined: Falkbeer Countergambit, Blackburne Attack	e2e4 e7e5 f2f4 d7d5 g1f3
+King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4 d2d3
+King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit, Morphy Defense	e2e4 e7e5 b1c3 g8f6 f2f4 d7d5 e4d5 e5e4 d2d3 f8b4 c1d2 e4e3
+King's Gambit Declined: Falkbeer Countergambit, Hinrichsen Gambit	e2e4 e7e5 f2f4 d7d5 d2d4
+King's Gambit Declined: Falkbeer Countergambit, Miles Gambit	e2e4 e7e5 f2f4 d7d5 e4d5 f8c5
+King's Gambit Declined: Falkbeer Countergambit, Milner-Barry Variation	e2e4 e7e5 f2f4 d7d5 b1c3
+King's Gambit Declined: Falkbeer Countergambit, Modern Transfer	e2e4 e7e5 f2f4 d7d5 e4d5 e5f4
+King's Gambit Declined: Falkbeer Countergambit, Nimzowitsch-Marshall Countergambit	e2e4 e7e5 f2f4 d7d5 e4d5 c7c6
+King's Gambit Declined: Falkbeer Countergambit, Pickler Gambit	e2e4 e7e5 f2f4 d7d5 e4d5 c7c6 d5c6 f8c5
+King's Gambit Declined: Falkbeer Countergambit, Rubinstein Variation	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4 b1c3 g8f6 d1e2
+King's Gambit Declined: Falkbeer Countergambit, Staunton Line	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4
+Van Geet Opening: Grünfeld Defense, Steiner Gambit	e2e4 e7e5 f2f4 d7d5 b1c3 d5e4 c3e4
+King's Gambit Declined: Falkbeer Countergambit, Alapin Variation	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4 d2d3 g8f6 d3e4 f6e4 g1f3 f8c5 d1e2 c5f2 e1d1 d8d5 f3d2
+King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4 d2d3 g8f6 d3e4 f6e4 d1e2
+King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit Accepted	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4 d2d3 g8f6 d3e4
+King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit, Keres Variation	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4 d2d3 g8f6 b1d2
+King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit, Main Line	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4 d2d3 g8f6 d3e4 f6e4 g1f3 f8c5 d1e2 c8f5
+King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit, Old Line	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4 d2d3 g8f6 d1e2
+King's Gambit Declined: Falkbeer Countergambit, Charousek Variation	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4 d2d3 g8f6 d3e4 f6e4 d1e2 d8d5 b1d2 f7f5 g2g4
+King's Gambit Declined: Falkbeer Countergambit, Tarrasch Variation	e2e4 e7e5 f2f4 d7d5 e4d5 e5e4 d2d3 g8f6 d3e4 f6e4 g1f3 f8c5 d1e2 c8f5 g2g4 e8g8
+King's Gambit Accepted	e2e4 e7e5 f2f4 e5f4
+King's Gambit Accepted: Basman Gambit	e2e4 e7e5 f2f4 e5f4 d1e2
+King's Gambit Accepted: Bishop's Gambit	e2e4 e7e5 f2f4 e5f4 f1c4
+King's Gambit Accepted: Bishop's Gambit, Anderssen Defense	e2e4 e7e5 f2f4 e5f4 f1c4 g7g5
+King's Gambit Accepted: Bishop's Gambit, Anderssen Variation	e2e4 e7e5 f2f4 e5f4 f1c4 d7d5 c4d5 c7c6
+King's Gambit Accepted: Bishop's Gambit, Bledow Countergambit	e2e4 e7e5 f2f4 e5f4 f1c4 d7d5 c4d5 g8f6
+King's Gambit Accepted: Bishop's Gambit, Bledow Variation	e2e4 e7e5 f2f4 e5f4 f1c4 d7d5
+King's Gambit Accepted: Bishop's Gambit, Boden Variation	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 b8c6
+King's Gambit Accepted: Bishop's Gambit, Bogoljubov Defense	e2e4 e7e5 f2f4 e5f4 f1c4 g8f6 b1c3 c7c6
+King's Gambit Accepted: Bishop's Gambit, Bogoljubov Variation	e2e4 e7e5 f2f4 e5f4 f1c4 g8f6 b1c3
+King's Gambit Accepted: Bishop's Gambit, Boren-Svenonius Variation	e2e4 e7e5 f2f4 e5f4 f1c4 d7d5 c4d5 d8h4 e1f1 f8d6
+King's Gambit Accepted: Bishop's Gambit, Bryan Countergambit	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 b7b5
+King's Gambit Accepted: Bishop's Gambit, Chigorin's Attack	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 d7d5 c4d5 g7g5 g2g3
+King's Gambit Accepted: Bishop's Gambit, Classical Defense	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 g8e7 b1c3 g7g5 d2d4 f8g7
+King's Gambit Accepted: Bishop's Gambit, Classical Defense, Cozio Attack	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 g7g5 d1f3
+King's Gambit Accepted: Bishop's Gambit, Cozio Defense	e2e4 e7e5 f2f4 e5f4 f1c4 g8f6
+King's Gambit Accepted: Bishop's Gambit, Cozio Variation	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 d7d6
+King's Gambit Accepted: Bishop's Gambit, First Jaenisch Variation	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 g8f6
+King's Gambit Accepted: Bishop's Gambit, Fraser Variation	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 g7g5 b1c3 f8g7 g2g3 f4g3 d1f3
+King's Gambit Accepted: Bishop's Gambit, Gianutio Gambit	e2e4 e7e5 f2f4 e5f4 f1c4 f7f5
+King's Gambit Accepted: Bishop's Gambit, Greco Variation	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 f8c5
+King's Gambit Accepted: Bishop's Gambit, Grimm Attack	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 g7g5 b1c3 f8g7 d2d4 d7d6 e4e5
+King's Gambit Accepted: Bishop's Gambit, Kieseritzky Gambit	e2e4 e7e5 f2f4 e5f4 f1c4 b7b5
+King's Gambit Accepted: Bishop's Gambit, Lopez Defense	e2e4 e7e5 f2f4 e5f4 f1c4 c7c6
+King's Gambit Accepted: Bishop's Gambit, Lopez Variation	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 g7g5
+King's Gambit Accepted: Bishop's Gambit, Maurian Defense	e2e4 e7e5 f2f4 e5f4 f1c4 b8c6
+King's Gambit Accepted: Bishop's Gambit, McDonnell Attack	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 g7g5 b1c3 f8g7 d2d4 g8e7 g2g3
+King's Gambit Accepted: Bishop's Gambit, McDonnell Attack	e2e4 e7e5 f2f4 e5f4 f1c4 d8h4 e1f1 g7g5 b1c3 f8g7 g2g3
+King's Gambit Accepted: Bishop's Gambit, Paulsen Attack	e2e4 e7e5 f2f4 e5f4 f1c4 g8f6 b1c3 f8b4 e4e5
+King's Gambit Accepted: Bishop's Gambit, Steinitz Defense	e2e4 e7e5 f2f4 e5f4 f1c4 g8e7
+King's Gambit Accepted: Breyer Gambit	e2e4 e7e5 f2f4 e5f4 d1f3
+King's Gambit Accepted: Carrera Gambit	e2e4 e7e5 f2f4 e5f4 d1h5
+King's Gambit Accepted: Dodo Variation	e2e4 e7e5 f2f4 e5f4 d1g4
+King's Gambit Accepted: Eisenberg Variation	e2e4 e7e5 f2f4 e5f4 g1h3
+King's Gambit Accepted: Gaga Gambit	e2e4 e7e5 f2f4 e5f4 g2g3
+King's Gambit Accepted: Lopez-Gianutio Countergambit, Hein Variation	e2e4 e7e5 f2f4 e5f4 f1c4 f7f5 d1e2 d8h4 e1d1 f5e4 b1c3 e8d8
+King's Gambit Accepted: Mason-Keres Gambit	e2e4 e7e5 f2f4 e5f4 b1c3
+King's Gambit Accepted: Orsini Gambit	e2e4 e7e5 f2f4 e5f4 b2b3
+King's Gambit Accepted: Paris Gambit	e2e4 e7e5 f2f4 e5f4 g1e2
+King's Gambit Accepted: Polerio Gambit	e2e4 e7e5 f2f4 e5f4 d2d4
+King's Gambit Accepted: Schurig Gambit, with Bb5	e2e4 e7e5 f2f4 e5f4 f1b5
+King's Gambit Accepted: Schurig Gambit, with Bd3	e2e4 e7e5 f2f4 e5f4 f1d3
+King's Gambit Accepted: Stamma Gambit	e2e4 e7e5 f2f4 e5f4 h2h4
+King's Gambit Accepted: Tartakower Gambit	e2e4 e7e5 f2f4 e5f4 f1e2
+King's Gambit Accepted: Tartakower Gambit, Weiss Defense	e2e4 e7e5 f2f4 e5f4 f1e2 f7f5 e4f5 d7d6
+King's Gambit Accepted: Tumbleweed	e2e4 e7e5 f2f4 e5f4 e1f2
+King's Gambit Accepted: Becker Defense	e2e4 e7e5 f2f4 e5f4 g1f3 h7h6
+King's Gambit Accepted: Bonsch-Osmolovsky Variation	e2e4 e7e5 f2f4 e5f4 g1f3 g8e7
+King's Gambit Accepted: Fischer Defense	e2e4 e7e5 f2f4 e5f4 g1f3 d7d6
+King's Gambit Accepted: Fischer Defense, Schulder Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 d7d6 b2b4
+King's Gambit Accepted: Fischer Defense, Spanish Variation	e2e4 e7e5 f2f4 e5f4 g1f3 d7d6 d2d4 g8f6 f1d3
+King's Gambit Accepted: Gianutio Countergambit	e2e4 e7e5 f2f4 e5f4 g1f3 f7f5
+King's Gambit Accepted: Greco Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 d7d6 f1c4 h7h6 d2d4 g7g5 h2h4 f8g7
+King's Gambit Accepted: King's Knight's Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5
+King's Gambit Accepted: King's Knight's Gambit	e2e4 e7e5 f2f4 e5f4 g1f3
+King's Gambit Accepted: MacLeod Defense	e2e4 e7e5 f2f4 e5f4 g1f3 b8c6
+King's Gambit Accepted: Schallopp Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g8f6
+King's Gambit Accepted: Schallopp Defense, Tashkent Attack	e2e4 e7e5 f2f4 e5f4 g1f3 g8f6 e4e5 f6h5 g2g4
+King's Gambit Accepted: Wagenbach Defense	e2e4 e7e5 f2f4 e5f4 g1f3 h7h5
+King's Gambit Accepted: Cunningham Defense	e2e4 e7e5 f2f4 e5f4 g1f3 f8e7
+King's Gambit Accepted: Cunningham Defense, Bertin Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 f8e7 f1c4 e7h4 g2g3
+King's Gambit Accepted: Cunningham Defense, Bertin Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 f8e7 f1c4 e7h4 g2g3 f4g3 e1g1 g3h2 g1h1
+King's Gambit Accepted: Cunningham Defense, McCormick Defense	e2e4 e7e5 f2f4 e5f4 g1f3 f8e7 f1c4 g8f6
+King's Gambit Accepted: Abbazia Defense	e2e4 e7e5 f2f4 e5f4 g1f3 d7d5 e4d5 g8f6
+King's Gambit Accepted: Abbazia Defense, Main Line	e2e4 e7e5 f2f4 e5f4 g1f3 d7d5 e4d5 g8f6 f1b5 c7c6 d5c6 b7c6 b5c4 f6d5
+King's Gambit Accepted: Modern Defense	e2e4 e7e5 f2f4 e5f4 g1f3 d7d5
+King's Gambit Accepted: Modern Defense	e2e4 e7e5 f2f4 e5f4 g1f3 d7d5 e4d5
+King's Gambit Accepted: Australian Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 h2h4
+King's Gambit Accepted: Blachly Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 b8c6 f1c4 g7g5
+King's Gambit Accepted: Double Muzio Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1 g4f3 d1f3 d8f6 e4e5 f6e5 c4f7
+King's Gambit Accepted: Double Muzio Gambit, Baldwin Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1 g4f3 d1f3 d8f6 b1c3 f6d4 g1h1 d4c4 c3d5
+King's Gambit Accepted: Double Muzio Gambit, Bello Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1 g4f3 d1f3 d8f6 b1c3
+King's Gambit Accepted: Double Muzio Gambit, Paulsen Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1 g4f3 d1f3 d8f6 e4e5 f6e5 d2d3 f8h6 b1c3 g8e7 c1d2 b8c6 a1e1
+King's Gambit Accepted: Double Muzio Gambit, Young Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1 g4f3 d1f3 d8f6 c4f7 e8f7 d2d4 f6d4 c1e3 d4f6 b1c3 f4e3
+King's Gambit Accepted: Ghulam-Kassim Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 d2d4
+King's Gambit Accepted: Ghulam-Kassim Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 d2d4 g4f3 d1f3
+King's Gambit Accepted: King's Knight's Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4
+King's Gambit Accepted: Kotov Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 d2d4 g4f3 c1f4
+King's Gambit Accepted: Lolli Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 c4f7
+King's Gambit Accepted: Lolli Gambit, Young Variation	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 c4f7 e8f7 e1g1 g4f3 d1f3 d8f6 d2d4 f6d4 c1e3 d4f6 b1c3
+King's Gambit Accepted: McDonnell Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 b1c3
+King's Gambit Accepted: Middleton Countergambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 d7d6 e1g1 c8g4 h2h3 h7h5 h3g4 h5g4
+King's Gambit Accepted: Muzio Gambit Accepted, From's Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1 g4f3 d1f3 d8e7
+King's Gambit Accepted: Muzio Gambit, Brentano Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1 d7d5
+King's Gambit Accepted: Muzio Gambit, Holloway Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1 g4f3 d1f3 b8c6
+King's Gambit Accepted: Muzio Gambit, Kling and Horwitz Counterattack	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1 d8e7
+King's Gambit Accepted: Muzio Gambit, Sarratt Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1 g4f3 d1f3 d8f6
+King's Gambit Accepted: Muzio Gambit, Wild Muzio Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 e1g1
+King's Gambit Accepted: Quade Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 b1c3
+King's Gambit Accepted: Rosentreter Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 d2d4
+King's Gambit Accepted: Rosentreter Gambit, Bird Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 d2d4 g5g4 f3e5 d8h4 g2g3
+King's Gambit Accepted: Rosentreter Gambit, Sörensen Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 d2d4 g5g4 b1c3
+King's Gambit Accepted: Rosentreter Gambit, Testa Variation	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 d2d4 g5g4 c1f4
+King's Gambit Accepted: Salvio Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 f3e5
+King's Gambit Accepted: Salvio Gambit, Anderssen Counterattack	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 f3e5 d8h4 e1f1 g8h6 d2d4 d7d6
+King's Gambit Accepted: Salvio Gambit, Cochrane Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 f3e5 d8h4 e1f1 f4f3
+King's Gambit Accepted: Salvio Gambit, Santa Maria Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 f3e5 d8h4 e1f1 g8f6
+King's Gambit Accepted: Salvio Gambit, Silberschmidt Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 f3e5 d8h4 e1f1 g8h6
+King's Gambit Accepted: Salvio Gambit, Viennese Variation	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 f3e5 d8h4 e1f1 b8c6
+King's Gambit Accepted: Silberschmidt Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 g5g4 f3e5 d8h4 e1f1 g8h6 d2d4 f4f3
+King's Gambit Accepted: Sörensen Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 d2d4 g5g4 f3e5
+King's Gambit Accepted: Greco Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 f8g7 h2h4 h7h6 d2d4 d7d6 b1c3 c7c6 h4g5 h6g5 h1h8 g7h8 f3e5
+King's Gambit Accepted: Hanstein Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 f8g7 e1g1
+King's Gambit Accepted: Mayet Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 f8g7 d2d4 d7d6 c2c3
+King's Gambit Accepted: Philidor Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 f8g7 h2h4
+King's Gambit Accepted: Philidor Gambit, Schultz Variation	e2e4 e7e5 f2f4 e5f4 g1f3 h7h6 f1c4 d7d6 d2d4 g7g5 h2h4 f8g7 d1d3
+King's Gambit Accepted: Traditional Variation	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 f1c4 f8g7
+King's Gambit Accepted: Allgaier Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3g5
+King's Gambit Accepted: Allgaier Gambit, Thorold Attack	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3g5 h7h6 g5f7 e8f7 d2d4
+King's Gambit Accepted: Allgaier Gambit, Urusov Attack	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3g5 h7h6 g5f7 e8f7 f1c4
+King's Gambit Accepted: Allgaier, Blackburne Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3g5 h7h6 g5f7 e8f7 b1c3
+King's Gambit Accepted: Allgaier, Cook Variation	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3g5 h7h6 g5f7 e8f7 d2d4 d7d5 c1f4 d5e4 f1c4 f7g7 f4e5
+King's Gambit Accepted: Allgaier, Horny Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3g5 h7h6 g5f7 e8f7 d1g4 g8f6 g4f4 f8d6
+King's Gambit Accepted: Allgaier, Schlechter Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3g5 g8f6
+King's Gambit Accepted: Allgaier, Urusov Attack	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3g5 h7h6 g5f7 e8f7 f1c4 d7d5 c4d5 f7g7 d2d4
+King's Gambit Accepted: Kieseritzky Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5
+King's Gambit Accepted: Kieseritzky Gambit, Anderssen Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 g8f6 f1c4 d7d5 e4d5 f8d6
+King's Gambit Accepted: Kieseritzky Gambit, Anderssen-Cordel Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 g8f6 f1c4 d7d5 e4d5 f8d6 d2d4 f6h5 c1f4 h5f4
+King's Gambit Accepted: Kieseritzky Gambit, Berlin Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 g8f6
+King's Gambit Accepted: Kieseritzky Gambit, Berlin Defense, Rubinstein Variation	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 g8f6 d2d4
+King's Gambit Accepted: Kieseritzky Gambit, Berlin Defense, de Riviere Variation	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 g8f6 e5g4 d7d5
+King's Gambit Accepted: Kieseritzky Gambit, Brentano Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 d7d5
+King's Gambit Accepted: Kieseritzky Gambit, Brentano Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 d7d5 d2d4 g8f6 c1f4
+King's Gambit Accepted: Kieseritzky Gambit, Brentano Defense, Caro Variation	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 d7d5 d2d4 g8f6 c1f4 f6e4 b1d2
+King's Gambit Accepted: Kieseritzky Gambit, Cotter Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3g5 h7h6 g5f7
+King's Gambit Accepted: Kieseritzky Gambit, Kolisch Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 d7d6
+King's Gambit Accepted: Kieseritzky Gambit, Long Whip	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 h7h5
+King's Gambit Accepted: Kieseritzky Gambit, Neumann Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 b8c6
+King's Gambit Accepted: Kieseritzky Gambit, Paulsen Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 f8g7
+King's Gambit Accepted: Kieseritzky Gambit, Paulsen Defense Deferred	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 g8f6 f1c4 d7d5 e4d5 f8g7
+King's Gambit Accepted: Kieseritzky Gambit, Rice Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 g8f6 f1c4 d7d5 e4d5 f8d6 e1g1 d6e5
+King's Gambit Accepted: Kieseritzky Gambit, Rosenthal Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 d8e7
+King's Gambit Accepted: Kieseritzky, Long Whip Defense, Jaenisch Variation	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 h7h5 f1c4 h8h7 d2d4 f8h6 b1c3
+King's Gambit Accepted: Kieseritzky, Polerio Defense	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 f8e7
+King's Gambit Accepted: Kieseritzky, Rice Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 g8f6 f1c4 d7d5 e4d5 f8d6 e1g1
+King's Gambit Accepted: Kieseritzky, Salvio Defense, Cozio Variation	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4 g5g4 f3e5 d8e7 d2d4 f7f5 f1c4
+King's Gambit Accepted: King's Knight's Gambit	e2e4 e7e5 f2f4 e5f4 g1f3 g7g5 h2h4
+Elephant Gambit	e2e4 e7e5 g1f3 d7d5
+Elephant Gambit: Maróczy Gambit	e2e4 e7e5 g1f3 d7d5 e4d5 f8d6
+Elephant Gambit: Paulsen Countergambit	e2e4 e7e5 g1f3 d7d5 e4d5 e5e4
+Elephant Gambit: Wasp Variation	e2e4 e7e5 g1f3 d7d5 f3e5 d5e4 f1c4 d8g5
+Gunderam Defense	e2e4 e7e5 g1f3 d8e7
+King's Knight Opening	e2e4 e7e5 g1f3
+King's Pawn Game: Busch-Gass Gambit	e2e4 e7e5 g1f3 f8c5
+King's Pawn Game: Busch-Gass Gambit, Chiodini Gambit	e2e4 e7e5 g1f3 f8c5 f3e5 b8c6
+King's Pawn Game: Damiano Defense	e2e4 e7e5 g1f3 f7f6
+King's Pawn Game: Damiano Defense, Damiano Gambit	e2e4 e7e5 g1f3 f7f6 f3e5 f6e5 d1h5 g7g6 h5e5 d8e7 e5h8
+King's Pawn Game: Damiano Defense, Damiano Gambit, Chigorin Gambit	e2e4 e7e5 g1f3 f7f6 f3e5 d8e7 e5f3 d7d5
+King's Pawn Game: Gunderam Defense, Gunderam Gambit	e2e4 e7e5 g1f3 d8e7 f1c4 f7f5
+King's Pawn Game: Gunderam Gambit	e2e4 e7e5 g1f3 c7c6
+King's Pawn Game: La Bourdonnais Gambit	e2e4 e7e5 g1f3 d8f6 f1c4 f6g6 e1g1
+King's Pawn Game: McConnell Defense	e2e4 e7e5 g1f3 d8f6
+Latvian Gambit	e2e4 e7e5 g1f3 f7f5
+Latvian Gambit Accepted	e2e4 e7e5 g1f3 f7f5 e4f5
+Latvian Gambit Accepted: Bilguer Variation	e2e4 e7e5 g1f3 f7f5 f3e5 d8f6 d2d4 d7d6 e5c4
+Latvian Gambit Accepted: Bronstein Attack	e2e4 e7e5 g1f3 f7f5 f3e5 d8f6 d2d4 d7d6 e5c4 f5e4 f1e2
+Latvian Gambit Accepted: Bronstein Gambit	e2e4 e7e5 g1f3 f7f5 f3e5 d8f6 d2d4 d7d6 e5c4 f5e4 d1h5 g7g6 h5e2
+Latvian Gambit Accepted: Foltys Variation	e2e4 e7e5 g1f3 f7f5 f3e5 d8f6 e5c4 f5e4 d2d3
+Latvian Gambit Accepted: Foltys-Leonhardt Variation	e2e4 e7e5 g1f3 f7f5 f3e5 d8f6 e5c4
+Latvian Gambit Accepted: Leonhardt Variation	e2e4 e7e5 g1f3 f7f5 f3e5 d8f6 e5c4 f5e4 b1c3
+Latvian Gambit Accepted: Main Line	e2e4 e7e5 g1f3 f7f5 f3e5 d8f6 d2d4
+Latvian Gambit Accepted: Nimzowitsch Attack	e2e4 e7e5 g1f3 f7f5 f3e5 d8f6 d2d4 d7d6 e5c4 f5e4 c4e3
+Latvian Gambit: Behting Variation	e2e4 e7e5 g1f3 f7f5 f1c4 f5e4 f3e5 d8g5 e5f7 g5g2 h1f1 d7d5 f7h8 g8f6
+Latvian Gambit: Corkscrew Countergambit	e2e4 e7e5 g1f3 f7f5 f1c4 f5e4 f3e5 g8f6
+Latvian Gambit: Corkscrew Gambit	e2e4 e7e5 g1f3 f7f5 f3e5 g8f6 f1c4 f5e4 e5f7 d8e7 f7h8 d7d5
+Latvian Gambit: Diepstraten Countergambit	e2e4 e7e5 g1f3 f7f5 c2c4
+Latvian Gambit: Fraser Defense	e2e4 e7e5 g1f3 f7f5 f3e5 b8c6
+Latvian Gambit: Greco Variation	e2e4 e7e5 g1f3 f7f5 f3e5 d8e7
+Latvian Gambit: Lobster Gambit	e2e4 e7e5 g1f3 f7f5 g2g4
+Latvian Gambit: Mason Countergambit	e2e4 e7e5 g1f3 f7f5 d2d4
+Latvian Gambit: Mayet Attack	e2e4 e7e5 g1f3 f7f5 f1c4
+Latvian Gambit: Mayet Attack, Morgado Defense	e2e4 e7e5 g1f3 f7f5 f1c4 g8f6
+Latvian Gambit: Mayet Attack, Poisoned Pawn Variation	e2e4 e7e5 g1f3 f7f5 f1c4 f5e4 f3e5 d8g5 d2d4 g5g2
+Latvian Gambit: Mayet Attack, Polerio-Svedenborg Variation	e2e4 e7e5 g1f3 f7f5 f1c4 f5e4 f3e5 d7d5
+Latvian Gambit: Mayet Attack, Strautins Gambit	e2e4 e7e5 g1f3 f7f5 f1c4 b7b5
+Latvian Gambit: Mlotkowski Variation	e2e4 e7e5 g1f3 f7f5 b1c3
+Latvian Gambit: Senechaud Gambit	e2e4 e7e5 g1f3 f7f5 b2b4
+Philidor Defense	e2e4 e7e5 g1f3 d7d6
+Philidor Defense	e2e4 e7e5 g1f3 d7d6 d2d4
+Philidor Defense	e2e4 e7e5 g1f3 d7d6 f1c4
+Philidor Defense	e2e4 e7e5 g1f3 d7d6 f1c4 f8e7
+Philidor Defense: Albin-Blackburne Gambit	e2e4 e7e5 g1f3 d7d6 d2d4 c8g4 d4e5 b8d7
+Philidor Defense: Berger Variation	e2e4 e7e5 g1f3 d7d6 d2d4 e5d4 f3d4 g8f6 b1c3 f8e7 f1e2 e8g8 e1g1 c7c5 d4f3 b8c6 c1g5 c8e6 f1e1
+Philidor Defense: Bird Gambit	e2e4 e7e5 g1f3 d7d6 d2d4 e5d4 c2c3
+Philidor Defense: Boden Variation	e2e4 e7e5 g1f3 d7d6 d2d4 e5d4 d1d4 c8d7
+Philidor Defense: Exchange Variation	e2e4 e7e5 g1f3 d7d6 d2d4 e5d4
+Philidor Defense: Exchange Variation	e2e4 e7e5 g1f3 d7d6 d2d4 e5d4 f3d4
+Philidor Defense: Exchange Variation	e2e4 e7e5 g1f3 d7d6 d2d4 e5d4 f3d4 g8f6
+Philidor Defense: Hanham Variation	e2e4 e7e5 g1f3 d7d6 d2d4 b8d7
+Philidor Defense: Hanham Variation, Delmar Variation	e2e4 e7e5 g1f3 d7d6 d2d4 b8d7 f1c4 c7c6 c2c3
+Philidor Defense: Hanham Variation, Krause Variation	e2e4 e7e5 g1f3 d7d6 d2d4 b8d7 f1c4 c7c6 e1g1
+Philidor Defense: Hanham Variation, Schlechter Variation	e2e4 e7e5 g1f3 d7d6 d2d4 b8d7 f1c4 c7c6 b1c3
+Philidor Defense: Hanham Variation, Sharp Variation	e2e4 e7e5 g1f3 d7d6 d2d4 b8d7 f1c4 d7b6
+Philidor Defense: Hanham Variation, Steiner Variation	e2e4 e7e5 g1f3 d7d6 d2d4 b8d7 f1c4 c7c6 e1g1 f8e7 d4e5
+Philidor Defense: Hanham, Kmoch Variation	e2e4 e7e5 g1f3 d7d6 d2d4 b8d7 f1c4 c7c6 f3g5
+Philidor Defense: Larsen Variation	e2e4 e7e5 g1f3 d7d6 d2d4 e5d4 f3d4 g7g6
+Philidor Defense: Lion Variation	e2e4 e7e5 g1f3 d7d6 d2d4 g8f6 b1c3 b8d7
+Philidor Defense: Lion Variation, Bishop Sacrifice	e2e4 e7e5 g1f3 d7d6 d2d4 g8f6 b1c3 b8d7 f1c4 f8e7 c4f7
+Philidor Defense: Lion Variation, Delayed Bishop Sacrifice	e2e4 d7d6 d2d4 g8f6 b1c3 b8d7 g1f3 e7e5 f1c4 f8e7 d4e5 d6e5 c4f7
+Philidor Defense: Lion Variation, Forcing Line	e2e4 e7e5 g1f3 d7d6 d2d4 g8f6 b1c3 b8d7 f1c4 f8e7 f3g5 e8g8 c4f7 f8f7 g5e6
+Philidor Defense: Lion Variation, Lion's Claw, with Bc4 and h6	e2e4 e7e5 g1f3 d7d6 d2d4 g8f6 b1c3 b8d7 f1c4 f8e7 e1g1 h7h6
+Philidor Defense: Lion Variation, Lion's Claw, with Be2 and c6	e2e4 e7e5 g1f3 d7d6 d2d4 g8f6 b1c3 b8d7 f1e2 f8e7 e1g1 c7c6
+Philidor Defense: Lion Variation, Shirov Gambit	e2e4 e7e5 g1f3 d7d6 d2d4 b8d7 b1c3 g8f6 g2g4
+Philidor Defense: Lion Variation, Sozin Variation	e2e4 d7d6 d2d4 g8f6 b1c3 e7e5 g1f3 b8d7 f1c4 f8e7 e1g1 e8g8 d1e2 c7c6 a2a4 e5d4
+Philidor Defense: Lopez Countergambit	e2e4 e7e5 g1f3 d7d6 f1c4 f7f5
+Philidor Defense: Lopez Countergambit, Jaenisch Variation	e2e4 e7e5 g1f3 d7d6 d2d4 f7f5 f1c4 e5d4 f3g5 g8h6 g5h7
+Philidor Defense: Morphy Gambit	e2e4 e7e5 g1f3 d7d6 d2d4 e5d4 f1c4
+Philidor Defense: Nimzowitsch Variation	e2e4 e7e5 g1f3 d7d6 d2d4 g8f6
+Philidor Defense: Nimzowitsch Variation	e2e4 e7e5 g1f3 d7d6 d2d4 g8f6 d4e5
+Philidor Defense: Nimzowitsch Variation, Klein Variation	e2e4 e7e5 g1f3 d7d6 d2d4 g8f6 f1c4
+Philidor Defense: Nimzowitsch Variation, Rellstab Variation	e2e4 e7e5 g1f3 d7d6 d2d4 g8f6 d4e5 f6e4 d1d5
+Philidor Defense: Nimzowitsch Variation, Sokolsky Variation	e2e4 e7e5 g1f3 d7d6 d2d4 g8f6 d4e5 f6e4 b1d2
+Philidor Defense: Nimzowitsch, Larobok Variation	e2e4 e7e5 g1f3 d7d6 d2d4 g8f6 b1c3 b8d7 f1c4 f8e7 f3g5 e8g8 c4f7
+Philidor Defense: Nimzowitsch, Locock Variation	e2e4 e7e5 g1f3 d7d6 d2d4 g8f6 f3g5
+Philidor Defense: Paulsen Attack	e2e4 e7e5 g1f3 d7d6 d2d4 e5d4 f3d4 d6d5 e4d5
+Philidor Defense: Philidor Countergambit	e2e4 e7e5 g1f3 d7d6 d2d4 f7f5
+Philidor Defense: Philidor Countergambit, Berger Variation	e2e4 e7e5 g1f3 d7d6 d2d4 f7f5 d4e5 f5e4 f3g5 d6d5 e5e6 f8c5 b1c3
+Philidor Defense: Philidor Countergambit, Zukertort Variation	e2e4 e7e5 g1f3 d7d6 d2d4 f7f5 b1c3
+Philidor Defense: Philidor Countergambit, del Rio Attack	e2e4 e7e5 g1f3 d7d6 d2d4 f7f5 d4e5 f5e4 f3g5 d6d5 e5e6
+Philidor Defense: Philidor Gambit	e2e4 e7e5 g1f3 d7d6 d2d4 c8d7
+Philidor Defense: Steinitz Variation	e2e4 e7e5 g1f3 d7d6 f1c4 f8e7 c2c3
+Russian Game	e2e4 e7e5 g1f3 g8f6
+Russian Game	e2e4 e7e5 g1f3 g8f6 f3e5
+Russian Game	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6
+Russian Game	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3
+Russian Game	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4
+Russian Game: Classical Attack	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4
+Russian Game: Classical Attack, Berger Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 f8e7 e1g1 b8c6 f1e1 c8g4 c2c3 f7f5 b1d2
+Russian Game: Classical Attack, Chigorin Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 f8e7 e1g1 b8c6 f1e1
+Russian Game: Classical Attack, Chigorin Variation, Browne Attack	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 b8c6 e1g1 f8e7 c2c4 c6b4 c4d5
+Russian Game: Classical Attack, Chigorin Variation, Main Line	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 b8c6 e1g1 f8e7 c2c4 c6b4 d3e2
+Russian Game: Classical Attack, Closed Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 e4f6
+Russian Game: Classical Attack, Jaenisch Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 b8c6 e1g1 f8e7 c2c4
+Russian Game: Classical Attack, Krause Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 b8c6 e1g1 f8e7 f1e1 c8g4 c2c3 f7f5 c3c4
+Russian Game: Classical Attack, Marshall Trap	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 f8d6 e1g1 e8g8 c2c4 c8g4 c4d5 f7f5 f1e1 d6h2
+Russian Game: Classical Attack, Marshall Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 f8d6
+Russian Game: Classical Attack, Marshall Variation, Chinese Gambit	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 f8d6 e1g1 e8g8 c2c4 c7c6 f1e1 c8g4
+Russian Game: Classical Attack, Maróczy Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 f8e7 e1g1 b8c6 f1e1 c8g4 c2c3 f7f5 c3c4 e7h4
+Russian Game: Classical Attack, Mason Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 f8e7 e1g1 e8g8
+Russian Game: Classical Attack, Mason-Showalter Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 b8c6
+Russian Game: Classical Attack, Staunton Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 f8d6 e1g1 e8g8 c2c4 c7c6
+Russian Game: Classical Attack, Tarrasch Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d4 d6d5 f1d3 f8d6 e1g1 e8g8 c2c4 c8g4
+Russian Game: Cochrane Gambit	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f7
+Russian Game: Cochrane Gambit, Bishop Check Line	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f7 e8f7 f1c4
+Russian Game: Cochrane Gambit, Center Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f7 e8f7 d2d4
+Russian Game: Cozio Attack	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d1e2
+Russian Game: Damiano Variation	e2e4 e7e5 g1f3 g8f6 f3e5 f6e4
+Russian Game: Damiano Variation, Kholmov Gambit	e2e4 e7e5 g1f3 g8f6 f3e5 f6e4 d1e2 d8e7
+Russian Game: French Attack	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 d2d3
+Russian Game: Italian Variation	e2e4 e7e5 g1f3 g8f6 f1c4
+Russian Game: Karklins-Martinovsky Variation	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5d3
+Russian Game: Kaufmann Attack	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 c2c4
+Russian Game: Millennium Attack	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 f1d3
+Russian Game: Moody Gambit	e2e4 e7e5 g1f3 g8f6 d1e2 b8c6 d2d4
+Russian Game: Nimzowitsch Attack	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5f3 f6e4 b1c3
+Russian Game: Paulsen Attack	e2e4 e7e5 g1f3 g8f6 f3e5 d7d6 e5c4
+Russian Game: Stafford Gambit	e2e4 e7e5 g1f3 g8f6 f3e5 b8c6
+Russian Game: Stafford Gambit	e2e4 e7e5 g1f3 g8f6 f3e5 b8c6 e5c6 d7c6
+Russian Game: Three Knights Game	e2e4 e7e5 g1f3 g8f6 b1c3
+Bishop's Opening: Urusov Gambit	e2e4 e7e5 f1c4 g8f6 d2d4 e5d4 g1f3
+Bishop's Opening: Urusov Gambit, Keidansky Gambit	e2e4 e7e5 f1c4 g8f6 d2d4 e5d4 g1f3 f6e4 d1d4
+Russian Game: Modern Attack	e2e4 e7e5 g1f3 g8f6 d2d4
+Russian Game: Modern Attack	e2e4 e7e5 g1f3 g8f6 d2d4 e5d4
+Russian Game: Modern Attack, Bardeleben Variation	e2e4 e7e5 g1f3 g8f6 d2d4 e5d4 e4e5 f6e4 d1e2 e4c5 f3d4 b8c6
+Russian Game: Modern Attack, Center Attack	e2e4 e7e5 g1f3 g8f6 d2d4 e5d4 e4e5 f6e4 d1d4
+Russian Game: Modern Attack, Center Variation	e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3
+Russian Game: Modern Attack, Murrey Variation	e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3 b8c6
+Russian Game: Modern Attack, Steinitz Variation	e2e4 e7e5 g1f3 g8f6 d2d4 e5d4 e4e5 f6e4 d1e2
+Russian Game: Modern Attack, Symmetrical Variation	e2e4 e7e5 g1f3 g8f6 d2d4 d7d5
+Russian Game: Modern Attack, Tal Gambit	e2e4 e7e5 g1f3 g8f6 d2d4 e5d4 e4e5 f6e4 f1b5
+Russian Game: Modern Attack, Trifunovic Variation	e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 f1d3 d7d5 f3e5 f8d6 e1g1 e8g8 c2c4 d6e5
+Dresden Opening: The Goblin	e2e4 e7e5 g1f3 b8c6 c2c4 g8f6 f3e5
+Irish Gambit	e2e4 e7e5 g1f3 b8c6 f3e5
+King's Knight Opening: Konstantinopolsky	e2e4 e7e5 g1f3 b8c6 g2g3
+King's Knight Opening: Normal Variation	e2e4 e7e5 g1f3 b8c6
+King's Pawn Game: Dresden Opening	e2e4 e7e5 g1f3 b8c6 c2c4
+King's Pawn Game: Pachman Wing Gambit	e2e4 e7e5 g1f3 b8c6 b2b4
+King's Pawn Game: Schulze-Müller Gambit	e2e4 e7e5 g1f3 b8c6 f3e5 c6e5 d2d4
+King's Pawn Game: Tayler Opening	e2e4 e7e5 g1f3 b8c6 f1e2
+King's Pawn Game: Tayler Opening	e2e4 e7e5 g1f3 b8c6 f1e2 g8f6 d2d4
+King's Pawn Game: Tayler Opening, Basman Gambit	e2e4 e7e5 g1f3 b8c6 f1e2 g8f6 d2d4 e5d4 e4e5
+King's Pawn Game: Tayler Opening, Inverted Hanham	e2e4 e7e5 g1f3 b8c6 f1e2 g8f6 d2d3 d7d5 b1d2
+Latvian Gambit: Clam Gambit	e2e4 e7e5 g1f3 b8c6 d2d3 f7f5 e4f5
+Ponziani Opening	e2e4 e7e5 g1f3 b8c6 c2c3
+Ponziani Opening: Caro Gambit	e2e4 e7e5 g1f3 b8c6 c2c3 d7d5 d1a4 c8d7
+Ponziani Opening: Jaenisch Counterattack	e2e4 e7e5 g1f3 b8c6 c2c3 g8f6
+Ponziani Opening: Leonhardt Variation	e2e4 e7e5 g1f3 b8c6 c2c3 d7d5 d1a4 g8f6
+Ponziani Opening: Neumann Gambit	e2e4 e7e5 g1f3 b8c6 c2c3 g8f6 f1c4
+Ponziani Opening: Ponziani Countergambit	e2e4 e7e5 g1f3 b8c6 c2c3 f7f5
+Ponziani Opening: Ponziani Countergambit, Schmidt Attack	e2e4 e7e5 g1f3 b8c6 c2c3 f7f5 d2d4 d7d6 d4d5
+Ponziani Opening: Romanishin Variation	e2e4 e7e5 g1f3 b8c6 c2c3 f8e7
+Ponziani Opening: Réti Variation	e2e4 e7e5 g1f3 b8c6 c2c3 g8e7
+Ponziani Opening: Spanish Variation	e2e4 e7e5 g1f3 b8c6 c2c3 d7d5 f1b5
+Ponziani Opening: Spanish Variation, Harrwitz Attack, Nikitin Gambit	e2e4 e7e5 g1f3 b8c6 c2c3 d7d5 f1b5 d5e4 f3e5 d8d5 d1a4
+Ponziani Opening: Steinitz Variation	e2e4 e7e5 g1f3 b8c6 c2c3 d7d5 d1a4 f7f6
+Ponziani Opening: Vukovic Gambit	e2e4 e7e5 g1f3 b8c6 c2c3 g8f6 d2d4 f6e4 d4d5 f8c5
+Scotch Game	e2e4 e7e5 g1f3 b8c6 d2d4
+Scotch Game	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4
+Scotch Game: Benima Defense	e2e4 e7e5 g1f3 b8c6 f1c4 f8e7 d2d4 e5d4
+Scotch Game: Cochrane Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 f8b4 c2c3 d4c3 b2c3 b4a5 e4e5
+Scotch Game: Cochrane-Shumov Defense	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 f8c5 f3g5 g8h6 g5f7 h6f7 c4f7 e8f7 d1h5 g7g6 h5c5 d7d5
+Scotch Game: Göring Gambit	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 c2c3
+Scotch Game: Göring Gambit, Bardeleben Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 c2c3 d4c3 f1c4 g8f6 b1c3 f8b4
+Scotch Game: Göring Gambit, Double Pawn Sacrifice	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 c2c3 d4c3 f1c4
+Scotch Game: Göring Gambit, Main Line	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 c2c3 d4c3 b1c3 f8b4
+Scotch Game: Hanneken Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 f8b4 c2c3 d4c3 e1g1 c3b2 c1b2 g8f6 f3g5 e8g8 e4e5 c6e5
+Scotch Game: Haxo Gambit	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 f8c5
+Scotch Game: Lolli Variation	e2e4 e7e5 g1f3 b8c6 d2d4 c6d4
+Scotch Game: Napoleon Gambit	e2e4 e7e5 g1f3 b8c6 d2d4 c6d4 f3d4 e5d4 f1c4
+Scotch Game: Relfsson Gambit	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1b5
+Scotch Game: Scotch Gambit	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4
+Scotch Game: Scotch Gambit, Advance Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 g8f6 e4e5
+Scotch Game: Scotch Gambit, Cochrane-Anderssen Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 f8c5 e1g1 d7d6 c2c3 c8g4
+Scotch Game: Scotch Gambit, Dubois Réti Defense	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 e5d4
+Scotch Game: Scotch Gambit, Göring Gambit Declined	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 c2c3 d7d5
+Scotch Game: Scotch Gambit, Kingside Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 e5d4 e4e5 f6g4
+Scotch Game: Scotch Gambit, London Defense	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 f8b4
+Scotch Game: Scotch Gambit, Sarratt Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 f8c5 f3g5
+Scotch Game: Sea-Cadet Mate	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 c2c3 d4c3 b1c3 d7d6 f1c4 c8g4 e1g1 c6e5 f3e5 g4d1 c4f7 e8e7 c3d5
+Scotch Game: Vitzthum Attack	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 f8c5 f3g5 g8h6 d1h5
+Scotch Game	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4
+Scotch Game	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 d8h4 d4b5 f8b4 c1d2
+Scotch Game: Alekhine Gambit	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 g8f6 e4e5
+Scotch Game: Blumenfeld Attack	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 c1e3 d8f6 d4b5
+Scotch Game: Braune Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 d8h4 c1e3
+Scotch Game: Classical Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5
+Scotch Game: Classical Variation, Blackburne Attack	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 c1e3 d8f6 c2c3 g8e7 d1d2
+Scotch Game: Classical Variation, Intermezzo Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 d4c6 d8f6
+Scotch Game: Classical Variation, Millennium Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 c1e3 d8f6 c2c3 f6g6
+Scotch Game: Fraser Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 d8h4 d4f3
+Scotch Game: Ghulam-Kassim Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 c6d4 d1d4 d7d6 f1d3
+Scotch Game: Gottschall Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 c1e3 d8f6 c2c3 g8e7 d1d2 d7d5 d4b5 c5e3 d2e3 e8g8 b5c7 a8b8 c7d5 e7d5 e4d5 c6b4
+Scotch Game: Horwitz Attack	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 d8h4 d4b5
+Scotch Game: Horwitz Attack, Blackburne Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 d8h4 d4b5 f8b4 c1d2 h4e4 f1e2 e8d8 e1g1 b4d2 d1d2
+Scotch Game: Malaniuk Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8b4
+Scotch Game: Meitner Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 c1e3 d8f6 c2c3 g8e7 d4c2
+Scotch Game: Mieses Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 g8f6 d4c6 b7c6 e4e5
+Scotch Game: Modern Defense	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 d8h4 b1c3 f8b4
+Scotch Game: Paulsen Attack	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 c1e3 d8f6 c2c3 g8e7 f1b5
+Scotch Game: Paulsen Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 d8h4 d4f5
+Scotch Game: Paulsen, Gunsberg Defense	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 c1e3 d8f6 c2c3 g8e7 f1b5 c6d8
+Scotch Game: Potter Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 d4b3
+Scotch Game: Romanishin Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 f8c5 d4b3 c5b4
+Scotch Game: Rosenthal Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 d8h4 d4b5 f8b4 c1d2 h4e4 f1e2 e8d8 e1g1 b4d2 b1d2 e4g6
+Scotch Game: Schmidt Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 g8f6
+Scotch Game: Steinitz Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 d8h4
+Scotch Game: Steinitz Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 d8h4 b1c3
+Scotch Game: Tartakower Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f3d4 g8f6 d4c6 b7c6 b1d2
+Three Knights Opening	e2e4 e7e5 g1f3 b8c6 b1c3
+Three Knights Opening	e2e4 e7e5 g1f3 b8c6 b1c3 f8b4
+Three Knights Opening: Schlechter Variation	e2e4 e7e5 g1f3 b8c6 b1c3 f8b4 c3d5 g8f6
+Three Knights Opening: Steinitz Defense	e2e4 e7e5 g1f3 b8c6 b1c3 g7g6
+Three Knights Opening: Steinitz-Rosenthal Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g7g6 d2d4 e5d4 c3d5
+Three Knights Opening: Winawer Defense	e2e4 e7e5 g1f3 b8c6 b1c3 f7f5
+Four Knights Game	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6
+Four Knights Game: Gunsberg Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 a2a3
+Four Knights Game: Halloween Gambit	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f3e5
+Four Knights Game: Halloween Gambit, Oldtimer Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f3e5 c6e5 d2d4 e5g6 e4e5 f6g8 f1c4 f8b4 d1f3 f7f5
+Four Knights Game: Halloween Gambit, Plasma Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f3e5 c6e5 d2d4 e5c6 d4d5 c6e5 f2f4 e5g6 e4e5 f6g8 d5d6 c7d6 e5d6 d8f6 c3b5 a8b8
+Four Knights Game: Italian Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 b1c3
+Four Knights Game: Italian Variation, Noa Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 b1c3 f6e4 c4f7
+Four Knights Game: Scotch Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4
+Four Knights Game: Scotch Variation Accepted	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4 e5d4
+Four Knights Game: Scotch Variation, Belgrade Gambit	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4 e5d4 c3d5
+Four Knights Game: Scotch Variation, Belgrade Gambit, Modern Defense	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4 e5d4 c3d5 f6e4 d1e2 f7f5
+Four Knights Game: Scotch Variation, Krause Gambit	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4 f8b4 f3e5
+Four Knights Game: Scotch Variation, Krause Gambit, Leonhardt Defense	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4 f8b4 f3e5 d8e7
+Four Knights Game: Scotch Variation, Oxford Gambit	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4 f8b4 d4d5 c6d4
+Four Knights Game: Scotch Variation, Schmid Defense	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 d2d4 e5d4 f3d4 f6e4
+Four Knights Game: Spanish Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5
+Four Knights Game: Spanish Variation, Bardeleben Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8c5 e1g1 e8g8 f3e5 c6e5 d2d4 c5d6 f2f4 e5c6 e4e5 d6b4
+Four Knights Game: Spanish Variation, Classical Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8c5
+Four Knights Game: Spanish Variation, Ranken Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 a7a6 b5c6
+Four Knights Game: Spanish Variation, Rubinstein Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 c6d4
+Four Knights Game: Spanish Variation, Rubinstein Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 c6d4 b5e2
+Four Knights Game: Spanish Variation, Rubinstein Variation	e2e4 e7e5 g1f3 g8f6 b1c3 b8c6 f1b5 c6d4 f3e5 d8e7 f2f4
+Four Knights Game: Spanish Variation, Rubinstein Variation Accepted	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 c6d4 f3d4
+Four Knights Game: Spanish Variation, Rubinstein Variation, Henneberger Variation	e2e4 e7e5 g1f3 g8f6 b1c3 b8c6 f1b5 c6d4 e1g1
+Four Knights Game: Spanish Variation, Rubinstein Variation, Marshall Gambit	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 c6d4 b5a4 f8c5 f3e5 e8g8
+Four Knights Game: Spanish Variation, Rubinstein Variation, Marshall Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 c6d4 f3e5 f8c5 e1g1 e8g8
+Four Knights Game: Spanish Variation, Rubinstein Variation, Maróczy Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 c6d4 b5e2 d4f3 e2f3 f8c5 e1g1 e8g8 d2d3 d7d6 c3a4 c5b6
+Four Knights Game: Spanish Variation, Spielmann Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 a7a6 b5c6 d7c6 f3e5 f6e4 c3e4 d8d4 e1g1 d4e5 f1e1 c8e6 d2d4 e5d5
+Four Knights Game: Spanish Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 d2d3 b4c3
+Four Knights Game: Spanish Variation, Alatortsev Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 d2d3 d8e7 c3e2 d7d5
+Four Knights Game: Spanish Variation, Double Spanish	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4
+Four Knights Game: Spanish Variation, Double Spanish	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 d2d3
+Four Knights Game: Spanish Variation, Gunsberg Counterattack	e2e4 e7e5 g1f3 g8f6 b1c3 b8c6 f1b5 f8b4 e1g1 e8g8 c3d5 f6d5 e4d5 e5e4
+Four Knights Game: Spanish Variation, Janowski Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 d2d3 b4c3 b2c3 d7d6 f1e1
+Four Knights Game: Spanish Variation, Nimzowitsch Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 b5c6
+Four Knights Game: Spanish Variation, Svenonius Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 d2d3 b4c3 b2c3 d7d5
+Four Knights Game: Spanish Variation, Symmetrical Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 d2d3 d7d6
+Four Knights Game: Spanish Variation, Symmetrical Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 d2d3 d7d6 c1g5 b4c3 b2c3 d8e7 f1e1 c6d8 d3d4 c8g4
+Four Knights Game: Spanish Variation, Symmetrical Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 d2d3 d7d6 c1g5 c6e7
+Four Knights Game: Spanish Variation, Symmetrical Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 d2d3 d7d6 c3e2
+Four Knights Game: Spanish Variation, Symmetrical Variation, Blake Variation	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 d2d3 d7d6 c1g5 c6e7 f3h4 c7c6 b5c4 d6d5 c4b3 d8d6
+Four Knights Game: Spanish Variation, Symmetrical Variation, Metger Unpin	e2e4 e7e5 g1f3 b8c6 b1c3 g8f6 f1b5 f8b4 e1g1 e8g8 d2d3 d7d6 c1g5 b4c3 b2c3 d8e7
+Four Knights Game: Spanish Variation, Symmetrical Variation, Tarrasch Variation	e2e4 e7e5 g1f3 g8f6 b1c3 b8c6 f1b5 f8b4 e1g1 e8g8 d2d3 d7d6 c1g5 c8e6
+Four Knights Game: Italian Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b1c3 g8f6
+Italian Game	e2e4 e7e5 g1f3 b8c6 f1c4
+Italian Game: Anti-Fried Liver Defense	e2e4 e7e5 g1f3 b8c6 f1c4 h7h6
+Italian Game: Blackburne-Kostić Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 c6d4
+Italian Game: Classical Variation, Albin Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 e1g1 g8f6 c2c3
+Italian Game: Deutz Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 e1g1 g8f6 d2d4
+Italian Game: Giuoco Pianissimo	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 d2d3
+Italian Game: Giuoco Pianissimo, Canal Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 d2d3 g8f6 b1c3 d7d6 c1g5
+Italian Game: Giuoco Pianissimo, Dubois Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 d2d3 f7f5 f3g5 f5f4
+Italian Game: Giuoco Pianissimo, Italian Four Knights Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 d2d3 g8f6 b1c3
+Italian Game: Giuoco Pianissimo, Lucchini Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 d2d3 f7f5
+Italian Game: Giuoco Pianissimo, Normal	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3 f8c5
+Italian Game: Giuoco Piano	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5
+Italian Game: Hungarian Defense	e2e4 e7e5 g1f3 b8c6 f1c4 f8e7
+Italian Game: Hungarian Defense, Tartakower Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8e7 d2d4 e5d4 c2c3 g8f6 e4e5 f6e4
+Italian Game: Jerome Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c4f7
+Italian Game: Paris Defense	e2e4 e7e5 g1f3 b8c6 f1c4 d7d6
+Italian Game: Rosentreter Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 d2d4
+Italian Game: Rousseau Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 f7f5
+Italian Game: Evans Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4
+Italian Game: Evans Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4c5 d2d4 e5d4 e1g1 d7d6 c3d4 c5b6 b1c3 c8g4
+Italian Game: Evans Gambit Accepted	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4
+Italian Game: Evans Gambit Declined	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b6
+Italian Game: Evans Gambit Declined	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b6 a2a4
+Italian Game: Evans Gambit Declined, Cordel Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b6 c1b2
+Italian Game: Evans Gambit Declined, Hicken Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b6 b4b5 c6a5 f3e5 d8g5 d1f3 g5e5 f3f7 e8d8 c1b2
+Italian Game: Evans Gambit Declined, Hirschbach Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b6 b4b5 c6a5 f3e5 d8g5
+Italian Game: Evans Gambit Declined, Lange Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b6 b4b5 c6a5 f3e5 g8h6
+Italian Game: Evans Gambit Declined, Pavlov Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b6 b4b5 c6a5 f3e5 g8h6 d2d4 d7d6 c1h6 d6e5 h6g7 h8g8 c4f7 e8f7 g7e5 d8g5 b1d2
+Italian Game: Evans Gambit Declined, Showalter Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b6 a2a4 a7a6 b1c3
+Italian Game: Evans Gambit Declined, Vasquez Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b6 b4b5 c6a5 f3e5 d8g5 c4f7 e8e7 d1h5
+Italian Game: Evans Gambit, Anderssen Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4e7
+Italian Game: Evans Gambit, Anderssen Variation, Cordel Line	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4e7 d2d4 c6a5
+Italian Game: Evans Gambit, Fontaine Countergambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 b7b5
+Italian Game: Evans Gambit, Fraser Attack	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4c5 d2d4 e5d4 e1g1 d7d6 c3d4 c5b6 b1c3 c8g4 d1a4
+Italian Game: Evans Gambit, Fraser-Mortimer Attack	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4c5 d2d4 e5d4 e1g1 d7d6 c3d4 c5b6 b1c3 c8g4 d1a4 g4d7 a4b3 c6a5 c4f7 e8f8 b3c2
+Italian Game: Evans Gambit, Göring Attack	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4c5 d2d4 e5d4 e1g1 d7d6 c3d4 c5b6 b1c3 c6a5 c1g5
+Italian Game: Evans Gambit, Harding Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4c5 d2d4 e5d4 c3d4 c5b4 c1d2
+Italian Game: Evans Gambit, Hein Countergambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 d7d5
+Italian Game: Evans Gambit, Mayet Defense	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4f8
+Italian Game: Evans Gambit, McDonnell Defense	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4c5
+Italian Game: Evans Gambit, McDonnell Defense, Main Line	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4c5 d2d4 e5d4 e1g1 d7d6 c3d4 c5b6
+Italian Game: Evans Gambit, Morphy Attack	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 e5d4 e1g1 d7d6 c3d4 a5b6 b1c3
+Italian Game: Evans Gambit, Mortimer-Evans Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4c5 d2d4 e5d4 e1g1 d7d6 c3d4 c5b6 b1c3 c8g4 d1a4 g4d7 a4b3 c6a5 c4f7 e8f8 b3c2 f8f7
+Italian Game: Evans Gambit, Paulsen Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4c5 d2d4 e5d4 e1g1 d7d6 c3d4 c5b6 d4d5 c6a5 c1b2 g8e7
+Italian Game: Evans Gambit, Steinitz Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4c5 d2d4 e5d4 e1g1 d7d6 c3d4 c5b6 b1c3 c6a5 c1g5 f7f6 g5e3
+Italian Game: Evans Gambit, Stone-Ware Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4d6
+Italian Game: Evans Gambit, Ulvestad Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4c5 d2d4 e5d4 e1g1 d7d6 c3d4 c5b6 d4d5 c6a5 c1b2
+Italian Game: Evans Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 e1g1 d7d6
+Italian Game: Evans Gambit, Alapin-Steinitz Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 e1g1 d7d6 d2d4 c8g4
+Italian Game: Evans Gambit, Anderssen Defense	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 e1g1 g8f6 d2d4 e5d4
+Italian Game: Evans Gambit, Bronstein Defense	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 d7d6
+Italian Game: Evans Gambit, Compromised Defense	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 e5d4 e1g1 d4c3
+Italian Game: Evans Gambit, Compromised Defense, Main Line	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 e5d4 e1g1 d4c3 d1b3 d8f6 e4e5 f6g6 b1c3 g8e7 c1a3
+Italian Game: Evans Gambit, Compromised Defense, Potter Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 e5d4 e1g1 d4c3 d1b3 d8f6 e4e5 f6g6 b1c3 g8e7 f1d1
+Italian Game: Evans Gambit, Dufresne Defense	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 e5d4 e1g1 d4d3
+Italian Game: Evans Gambit, Johner Defense	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 e5d4 e1g1 b7b5
+Italian Game: Evans Gambit, Laroche Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 g8f6
+Italian Game: Evans Gambit, Lasker Defense	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 e1g1 d7d6 d2d4 a5b6
+Italian Game: Evans Gambit, Leonhardt Countergambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 b7b5
+Italian Game: Evans Gambit, Levenfish Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 d7d6 d1b3 d8d7 d4e5 d6e5 e1g1 a5b6 c1a3 c6a5 f3e5
+Italian Game: Evans Gambit, Main Line	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5
+Italian Game: Evans Gambit, Mieses Defense	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 e5d4 e1g1 g8e7
+Italian Game: Evans Gambit, Pierce Defense	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 e5d4
+Italian Game: Evans Gambit, Richardson Attack	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 e1g1 g8f6 d2d4 e8g8 f3e5
+Italian Game: Evans Gambit, Sanders-Alapin Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 e1g1 d7d6 d2d4 c8d7
+Italian Game: Evans Gambit, Slow Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 e1g1
+Italian Game: Evans Gambit, Sokolsky Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 d7d6 c1g5
+Italian Game: Evans Gambit, Tartakower Attack	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 d7d6 d1b3
+Italian Game: Evans Gambit, Waller Attack	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 b2b4 c5b4 c2c3 b4a5 d2d4 e5d4 e1g1 d7d6 d1b3
+Italian Game: Bird's Attack	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 b2b4
+Italian Game: Classical Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3
+Italian Game: Classical Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6
+Italian Game: Classical Variation, Alexandre Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 f7f5
+Italian Game: Classical Variation, Center Attack	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4
+Italian Game: Classical Variation, Center Holding Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 d8e7 d2d4 c5b6
+Italian Game: Classical Variation, Closed Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 d8e7
+Italian Game: Classical Variation, Giuoco Pianissimo	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3
+Italian Game: Classical Variation, Giuoco Pianissimo, Main Line	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 d7d6 e1g1 e8g8 f1e1 a7a6 c4b3 c5a7 h2h3
+Italian Game: Classical Variation, Greco Gambit	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 f8c5 c2c3 g8f6 e4e5 d7d5
+Italian Game: Classical Variation, Greco Gambit, Anderssen Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 e4e5 d7d5 c4b5 f6e4 c3d4 c5b4
+Italian Game: Classical Variation, La Bourdonnais Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 d7d6 d2d4 e5d4 c3d4 c5b6
+Italian Game: Classical Variation, Tarrasch Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 d8e7 d2d4 c5b6 e1g1 d7d6 a2a4 a7a6 h2h3 g8f6 f1e1
+Italian Game: Giuoco Piano, Eisinger Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 d8e7 d2d4 c5b6 d4d5 c6b8 d5d6
+Italian Game: Giuoco Piano, Ghulam-Kassim Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 e4e5 f6e4 c4d5 e4f2 e1f2 d4c3 f2g3
+Italian Game: Giuoco Piano, Mestel Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 d8e7 d2d4 c5b6 c1g5
+Italian Game: Scotch Gambit, Walbrodt-Baird Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 e1g1
+Italian Game: Classical Variation, Greco Gambit, Greco Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4 c5b4 b1c3 f6e4 e1g1 e4c3
+Italian Game: Classical Variation, Greco Gambit, Main Line	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4 c5b4 b1c3 f6e4 e1g1 b4c3
+Italian Game: Classical Variation, Greco Gambit, Moeller-Bayonet Attack	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4 c5b4 b1c3 f6e4 e1g1 b4c3 d4d5 c3f6 f1e1 c6e7 e1e4 d7d6 g2g4
+Italian Game: Classical Variation, Greco Gambit, Moeller-Therkatz Attack	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4 c5b4 b1c3 f6e4 e1g1 b4c3 d4d5
+Italian Game: Classical Variation, Greco Gambit, Traditional Line	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4
+Italian Game: Giuoco Piano, Aitken Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4 c5b4 b1c3 f6e4 e1g1 e4c3 b2c3 b4c3 c1a3
+Italian Game: Giuoco Piano, Bernstein Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4 c5b4 b1c3 f6e4 e1g1 e4c3 b2c3 b4c3 d1b3 d7d5
+Italian Game: Giuoco Piano, Cracow Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4 c5b4 e1f1
+Italian Game: Giuoco Piano, Greco's Attack	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4 c5b4 b1c3
+Italian Game: Giuoco Piano, Krause Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4 c5b4 c1d2 f6e4 d2b4 c6b4 c4f7 e8f7 d1b3 d7d5 f3e5 f7f6 f2f3
+Italian Game: Giuoco Piano, Steinitz Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4 c5b4 b1c3 f6e4 e1g1 b4c3 b2c3 d7d5 c1a3
+Italian Game: Giuoco Piano, Therkatz-Herzog Variation	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d4 e5d4 c3d4 c5b4 b1c3 f6e4 e1g1 b4c3 d4d5 c3f6 f1e1 c6e7 e1e4 d7d6 c1g5 f6g5 f3g5 e8g8 g5h7
+Italian Game: Giuoco Piano	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 e1g1 f8c5 d2d4 c5d4 f3d4 c6d4 c1g5 d7d6
+Italian Game: Giuoco Piano, Holzhausen Attack	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 e1g1 f8c5 d2d4 c5d4 f3d4 c6d4 c1g5 d7d6 f2f4 d8e7 f4e5 d6e5 b1c3
+Italian Game: Giuoco Piano, Rosentreter Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 e1g1 f8c5 d2d4 c5d4 f3d4 c6d4 c1g5 h7h6 g5h4 g7g5 f2f4
+Italian Game: Scotch Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 e5d4 e1g1
+Italian Game: Scotch Gambit, Janowski Defense	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 g8f6 e1g1 d7d6
+Italian Game: Scotch Gambit, Max Lange Attack	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 g8f6 e1g1 f8c5
+Italian Game: Scotch Gambit, Max Lange Attack Accepted	e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 e1g1 g8f6 d2d4 e5d4 e4e5 d7d5 e5f6 d5c4 f1e1 c8e6 f6g7
+Italian Game: Scotch Gambit, Max Lange Attack, Long Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 g8f6 e1g1 f8c5 e4e5 d7d5 e5f6 d5c4 f1e1 c8e6 f3g5 d8d5 b1c3 d5f5 c3e4
+Italian Game: Scotch Gambit, Max Lange Attack, Spielmann Defense	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 g8f6 e1g1 f8c5 e4e5 f6g4
+Italian Game: Scotch Gambit, de Riviere Defense	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 g8f6 e1g1 f8e7
+Italian Game: Scotch Invitation Declined	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 d7d6
+Italian Game: Two Knights Defense	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6
+Italian Game: Two Knights Defense	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 f6e4
+Italian Game: Two Knights Defense, Keidansky Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 e5d4 e4e5 d7d5 c4b5 f6e4 f3d4 f8c5 d4c6 c5f2 e1f1 d8h4
+Italian Game: Two Knights Defense, Max Lange Attack	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 g8f6 e1g1 f8c5 e4e5
+Italian Game: Two Knights Defense, Max Lange Attack, Berger Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 e5d4 e1g1 f8c5 e4e5 d7d5 e5f6 d5c4 f1e1 c8e6 f3g5 d8d5 b1c3 d5f5 g2g4 f5g6 c3e4 c5b6 f2f4 e8c8
+Italian Game: Two Knights Defense, Max Lange Attack, Krause Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 e5d4 e1g1 f8c5 e4e5 f6g4 c2c3
+Italian Game: Two Knights Defense, Max Lange Attack, Loman Defense	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 f8c5 e1g1 g8f6 e4e5 d7d5 e5f6 d5c4 f1e1 c8e6 f3g5 g7g6
+Italian Game: Two Knights Defense, Max Lange Attack, Rubinstein Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 e5d4 e1g1 f8c5 e4e5 d7d5 e5f6 d5c4 f1e1 c8e6 f3g5 d8d5 b1c3 d5f5 c3e4 c5f8
+Italian Game: Two Knights Defense, Modern Bishop's Opening	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d3
+Italian Game: Two Knights Defense, Open Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4
+Italian Game: Two Knights Defense, Perreux Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 e5d4 f3g5
+Italian Game: Scotch Gambit, Anderssen Attack	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 e5d4 e1g1 f6e4 f1e1 d7d5 c4d5 d8d5 b1c3
+Italian Game: Scotch Gambit, Anderssen Attack, Main Line	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 e5d4 e1g1 f6e4 f1e1 d7d5 c4d5 d8d5 b1c3 d5a5 c3e4 c8e6 c1d2 a5d5 d2g5
+Italian Game: Scotch Gambit, Canal Variation	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 g8f6 e1g1 f6e4 f1e1 d7d5 b1c3
+Italian Game: Scotch Gambit, Double Gambit Accepted	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 e5d4 e1g1 f6e4
+Italian Game: Scotch Gambit, Nakhmanson Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 d2d4 e5d4 e1g1 f6e4 b1c3
+Italian Game: Two Knights Defense, Yurdansky Attack	e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 g8f6 e1g1 f6e4 f1e1 d7d5 c4d5 d8d5 b1c3 d5a5 c3e4 c8e6 c1g5 h7h6 g5h4 g7g5 e4f6 e8e7 b2b4
+Italian Game: Two Knights Defense, Fegatello Attack, Leonhardt Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 f6d5 g5f7 e8f7 d1f3 f7e6 b1c3 c6b4 f3e4 c7c6 a2a3 b4a6 d2d4 a6c7
+Italian Game: Two Knights Defense, Fried Liver Attack	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 f6d5 g5f7
+Italian Game: Two Knights Defense, Fritz Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6d4
+Italian Game: Two Knights Defense, Fritz, Gruber Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6d4 c2c3 b7b5 c4f1 f6d5 g5e4
+Italian Game: Two Knights Defense, Kloss Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6b4
+Italian Game: Two Knights Defense, Knight Attack	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5
+Italian Game: Two Knights Defense, Knight Attack, Normal Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5
+Italian Game: Two Knights Defense, Lolli Attack	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 f6d5 d2d4
+Italian Game: Two Knights Defense, Pincus Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 f6d5 d2d4 f8b4
+Italian Game: Two Knights Defense, Ponziani-Steinitz Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 f6e4
+Italian Game: Two Knights Defense, Traxler Counterattack	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 f8c5
+Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 f8c5 c4f7
+Italian Game: Two Knights Defense, Traxler Counterattack, King March Line	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 f8c5 g5f7 c5f2 e1f2 f6e4 f2e3
+Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 f8c5 g5f7
+Italian Game: Two Knights Defense, Traxler Variation, Trencianske-Teplice Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 f8c5 c4f7 e8e7 d2d4
+Italian Game: Two Knights Defense, Ulvestad Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 b7b5
+Italian Game: Two Knights Defense, Ulvestad Variation, Kurkin Gambit	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 b7b5 c4f1 h7h6 g5f7
+Italian Game: Two Knights Defense	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 c4b5 c7c6 d5c6 b7c6 b5e2
+Italian Game: Two Knights Defense, Blackburne Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 c4b5 c7c6 d5c6 b7c6 d1f3 c6b5
+Italian Game: Two Knights Defense, Colman Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 c4b5 c7c6 d5c6 b7c6 d1f3 a8b8
+Italian Game: Two Knights Defense, Maróczy Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 d2d3 h7h6 g5f3 e5e4 d1e2 a5c4 d3c4 f8e7
+Italian Game: Two Knights Defense, Paoli Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 c4b5 c7c6 d5c6 b7c6 d1f3 d8c7 b5d3
+Italian Game: Two Knights Defense, Polerio Defense	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5
+Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 c4b5
+Italian Game: Two Knights Defense, Polerio Defense, Bogoljubov Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 c4b5 c7c6 d5c6 b7c6 d1f3
+Italian Game: Two Knights Defense, Polerio Defense, Kieseritzky Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 d2d3
+Italian Game: Two Knights Defense, Polerio Defense, Yankovich Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 d2d3 h7h6 g5f3 e5e4 d1e2 a5c4 d3c4 f8c5 f3d2
+Italian Game: Two Knights Defense, Knorre Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 c4b5 c7c6 d5c6 b7c6 b5e2 h7h6 g5f3 e5e4 f3e5 f8d6 d2d4 d8c7 c1d2
+Italian Game: Two Knights Defense, Polerio Defense, Göring Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 c4b5 c7c6 d5c6 b7c6 b5e2 h7h6 g5f3 e5e4 f3e5 d8c7
+Italian Game: Two Knights Defense, Polerio Defense, Suhle Defense	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 c4b5 c7c6 d5c6 b7c6 b5e2 h7h6
+Italian Game: Two Knights Defense, Steinitz Variation	e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 f3g5 d7d5 e4d5 c6a5 c4b5 c7c6 d5c6 b7c6 b5e2 h7h6 g5h3
+Ruy Lopez	e2e4 e7e5 g1f3 b8c6 f1b5
+Ruy Lopez: Alapin Defense	e2e4 e7e5 g1f3 b8c6 f1b5 f8b4
+Ruy Lopez: Alapin Defense, Alapin Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 f8b4 c2c3 b4a5 b5c6 d7c6
+Ruy Lopez: Brentano Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 g7g5
+Ruy Lopez: Bulgarian Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a5
+Ruy Lopez: Cozio Defense	e2e4 e7e5 g1f3 b8c6 f1b5 g8e7
+Ruy Lopez: Cozio Defense, Paulsen Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8e7 b1c3 g7g6
+Ruy Lopez: Cozio Defense, Tartakower Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 g7g6 d2d4 e5d4 f3d4 f8g7 c1e3 g8e7 b1c3 e8g8 d1d2 d7d5
+Ruy Lopez: Fianchetto Defense	e2e4 e7e5 g1f3 b8c6 f1b5 g7g6
+Ruy Lopez: Fianchetto Defense, Kevitz Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 g7g6 c2c3 f7f5
+Ruy Lopez: Lucena Variation	e2e4 e7e5 g1f3 b8c6 f1b5 f8e7
+Ruy Lopez: Nürnberg Variation	e2e4 e7e5 g1f3 b8c6 f1b5 f7f6
+Ruy Lopez: Pollock Defense	e2e4 e7e5 g1f3 b8c6 f1b5 c6a5
+Ruy Lopez: Retreat Variation	e2e4 e7e5 g1f3 b8c6 f1b5 c6b8
+Ruy Lopez: Rotary-Albany Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 b7b6
+Ruy Lopez: Spanish Countergambit	e2e4 e7e5 g1f3 b8c6 f1b5 d7d5
+Ruy Lopez: Spanish Countergambit, Harding Countergambit, Fricke Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 d7d5 f3e5 d8g5 e1g1
+Ruy Lopez: Spanish Countergambit, Harding Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 d7d5 f3e5 d8g5 e5c6
+Ruy Lopez: Vinogradov Variation	e2e4 e7e5 g1f3 b8c6 f1b5 d8e7
+Ruy Lopez: Bird Variation	e2e4 e7e5 g1f3 b8c6 f1b5 c6d4
+Ruy Lopez: Bird Variation, Paulsen Variation	e2e4 e7e5 g1f3 b8c6 f1b5 c6d4 f3d4 e5d4 e1g1 g8e7
+Ruy Lopez: Old Steinitz Defense, Semi-Duras Variation	e2e4 e7e5 g1f3 b8c6 f1b5 d7d6 d2d4 c8d7 c2c4
+Ruy Lopez: Steinitz Defense	e2e4 e7e5 g1f3 b8c6 f1b5 d7d6
+Ruy Lopez: Steinitz Defense, Center Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 d7d6 d2d4 e5d4 e1g1
+Ruy Lopez: Steinitz Defense, Nimzowitsch Attack	e2e4 e7e5 g1f3 b8c6 f1b5 d7d6 d2d4 c8d7 b1c3 g8f6 b5c6
+Ruy Lopez: Schliemann Defense	e2e4 e7e5 g1f3 b8c6 f1b5 f7f5
+Ruy Lopez: Schliemann Defense, Classical Variation	e2e4 e7e5 g1f3 b8c6 f1b5 f7f5 b1c3 f5e4 c3e4 d7d5 f3e5 d5e4 e5c6 d8g5
+Ruy Lopez: Schliemann Defense, Dyckhoff Variation	e2e4 e7e5 g1f3 b8c6 f1b5 f7f5 b1c3
+Ruy Lopez: Schliemann Defense, Exchange Variation	e2e4 e7e5 g1f3 b8c6 f1b5 f7f5 b5c6
+Ruy Lopez: Schliemann Defense, Jaenisch Gambit Accepted	e2e4 e7e5 g1f3 b8c6 f1b5 f7f5 e4f5
+Ruy Lopez: Schliemann Defense, Kostić Defense	e2e4 e7e5 g1f3 b8c6 f1b5 f7f5 b1c3 f5e4 c3e4 f8e7
+Ruy Lopez: Schliemann Defense, Möhring Variation	e2e4 e7e5 g1f3 b8c6 f1b5 f7f5 b1c3 f5e4 c3e4 d7d5 f3e5 d5e4 e5c6 d8d5
+Ruy Lopez: Schliemann Defense, Schönemann Attack	e2e4 e7e5 g1f3 b8c6 f1b5 f7f5 d2d4
+Ruy Lopez: Schliemann Defense, Tartakower Variation	e2e4 e7e5 g1f3 b8c6 f1b5 f7f5 b1c3 f5e4 c3e4 g8f6
+Ruy Lopez: Classical Defense, Benelux Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f8c5 c2c3 e8g8 d2d4 c5b6
+Ruy Lopez: Classical Defense, Boden Variation	e2e4 e7e5 g1f3 b8c6 f1b5 f8c5 c2c3 d8e7
+Ruy Lopez: Classical Defense, Zaitsev Variation	e2e4 e7e5 g1f3 b8c6 f1b5 f8c5 e1g1 c6d4 b2b4
+Ruy Lopez: Classical Variation	e2e4 e7e5 g1f3 b8c6 f1b5 f8c5
+Ruy Lopez: Classical Variation, Central Variation	e2e4 e7e5 g1f3 b8c6 f1b5 f8c5 c2c3
+Ruy Lopez: Classical Variation, Charousek Variation	e2e4 e7e5 g1f3 b8c6 f1b5 f8c5 c2c3 c5b6
+Ruy Lopez: Classical Variation, Cordel Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 f8c5 c2c3 f7f5
+Ruy Lopez: Classical Variation, Konikowski Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 f8c5 c2c3 d7d5
+Ruy Lopez: Classical Variation, Modern Main Line	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f8c5 c2c3 e8g8 d2d4 c5b6 c1g5
+Ruy Lopez: Classical Variation, Spanish Wing Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 f8c5 b2b4
+Ruy Lopez: Berlin Defense	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6
+Ruy Lopez: Berlin Defense	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1
+Ruy Lopez: Berlin Defense, Anderssen Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 d2d3 d7d6 b5c6
+Ruy Lopez: Berlin Defense, Beverwijk Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f8c5
+Ruy Lopez: Berlin Defense, Duras Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 d2d3 d7d6 c2c4
+Ruy Lopez: Berlin Defense, Fishing Pole Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6g4
+Ruy Lopez: Berlin Defense, Kaufmann Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 d2d3 f8c5 c1e3
+Ruy Lopez: Berlin Defense, Mortimer Trap	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 d2d3 c6e7 f3e5 c7c6
+Ruy Lopez: Berlin Defense, Mortimer Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 d2d3 c6e7
+Ruy Lopez: Berlin Defense, Nyholm Attack	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 d2d4 e5d4 e1g1
+Ruy Lopez: Classical Variation, Zukertort Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f8c5 c2c3
+Ruy Lopez: Halloween Attack	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 f3e5
+Ruy Lopez: Berlin Defense, Closed Bernstein Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 d7d6 d2d4 c8d7 b1c3 f8e7 c1g5
+Ruy Lopez: Berlin Defense, Closed Showalter Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 d7d6 d2d4 c8d7 b1c3 f8e7 b5c6
+Ruy Lopez: Berlin Defense, Closed Wolf Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 d7d6 d2d4 c8d7 b1c3 e5d4
+Ruy Lopez: Berlin Defense, Hedgehog Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 d7d6 d2d4 c8d7 b1c3 f8e7
+Ruy Lopez: Berlin Defense, Improved Steinitz Defense	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 d7d6
+Ruy Lopez: Berlin Defense, Tarrasch Trap	e2e4 e7e5 g1f3 b8c6 f1b5 d7d6 d2d4 c8d7 b1c3 g8f6 e1g1 f8e7 f1e1 e8g8
+Ruy Lopez: Closed Berlin Defense, Chigorin Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 d7d6 d2d4 f6d7
+Ruy Lopez: Berlin Defense, Berlin Wall	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 e4d6 b5c6 d7c6 d4e5 d6f5 d1d8 e8d8 b1c3 c8d7
+Ruy Lopez: Berlin Defense, Cordel Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 f8e7 d1e2 e4d6 b5c6 b7c6 d4e5 d6f5
+Ruy Lopez: Berlin Defense, Minckwitz Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 f8e7 d4e5
+Ruy Lopez: Berlin Defense, Pillsbury Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 f8e7 d1e2 e4d6 b5c6 b7c6 d4e5 d6b7 b2b3
+Ruy Lopez: Berlin Defense, Rio Gambit Accepted	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4
+Ruy Lopez: Berlin Defense, Rio de Janeiro Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 f8e7
+Ruy Lopez: Berlin Defense, Rio de Janeiro Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 f8e7 d1e2 e4d6 b5c6 b7c6 d4e5 d6b7 b1c3 e8g8 f1e1 b7c5 f3d4 c5e6 c1e3 e6d4 e3d4 c6c5
+Ruy Lopez: Berlin Defense, Rosenthal Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 a7a6
+Ruy Lopez: Berlin Defense, Trifunovic Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 f8e7 d1e2 d7d5
+Ruy Lopez: Berlin Defense, Winawer Attack	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 f8e7 d1e2 e4d6 b5c6 b7c6 d4e5 d6b7 f3d4
+Ruy Lopez: Berlin Defense, Zukertort Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 f8e7 d1e2 e4d6 b5c6 b7c6 d4e5 d6b7 c2c4
+Ruy Lopez: Berlin Defense, l'Hermet Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 e4d6
+Ruy Lopez: Berlin Defense, l'Hermet Variation, Berlin Wall Defense	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 e4d6 b5c6 d7c6 d4e5 d6f5 d1d8 e8d8
+Ruy Lopez: Berlin Defense, l'Hermet Variation, Westerinen Line	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 e4d6 b5c6 d7c6 d4e5 d6e4
+Ruy Lopez: Open Berlin Defense, Showalter Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 e4d6 b5a4
+Ruy Lopez: Open Berlin Defense, l'Hermet Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g8f6 e1g1 f6e4 d2d4 e4d6 d4e5
+Ruy Lopez: Exchange Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6
+Ruy Lopez: Exchange Variation, Alekhine Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6 d7c6 d2d4 e5d4 d1d4 d8d4 f3d4 f8d6
+Ruy Lopez: Exchange Variation, Keres Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6 d7c6 b1c3
+Ruy Lopez: Exchange Variation, Lutikov Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6 b7c6
+Ruy Lopez: Exchange Variation, Romanovsky Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6 d7c6 b1c3 f7f6 d2d3
+Ruy Lopez: Exchange, Alekhine Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6 d7c6 d2d4 e5d4 d1d4 d8d4 f3d4 c8d7
+Ruy Lopez: Exchange Variation, Alapin Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6 d7c6 e1g1 c8g4 h2h3 h7h5
+Ruy Lopez: Exchange Variation, Bronstein Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6 d7c6 e1g1 d8d6
+Ruy Lopez: Exchange Variation, Gligoric Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6 d7c6 e1g1 f7f6
+Ruy Lopez: Exchange Variation, King's Bishop Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6 d7c6 e1g1 f8d6
+Ruy Lopez: Exchange Variation, Normal Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5c6 d7c6 e1g1
+Ruy Lopez: Bird's Defense Deferred	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 c6d4
+Ruy Lopez: Morphy Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6
+Ruy Lopez: Morphy Defense, Alapin's Defense Deferred	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 f8b4
+Ruy Lopez: Morphy Defense, Caro Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 b7b5
+Ruy Lopez: Morphy Defense, Classical Defense Deferred	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 f8c5
+Ruy Lopez: Morphy Defense, Cozio Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8e7
+Ruy Lopez: Morphy Defense, Fianchetto Defense Deferred	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g7g6
+Ruy Lopez: Morphy Defense, Graz Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 b7b5 a4b3 f8c5
+Ruy Lopez: Morphy Defense, Norwegian Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 b7b5 a4b3 c6a5
+Ruy Lopez: Morphy Defense, Norwegian Variation, Nightingale Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 b7b5 a4b3 c6a5 b3f7
+Ruy Lopez: Morphy Defense, Schliemann Defense Deferred	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 f7f5
+Ruy Lopez: Morphy Defense, Schliemann Defense Deferred, Jaenisch Gambit Deferred	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 f7f5 e4f5
+Ruy Lopez: Morphy Defense, Modern Steinitz Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6
+Ruy Lopez: Morphy Defense, Modern Steinitz Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6 b1c3
+Ruy Lopez: Morphy Defense, Modern Steinitz Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6 c2c4
+Ruy Lopez: Noah's Ark Trap	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 b7b5 a4b3 d7d6 d2d4 c6d4 f3d4 e5d4 d1d4 c7c5
+Ruy Lopez: Closed, Kecskemet Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6 e1g1 c8d7 c2c3 g8f6 d2d4 f8e7 b1d2 e8g8 f1e1 d7e8
+Ruy Lopez: Morphy Defense, Modern Steinitz Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6 e1g1
+Ruy Lopez: Morphy Defense, Modern Steinitz Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6 a4c6 b7c6 d2d4
+Ruy Lopez: Morphy Defense, Modern Steinitz Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6 a4c6 b7c6 d2d4 f7f6
+Ruy Lopez: Morphy Defense, Modern Steinitz Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6 c2c3
+Ruy Lopez: Morphy Defense, Modern Steinitz Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6 c2c3 f7f5 e4f5 c8f5 e1g1
+Ruy Lopez: Morphy Defense, Modern Steinitz Defense, Siesta Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6 c2c3 f7f5
+Ruy Lopez: Morphy Defense, Modern Steinitz Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6 c2c3 c8d7
+Ruy Lopez: Morphy Defense, Modern Steinitz Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 d7d6 c2c3 c8d7 d2d4 g8e7
+Ruy Lopez: Morphy Defense, Modern Steinitz Defense, Fianchetto Variation	e2e4 e7e5 g1f3 b8c6 f1b5 g7g6 c2c3 a7a6 b5a4 d7d6 d2d4 c8d7
+Ruy Lopez: Morphy Defense, Anderssen Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 d2d3
+Ruy Lopez: Morphy Defense, Bayreuth Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 a4c6
+Ruy Lopez: Morphy Defense, Duras Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 d2d3 d7d6 c2c4
+Ruy Lopez: Morphy Defense, Jaffe Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 c2c3
+Ruy Lopez: Morphy Defense, Mackenzie Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 d2d4
+Ruy Lopez: Morphy Defense, Tarrasch Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 b1c3
+Ruy Lopez: Morphy Defense, Wormald Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 d1e2
+Ruy Lopez: Wormald Attack, Grünfeld Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 d1e2 b7b5 a4b3 f8e7 d2d4 d7d6 c2c3 c8g4
+Ruy Lopez: Brix Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 g7g6
+Ruy Lopez: Central Countergambit	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 d7d5
+Ruy Lopez: Morphy Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1
+Ruy Lopez: Morphy Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 b7b5 a4b3 d7d6
+Ruy Lopez: Morphy Defense, Arkhangelsk Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 b7b5 a4b3 c8b7
+Ruy Lopez: Morphy Defense, Neo-Arkhangelsk Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8c5
+Ruy Lopez: Morphy Defense, Wing Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 b7b5 a4b3 f8e7 a2a4
+Ruy Lopez: Rabinovich Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 b7b5 a4b3 d7d6 f3g5 d6d5 e4d5 c6d4 f1e1 f8c5 e1e5 e8f8
+Ruy Lopez: Morphy Defense, Steinitz Deferred	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 d7d6
+Ruy Lopez: Morphy Defense, Steinitz Deferred	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 d7d6 a4c6 b7c6 d2d4 f6e4
+Ruy Lopez: Steinitz Defense Deferred, Boleslavsky Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 d7d6 a4c6 b7c6 d2d4 f6e4 f1e1 f7f5 d4e5 d6d5 b1c3
+Ruy Lopez: Steinitz Defense Deferred, Lipnitsky Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 d7d6 a4c6 b7c6 d2d4 c8g4
+Ruy Lopez: Morphy Defense, Tartakower Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d1e2
+Ruy Lopez: Open	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4
+Ruy Lopez: Open	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4
+Ruy Lopez: Open	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3
+Ruy Lopez: Open	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5
+Ruy Lopez: Open, Berger Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 a2a4 c6d4 f3d4 e5d4 b1c3
+Ruy Lopez: Open, Bernstein Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 b1d2
+Ruy Lopez: Open, Bernstein Variation, Luther Line	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 b1d2 f8c5 d1e1
+Ruy Lopez: Open, Friess Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 f3e5
+Ruy Lopez: Open, Harksen Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 c2c4
+Ruy Lopez: Open, Karpov Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 b1d2 e4c5 c2c3 d5d4 f3g5
+Ruy Lopez: Open, Knorre Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 b1c3
+Ruy Lopez: Open, Main Line	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6
+Ruy Lopez: Open, Richter Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 d4d5
+Ruy Lopez: Open, Riga Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 e5d4
+Ruy Lopez: Open, Schlechter Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 a2a4 c6d4
+Ruy Lopez: Open, Skipworth Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 f1e1 d7d5
+Ruy Lopez: Open, Zukertort Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c6e7
+Ruy Lopez: Open, Howell Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 d1e2
+Ruy Lopez: Open, Howell Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 d1e2 f8e7 c2c4
+Ruy Lopez: Open, Howell Attack, Ekstrom Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 d1e2 f8e7 f1d1 e8g8 c2c4 b5c4 b3c4 d8d7
+Ruy Lopez: Open	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3
+Ruy Lopez: Open, Berlin Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3 e4c5
+Ruy Lopez: Open, Dilworth Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3 f8c5 b1d2 e8g8 b3c2 e4f2
+Ruy Lopez: Open, Italian Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3 f8c5
+Ruy Lopez: Open, Motzko Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3 f8c5 d1d3
+Ruy Lopez: Open, Motzko Attack, Nenarokov Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3 f8c5 d1d3 c6e7
+Ruy Lopez: Open, St. Petersburg Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3 f8c5 b1d2
+Ruy Lopez: Open, Breslau Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3 f8e7 f1e1 e8g8 f3d4 c6e5
+Ruy Lopez: Open, Classical Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3 f8e7
+Ruy Lopez: Open, Classical Defense, Main Line	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 f8e7 f1e1 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3
+Ruy Lopez: Open, Malkin Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3 f8e7 b1d2 e8g8 d1e2
+Ruy Lopez: Open, Tarrasch Trap	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f6e4 d2d4 b7b5 a4b3 d7d5 d4e5 c8e6 c2c3 f8e7 f1e1 e8g8 f3d4 d8d7 d4e6 f7e6 e1e4
+Ruy Lopez: Closed	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7
+Ruy Lopez: Closed, Basque Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 d2d4 e5d4 e4e5 f6e4 c2c3
+Ruy Lopez: Closed, Center Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 d2d4
+Ruy Lopez: Closed, Center Attack, Basque Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 d2d4 e5d4 e4e5 f6e4 c2c3 d4c3
+Ruy Lopez: Closed, Martinez Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 d2d3
+Ruy Lopez: Closed, Morphy Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 b1c3
+Ruy Lopez: Closed, Delayed Exchange	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 a4c6
+Ruy Lopez: Closed, Worrall Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 d1e2
+Ruy Lopez: Closed, Worrall Attack, Castling Line	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 d1e2 b7b5 a4b3 e8g8
+Ruy Lopez: Closed, Worrall Attack, Delayed Castling Line	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 d1e2 b7b5 a4b3 d7d6
+Ruy Lopez: Closed, Averbakh Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 d7d6
+Ruy Lopez: Closed	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3
+Ruy Lopez: Closed	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8
+Ruy Lopez: Closed, Alekhine Gambit	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 c6a5 b3c2 c7c5 d2d4 d8c7 b1d2 e8g8 d2f1 c8g4 f1e3 g4f3 d1f3
+Ruy Lopez: Closed, Anti-Marshall	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 a2a4
+Ruy Lopez: Closed, Balla Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 c6a5 b3c2 c7c5 d2d4 d8c7 a2a4
+Ruy Lopez: Closed, Leonhardt Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 c6a5 b3c2 c7c5 d2d4 d8c7 h2h3 a5c6 d4d5 c6b8 b1d2 g7g5
+Ruy Lopez: Closed, Rosen Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 d2d4
+Ruy Lopez: Closed, Trajkovic Counterattack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 c8b7
+Ruy Lopez: Noah's Ark Trap	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 d2d4 c6d4 f3d4 e5d4 d1d4 c7c5
+Ruy Lopez: Marshall Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 c2c3 d7d5
+Ruy Lopez: Marshall Attack, Main Line	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 c2c3 d7d5 e4d5 f6d5 f3e5 c6e5 e1e5 c7c6 d2d4
+Ruy Lopez: Marshall Attack, Main Line, Spassky Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 c2c3 d7d5 e4d5 f6d5 f3e5 c6e5 e1e5 c7c6 d2d4 e7d6 e5e1 d8h4 g2g3 h4h3 c1e3 c8g4 d1d3 a8e8 b1d2 e8e6 a2a4 h3h5
+Ruy Lopez: Marshall Attack, Modern Main Line	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 c2c3 d7d5 e4d5 f6d5 f3e5 c6e5 e1e5 c7c6 d2d4 e7d6 e5e1 d8h4 g2g3 h4h3
+Ruy Lopez: Marshall Attack, Modern Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 c2c3 d7d5 e4d5 f6d5 f3e5 c6e5 e1e5 c7c6
+Ruy Lopez: Marshall Attack, Original Marshall Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 c2c3 d7d5 e4d5 f6d5 f3e5 c6e5 e1e5 d5f6
+Ruy Lopez: Marshall Attack, Re3 Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 c2c3 d7d5 e4d5 f6d5 f3e5 c6e5 e1e5 c7c6 b3d5 c6d5 d2d4 e7d6 e5e3
+Ruy Lopez: Marshall Attack, Steiner Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 c2c3 d7d5 e4d5 e5e4
+Ruy Lopez: Closed	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8
+Ruy Lopez: Closed, Lutikov Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 b3c2
+Ruy Lopez: Closed, Pilnik Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 e8g8 d2d3 d7d6 c2c3
+Ruy Lopez: Closed, Suetin Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 a2a3
+Ruy Lopez: Closed, Bogoljubov Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 d2d4 c8g4
+Ruy Lopez: Closed, Yates Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 d2d4
+Ruy Lopez: Closed, Yates Variation, Short Attack	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 d2d4 c8g4 a2a4
+Ruy Lopez: Closed	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3
+Ruy Lopez: Closed, Flohr System	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c8b7
+Ruy Lopez: Closed, Karpov Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 f6d7
+Ruy Lopez: Closed, Kholmov Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c8e6
+Ruy Lopez: Closed, Smyslov-Breyer-Zaitsev Hybrid	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c8b7 d2d4 f8e8 b1d2 e7f8 a2a3 h7h6
+Ruy Lopez: Closed, Zaitsev System	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 f8e8
+Ruy Lopez: Closed, Smyslov Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 h7h6
+Ruy Lopez: Closed, Breyer Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6b8
+Ruy Lopez: Closed, Breyer Defense, Quiet Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6b8 d2d3
+Ruy Lopez: Closed, Breyer	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6b8 d2d4
+Ruy Lopez: Closed, Breyer Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6b8 d2d4 b8d7 b1d2 c8b7 b3c2 c7c5
+Ruy Lopez: Closed, Breyer Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6b8 d2d4 b8d7 f3h4
+Ruy Lopez: Closed, Breyer Defense, Zaitsev Hybrid	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6b8 d2d4 b8d7
+Ruy Lopez: Closed, Borisenko Variation	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6a5 b3c2 c7c5 d2d4 a5c6
+Ruy Lopez: Closed, Chigorin Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6a5 b3c2
+Ruy Lopez: Closed, Chigorin Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6a5 b3c2 c7c5
+Ruy Lopez: Closed, Keres Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6a5 b3c2 c7c5 d2d4 f6d7
+Ruy Lopez: Closed, Rossolimo Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6a5 b3c2 c7c6 d2d4 d8c7
+Ruy Lopez: Closed, Chigorin Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6a5
+Ruy Lopez: Closed, Chigorin Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6a5 b3c2 c7c5 d2d4 d8c7
+Ruy Lopez: Closed, Chigorin, Yugoslav System	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6a5 b3c2 c7c5 d2d4 d8c7 b1d2 c8d7 d2f1 f8e8 f1e3 g7g6
+Ruy Lopez: Closed, Chigorin Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6a5 b3c2 c7c5 d2d4 d8c7 b1d2 a5c6
+Ruy Lopez: Closed, Chigorin Defense	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6a5 b3c2 c7c5 d2d4 d8c7 b1d2 a5c6 d4c5
+Ruy Lopez: Closed, Chigorin Defense, Panov System	e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 f1e1 b7b5 a4b3 d7d6 c2c3 e8g8 h2h3 c6a5 b3c2 c7c5 d2d4 d8c7 b1d2 c5d4 c3d4

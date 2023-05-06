@@ -1,0 +1,732 @@
+name	uci
+Barnes Defense	e2e4 f7f6
+Borg Defense	e2e4 g7g5
+Borg Defense: Borg Gambit	e2e4 g7g5 d2d4 f8g7
+Borg Defense: Troon Gambit	e2e4 g7g5 d2d4 h7h6 h2h4 g5g4
+Borg Defense: Zilbermints Gambit	e2e4 g7g5 d2d4 e7e5
+Carr Defense	e2e4 h7h6
+Carr Defense: Zilbermints Gambit	e2e4 h7h6 d2d4 e7e5
+Duras Gambit	e2e4 f7f5
+Fried Fox Defense	e2e4 f7f6 d2d4 e8f7
+Goldsmith Defense	e2e4 h7h5
+Goldsmith Defense: Picklepuss Defense	e2e4 h7h5 d2d4 g8f6
+Guatemala Defense	e2e4 b7b6 d2d4 c8a6
+Hippopotamus Defense	e2e4 g8h6
+Hippopotamus Defense	e2e4 g8h6 d2d4 g7g6 c2c4 f7f6
+King's Pawn Game	e2e4
+Lemming Defense	e2e4 b8a6
+Lion Defense: Lion's Jaw	e2e4 d7d6 d2d4 g8f6 f2f3
+Nimzowitsch Defense	e2e4 b8c6
+Nimzowitsch Defense	e2e4 b8c6 d2d4
+Nimzowitsch Defense: Breyer Variation	e2e4 b8c6 b1c3 g8f6 d2d4 e7e5
+Nimzowitsch Defense: Colorado Countergambit	e2e4 b8c6 g1f3 f7f5
+Nimzowitsch Defense: Colorado Countergambit Accepted	e2e4 b8c6 g1f3 f7f5 e4f5
+Nimzowitsch Defense: Declined Variation	e2e4 b8c6 g1f3
+Nimzowitsch Defense: El Columpio Defense	e2e4 b8c6 g1f3 g8f6 e4e5 f6g4
+Nimzowitsch Defense: El Columpio Defense, El Columpio Gambit	e2e4 b8c6 g1f3 g8f6 e4e5 f6g4 d2d4 d7d6 h2h3 g4h6 e5e6
+Nimzowitsch Defense: El Columpio Defense, Exchange Variation	e2e4 b8c6 g1f3 g8f6 e4e5 f6g4 d2d4 d7d6 h2h3 g4h6 e5d6
+Nimzowitsch Defense: El Columpio Defense, Pin Variation	e2e4 b8c6 g1f3 g8f6 e4e5 f6g4 d2d4 d7d6 h2h3 g4h6 f1b5
+Nimzowitsch Defense: Franco-Nimzowitsch Variation	e2e4 b8c6 g1f3 e7e6
+Nimzowitsch Defense: French Connection	e2e4 b8c6 b1c3 e7e6
+Nimzowitsch Defense: Hornung Gambit	e2e4 b8c6 d2d4 d7d5 c1e3
+Nimzowitsch Defense: Kennedy Variation	e2e4 b8c6 d2d4 e7e5
+Nimzowitsch Defense: Kennedy Variation, Bielefelder Gambit	e2e4 b8c6 d2d4 e7e5 d4e5 f8c5
+Nimzowitsch Defense: Kennedy Variation, Hammer Gambit	e2e4 b8c6 d2d4 e7e5 d4e5 f7f6
+Nimzowitsch Defense: Kennedy Variation, Herford Gambit	e2e4 b8c6 d2d4 e7e5 d4e5 d8h4
+Nimzowitsch Defense: Kennedy Variation, Keres Attack	e2e4 b8c6 d2d4 e7e5 d4e5 c6e5 b1c3
+Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation	e2e4 b8c6 d2d4 e7e5 d4d5
+Nimzowitsch Defense: Kennedy Variation, Main Line	e2e4 b8c6 d2d4 e7e5 d4e5 c6e5 f2f4 e5g6
+Nimzowitsch Defense: Kennedy Variation, Paulsen Attack	e2e4 b8c6 d2d4 e7e5 d4e5 c6e5 g1f3
+Nimzowitsch Defense: Kennedy Variation, Riemann Defense	e2e4 b8c6 d2d4 e7e5 d4e5 c6e5 f2f4 e5c6
+Nimzowitsch Defense: Kennedy Variation, de Smet Gambit	e2e4 b8c6 d2d4 e7e5 d4e5 d7d6
+Nimzowitsch Defense: Mikenas Variation	e2e4 b8c6 d2d4 d7d6
+Nimzowitsch Defense: Neo-Mongoloid Defense	e2e4 b8c6 d2d4 f7f6
+Nimzowitsch Defense: Pirc Connection	e2e4 b8c6 b1c3 g7g6
+Nimzowitsch Defense: Pseudo-Spanish Variation	e2e4 b8c6 f1b5
+Nimzowitsch Defense: Scandinavian Variation	e2e4 b8c6 d2d4 d7d5
+Nimzowitsch Defense: Scandinavian Variation, Aachen Gambit	e2e4 b8c6 d2d4 d7d5 e4d5 c6b4
+Nimzowitsch Defense: Scandinavian Variation, Advance Variation	e2e4 b8c6 d2d4 d7d5 e4e5
+Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation	e2e4 b8c6 d2d4 d7d5 b1c3
+Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation	e2e4 b8c6 d2d4 d7d5 b1c3 d5e4
+Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation, Brandics Gambit	e2e4 b8c6 d2d4 d7d5 b1c3 a7a6
+Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation, Erben Gambit	e2e4 b8c6 d2d4 d7d5 b1c3 g7g6
+Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation, Heinola-Deppe Gambit	e2e4 b8c6 d2d4 d7d5 b1c3 e7e5
+Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation, Nimzowitsch Gambit	e2e4 b8c6 d2d4 d7d5 b1c3 d5e4 d4d5 c6e5
+Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation, Richter Gambit	e2e4 b8c6 d2d4 d7d5 b1c3 d5e4 d4d5 c6b8 f2f3
+Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation, Vehre Variation	e2e4 b8c6 d2d4 d7d5 b1c3 g8f6
+Nimzowitsch Defense: Scandinavian Variation, Exchange Variation	e2e4 b8c6 d2d4 d7d5 e4d5 d8d5
+Nimzowitsch Defense: Scandinavian Variation, Exchange Variation, Marshall Gambit	e2e4 b8c6 d2d4 d7d5 e4d5 d8d5 b1c3
+Nimzowitsch Defense: Wheeler Gambit	e2e4 b8c6 b2b4
+Nimzowitsch Defense: Williams Variation	e2e4 b8c6 g1f3 d7d6
+Nimzowitsch Defense: Woodchuck Variation	e2e4 b8c6 d2d4 a7a6
+Owen Defense	e2e4 b7b6
+Owen Defense: Hekili-Loa Gambit	e2e4 b7b6 d2d4 c7c5 d4c5 b8c6
+Owen Defense: Matovinsky Gambit	e2e4 b7b6 d2d4 c8b7 f1d3 f7f5 e4f5 b7g2 d1h5 g7g6
+Owen Defense: Naselwaus Gambit	e2e4 b7b6 d2d4 c8b7 c1g5
+Owen Defense: Smith Gambit	e2e4 b7b6 d2d4 c8b7 g1f3
+Owen Defense: Unicorn Variation	e2e4 f7f6 d2d4 b7b6 c2c4 c8b7
+Owen Defense: Wind Gambit	e2e4 b7b6 d2d4 c8b7 f2f3 e7e5
+Pirc Defense	e2e4 d7d6
+Pirc Defense	e2e4 d7d6 d2d4
+Pirc Defense	e2e4 d7d6 d2d4 g8f6
+Pirc Defense: Roscher Gambit	e2e4 d7d6 d2d4 g8f6 g1f3
+Rat Defense: Antal Defense	e2e4 d7d6 d2d4 b8d7
+Rat Defense: Fuller Gambit	e2e4 d7d6 f2f4 d6d5 e4d5 g8f6
+Rat Defense: Harmonist	e2e4 d7d6 f2f4
+Rat Defense: Petruccioli Attack	e2e4 d7d6 h2h4
+Rat Defense: Spike Attack	e2e4 d7d6 g2g4
+St. George Defense	e2e4 a7a6
+St. George Defense: Polish Variation	e2e4 a7a6 d2d4 b7b5 g1f3 c8b7 f1d3 e7e6
+St. George Defense: San Jorge Variation	e2e4 a7a6 d2d4 b7b5 g1f3 c8b7 f1d3 d7d6 e1g1 g7g6 c2c3 f8g7
+St. George Defense: Zilbermints Gambit	e2e4 a7a6 d2d4 e7e5
+Van Geet Opening: Berlin Gambit	e2e4 b8c6 d2d4 d7d5 b1c3 d5e4 d4d5
+Ware Defense	e2e4 a7a5
+Ware Defense: Snagglepuss Defense	e2e4 a7a5 d2d4 b8c6
+Scandinavian Defense	e2e4 d7d5
+Scandinavian Defense	e2e4 d7d5 b2b3
+Scandinavian Defense: Anderssen Counterattack	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 e7e5
+Scandinavian Defense: Anderssen Counterattack, Collijn Variation	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 e7e5 g1f3 c8g4
+Scandinavian Defense: Anderssen Counterattack, Goteborg System	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 e7e5 g1f3
+Scandinavian Defense: Anderssen Counterattack, Orthodox Attack	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 e7e5 d4e5 b8c6 g1f3 f8b4 c1d2
+Scandinavian Defense: Blackburne Gambit	e2e4 d7d5 e4d5 c7c6 d5c6 b8c6
+Scandinavian Defense: Blackburne-Kloosterboer Gambit	e2e4 d7d5 e4d5 c7c6
+Scandinavian Defense: Boehnke Gambit	e2e4 d7d5 e4d5 e7e5 d5e6 c8e6
+Scandinavian Defense: Bronstein Variation	e2e4 d7d5 e4d5 d8d5 b1c3 d5d6 d2d4 g8f6 g1f3 a7a6
+Scandinavian Defense: Classical Variation	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 g8f6 g1f3 c8f5
+Scandinavian Defense: Grünfeld Variation	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 g8f6 g1f3 c8f5 f3e5 c7c6 g2g4
+Scandinavian Defense: Gubinsky-Melts Defense	e2e4 d7d5 e4d5 d8d5 b1c3 d5d6
+Scandinavian Defense: Icelandic-Palme Gambit	e2e4 d7d5 e4d5 g8f6 c2c4 e7e6
+Scandinavian Defense: Kiel Variation	e2e4 d7d5 e4d5 g8f6 d2d4 f6d5 c2c4 d5b4
+Scandinavian Defense: Kloosterboer Gambit	e2e4 d7d5 e4d5 c7c6 d5c6 e7e5
+Scandinavian Defense: Kádas Gambit	e2e4 d7d5 e4d5 g8f6 d2d4 c7c6 d5c6 e7e5
+Scandinavian Defense: Lasker Variation	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 g8f6 g1f3 c8g4 h2h3
+Scandinavian Defense: Main Line	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5
+Scandinavian Defense: Main Line, Leonhardt Gambit	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 b2b4
+Scandinavian Defense: Main Line, Mieses Variation	e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 g8f6
+Scandinavian Defense: Marshall Variation	e2e4 d7d5 e4d5 g8f6 d2d4 f6d5
+Scandinavian Defense: Mieses-Kotroc Variation	e2e4 d7d5 e4d5 d8d5
+Scandinavian Defense: Modern Variation	e2e4 d7d5 e4d5 g8f6
+Scandinavian Defense: Modern Variation	e2e4 d7d5 e4d5 g8f6 d2d4
+Scandinavian Defense: Modern Variation, Gipslis Variation	e2e4 d7d5 e4d5 g8f6 d2d4 f6d5 g1f3 c8g4
+Scandinavian Defense: Modern Variation, Wing Gambit	e2e4 d7d5 e4d5 g8f6 d2d4 g7g6 c2c4 b7b5
+Scandinavian Defense: Panov Transfer	e2e4 d7d5 e4d5 g8f6 c2c4 c7c6
+Scandinavian Defense: Portuguese Gambit	e2e4 d7d5 e4d5 g8f6 d2d4 c8g4
+Scandinavian Defense: Portuguese Gambit, Banker Variation	e2e4 d7d5 e4d5 g8f6 d2d4 c8g4 f2f3 g4f5 c2c4
+Scandinavian Defense: Portuguese Gambit, Classical Variation	e2e4 d7d5 e4d5 g8f6 d2d4 c8g4 g1f3
+Scandinavian Defense: Portuguese Gambit, Correspondence Refutation	e2e4 d7d5 e4d5 g8f6 d2d4 c8g4 f2f3 g4f5 g2g4
+Scandinavian Defense: Portuguese Gambit, Elbow Variation	e2e4 d7d5 e4d5 g8f6 d2d4 c8g4 f1b5 c7c6
+Scandinavian Defense: Portuguese Gambit, Jadoul Variation	e2e4 d7d5 e4d5 g8f6 d2d4 c8g4 f2f3 g4f5 f1b5 b8d7 c2c4
+Scandinavian Defense: Portuguese Gambit, Lusophobe Variation	e2e4 d7d5 e4d5 g8f6 d2d4 c8g4 f1b5 b8d7 b5e2
+Scandinavian Defense: Portuguese Gambit, Melbourne Shuffle Variation	e2e4 d7d5 e4d5 g8f6 d2d4 c8g4 f2f3 g4f5 f1b5 b8d7 b1c3
+Scandinavian Defense: Portuguese Gambit, Wuss Variation	e2e4 d7d5 e4d5 g8f6 d2d4 c8g4 f1e2
+Scandinavian Defense: Richter Variation	e2e4 d7d5 e4d5 g8f6 d2d4 f6d5 g1f3 g7g6
+Scandinavian Defense: Richter Variation	e2e4 d7d5 e4d5 g8f6 d2d4 g7g6
+Scandinavian Defense: Schiller-Pytel Variation	e2e4 d7d5 e4d5 d8d5 b1c3 d5d6 d2d4 c7c6
+Scandinavian Defense: Schiller-Pytel Variation, Modern Variation	e2e4 d7d5 e4d5 d8d5 b1c3 d5d6 d2d4 g8f6 f1c4 c7c6 g1e2 c8f5 c1f4 d6b4
+Scandinavian Defense: Valencian Variation	e2e4 d7d5 e4d5 d8d5 b1c3 d5d8
+Scandinavian Defense: Valencian Variation, Ilundain Variation	e2e4 d7d5 e4d5 d8d5 b1c3 d5d8 d2d4 g8f6 g1f3 c7c6
+Scandinavian Defense: Valencian Variation, Main Line	e2e4 d7d5 e4d5 d8d5 b1c3 d5d8 d2d4 g8f6 g1f3 c8g4
+Scandinavian Defense: Zilbermints Gambit	e2e4 d7d5 b2b4
+Van Geet Opening: Grünfeld Defense	e2e4 d7d5 b1c3 d5e4 c3e4 e7e5
+Alekhine Defense	e2e4 g8f6
+Alekhine Defense: Brooklyn Variation	e2e4 g8f6 e4e5 f6g8
+Alekhine Defense: Brooklyn Variation, Everglades Variation	e2e4 g8f6 e4e5 f6g8 d2d4 f7f5
+Alekhine Defense: Buckley Attack	e2e4 g8f6 e4e5 f6d5 b1a3
+Alekhine Defense: Hunt Variation, Lasker Simul Gambit	e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 c4c5 b6d5 f1c4 e7e6 b1c3
+Alekhine Defense: Hunt Variation, Matsukevich Gambit	e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 c4c5 b6d5 b1c3 d5c3 d2c3 d7d6 c1g5
+Alekhine Defense: Hunt Variation, Mikenas Gambit	e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 c4c5 b6d5 f1c4 e7e6 b1c3 d7d6 c3d5 e6d5 c4d5
+Alekhine Defense: Kmoch Variation	e2e4 g8f6 e4e5 f6d5 f1c4 d5b6 c4b3 c7c5 d2d3
+Alekhine Defense: Krejcik Variation	e2e4 g8f6 f1c4
+Alekhine Defense: Krejcik Variation, Krejcik Gambit	e2e4 g8f6 f1c4 f6e4 c4f7
+Alekhine Defense: Maróczy Variation	e2e4 g8f6 d2d3
+Alekhine Defense: Mokele Mbembe	e2e4 g8f6 e4e5 f6e4
+Alekhine Defense: Mokele Mbembe, Modern Line	e2e4 g8f6 e4e5 f6e4 d2d4 f7f6
+Alekhine Defense: Mokele Mbembe, Vavra Defense	e2e4 g8f6 e4e5 f6e4 d2d4 e7e6
+Alekhine Defense: Normal Variation	e2e4 g8f6 e4e5 f6d5
+Alekhine Defense: Scandinavian Variation	e2e4 g8f6 b1c3 d7d5
+Alekhine Defense: Scandinavian Variation, Geschev Gambit	e2e4 g8f6 b1c3 d7d5 e4d5 c7c6
+Alekhine Defense: Scandinavian Variation, Myers Gambit	e2e4 g8f6 b1c3 d7d5 d2d3 d5e4 c1g5
+Alekhine Defense: Spielmann Gambit	e2e4 g8f6 b1c3 d7d5 e4e5 f6d7 e5e6
+Alekhine Defense: Steiner Variation	e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 b2b3
+Alekhine Defense: Sämisch Attack	e2e4 g8f6 e4e5 f6d5 b1c3
+Alekhine Defense: The Squirrel	e2e4 g8f6 e4e5 f6d5 c2c4 d5f4
+Alekhine Defense: Two Pawns Attack	e2e4 g8f6 e4e5 f6d5 c2c4
+Alekhine Defense: Two Pawns Attack, Lasker Variation	e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 c4c5
+Alekhine Defense: Two Pawns Attack, Mikenas Variation	e2e4 g8f6 e4e5 f6d5 c2c4 d5b6 c4c5 b6d5 f1c4 e7e6 b1c3 d7d6
+Alekhine Defense: Welling Variation	e2e4 g8f6 e4e5 f6d5 b2b3
+Alekhine Defense	e2e4 g8f6 e4e5 f6d5 d2d4
+Alekhine Defense	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6
+Alekhine Defense	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4
+Alekhine Defense: Balogh Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 f1c4
+Alekhine Defense: Exchange Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 e5d6
+Alekhine Defense: Exchange Variation, Karpov Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 e5d6 c7d6 b1c3 g7g6 h2h3 f8g7 g1f3 e8g8 f1e2 b8c6 e1g1 c8f5 c1f4
+Alekhine Defense: Exchange Variation, Voronezh Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 e5d6 c7d6 b1c3 g7g6 c1e3 f8g7 a1c1 e8g8 b2b3
+Alekhine Defense: Four Pawns Attack	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 f2f4
+Alekhine Defense: Four Pawns Attack, Cambridge Gambit	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 f2f4 g7g5
+Alekhine Defense: Four Pawns Attack, Fianchetto Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 f2f4 g7g6
+Alekhine Defense: Four Pawns Attack, Ilyin-Zhenevsky Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 f2f4 d6e5 f4e5 b8c6 g1f3 c8g4 e5e6 f7e6 c4c5
+Alekhine Defense: Four Pawns Attack, Korchnoi Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 f2f4 d6e5 f4e5 c8f5 b1c3 e7e6 g1f3 f8e7 f1e2 e8g8 e1g1 f7f6
+Alekhine Defense: Four Pawns Attack, Main Line	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 f2f4 d6e5 f4e5 b8c6 c1e3
+Alekhine Defense: Four Pawns Attack, Tartakower Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 f2f4 d6e5 f4e5 b8c6 c1e3 c8f5 b1c3 e7e6 g1f3 d8d7 f1e2 e8c8 e1g1 f8e7
+Alekhine Defense: Four Pawns Attack, Trifunovic Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 f2f4 c8f5
+Alekhine Defense: Hunt Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 c4c5
+Alekhine Defense: Modern Variation, Alekhine Gambit	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 c2c4 d5b6 g1f3 c8g4 f1e2
+Alekhine Defense: O'Sullivan Gambit	e2e4 g8f6 e4e5 f6d5 d2d4 b7b5
+Alekhine Defense: Modern Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 g1f3
+Alekhine Defense: Modern Variation, Alburt Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 g1f3 g7g6
+Alekhine Defense: Modern Variation, Keres Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 g1f3 g7g6 f1c4 d5b6 c4b3 f8g7 a2a4
+Alekhine Defense: Modern Variation, Larsen Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 g1f3 d6e5
+Alekhine Defense: Modern Variation, Larsen-Haakert Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 g1f3 b8c6
+Alekhine Defense: Modern Variation, Schmid Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 g1f3 d5b6
+Alekhine Defense: Modern Variation, Alekhine Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 g1f3 c8g4 c2c4
+Alekhine Defense: Modern Variation, Flohr Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 g1f3 c8g4 f1e2 c7c6
+Alekhine Defense: Modern Variation, Main Line	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 g1f3 c8g4
+Alekhine Defense: Modern Variation, Panov Variation	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 g1f3 c8g4 h2h3
+Alekhine Defense: Modern Variation, Vitolins Attack	e2e4 g8f6 e4e5 f6d5 d2d4 d7d6 g1f3 c8g4 c2c4 d5b6 d4d5
+Modern Defense	e2e4 g7g6
+Modern Defense	e2e4 g7g6 d2d4 f8g7
+Modern Defense: Anti-Modern	e2e4 g7g6 d2d4 f8g7 b1c3 c7c6 f1c4 d7d6 d1e2
+Modern Defense: Bishop Attack	e2e4 g7g6 d2d4 f8g7 f1c4
+Modern Defense: Bishop Attack, Bücker Gambit	e2e4 g7g6 d2d4 f8g7 f1c4 b7b5
+Modern Defense: Bishop Attack, Monkey's Bum	e2e4 g7g6 f1c4 f8g7 d1f3 e7e6 d2d4 g7d4
+Modern Defense: Dunworthy Variation	e2e4 g7g6 d2d4 f8g7 c2c4 d7d5 e4d5 c7c6 d5c6 g7d4
+Modern Defense: Fianchetto Gambit	e2e4 g7g6 d2d4 f7f5
+Modern Defense: Gurgenidze Defense	e2e4 g7g6 d2d4 f8g7 b1c3 c7c6 f2f4 d7d5 e4e5 h7h5
+Modern Defense: Lizard Defense, Mittenberger Gambit	e2e4 g7g6 d2d4 f8g7 b1c3 d7d5
+Modern Defense: Masur Gambit	e2e4 g7g6 d2d4 g8h6 b1c3 f7f5 c1h6 f8h6 e4f5 e8g8
+Modern Defense: Modern Pterodactyl	e2e4 g7g6 d2d4 f8g7 b1c3 c7c5
+Modern Defense: Mongredien Defense, with Nc3	e2e4 g7g6 d2d4 f8g7 b1c3 b7b6
+Modern Defense: Mongredien Defense, with Nf3	e2e4 g7g6 d2d4 f8g7 g1f3 b7b6
+Modern Defense: Norwegian Defense	e2e4 g7g6 d2d4 g8f6
+Modern Defense: Norwegian Defense, Norwegian Gambit	e2e4 g7g6 d2d4 g8f6 e4e5 f6h5 f1e2 d7d6
+Modern Defense: Pseudo-Austrian Attack	e2e4 g7g6 d2d4 f8g7 b1c3 d7d6 f2f4
+Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation Declined	e2e4 g7g6 d2d4 f8g7 c2c4 c7c5 g1f3 d7d6 f1e2 d8a5
+Modern Defense: Standard Defense	e2e4 g7g6 d2d4 f8g7 b1c3 d7d6
+Modern Defense: Standard Line	e2e4 g7g6 d2d4 f8g7 b1c3
+Modern Defense: Three Pawns Attack	e2e4 g7g6 d2d4 f8g7 f2f4
+Modern Defense: Two Knights Variation	e2e4 g7g6 d2d4 f8g7 b1c3 d7d6 g1f3
+Modern Defense: Two Knights Variation, Suttles Variation	e2e4 g7g6 d2d4 f8g7 b1c3 c7c6 g1f3 d7d6
+Modern Defense: Two Knights Variation, Suttles Variation, Tal Gambit	e2e4 g7g6 d2d4 f8g7 b1c3 d7d6 g1f3 c7c6 c1g5 d8b6 d1d2 b6b2
+Modern Defense: Westermann Gambit	e2e4 g7g6 d2d4 f8g7 c1d2
+Modern Defense: Wind Gambit	e2e4 g7g6 d2d4 f8g7 f1d3
+Norwegian Defense	e2e4 g7g6 d2d4 g8f6 e4e5 f6h5 g2g4 h5g7
+Pterodactyl Defense: Austrian, Austriadactylus Western	e2e4 g7g6 d2d4 f8g7 f2f4 c7c5 g1f3 d8a5
+Pterodactyl Defense: Austrian, Grand Prix Pterodactyl	e2e4 g7g6 b1c3 f8g7 f2f4 c7c5 g1f3 d8a5
+Pterodactyl Defense: Austrian, Pteranodon	e2e4 g7g6 d2d4 f8g7 f2f4 c7c5 c2c3 d8a5
+Pterodactyl Defense: Central, Anhanguera	e2e4 g7g6 d2d4 f8g7 c2c4 c7c5 b1c3 d7d6 c1e3 d8a5
+Pterodactyl Defense: Central, Benoni Quetzalcoatlus	e2e4 g7g6 d2d4 f8g7 c2c4 c7c5 d4d5 d7d6 b1c3 d8a5
+Pterodactyl Defense: Central, Quetzalcoatlus Gambit	e2e4 g7g6 d2d4 f8g7 c2c4 c7c5 b1c3 d7d6 d4c5 d8a5
+Pterodactyl Defense: Eastern, Anhanguera	e2e4 g7g6 d2d4 f8g7 b1c3 c7c5 c1e3
+Pterodactyl Defense: Eastern, Benoni	d2d4 g7g6 e2e4 f8g7 b1c3 c7c5 d4d5
+Pterodactyl Defense: Eastern, Benoni Pteranodon	e2e4 g7g6 d2d4 f8g7 b1c3 c7c5 d4d5 g7c3 b2c3 d8a5
+Pterodactyl Defense: Eastern, Benoni Pterodactyl	d2d4 g7g6 b1c3 f8g7 e2e4 c7c5 d4d5 d8a5
+Pterodactyl Defense: Eastern, Pteranodon	e2e4 g7g6 d2d4 f8g7 b1c3 c7c5 d4c5 g7c3 b2c3 d8a5
+Pterodactyl Defense: Eastern, Pterodactyl	e2e4 g7g6 d2d4 f8g7 b1c3 c7c5 d4c5 d8a5
+Pterodactyl Defense: Eastern, Rhamphorhynchus	e2e4 g7g6 d2d4 f8g7 b1c3 c7c5 d4c5
+Pterodactyl Defense: Fianchetto, King Pterodactyl	e2e4 g7g6 d2d4 f8g7 g2g3 c7c5 g1f3 d8a5
+Pterodactyl Defense: Fianchetto, Rhamphorhynchus	e2e4 g7g6 d2d4 f8g7 g2g3 c7c5 d4c5 d8a5
+Pterodactyl Defense: Sicilian, Quetzalcoatlus	e2e4 g7g6 d2d4 f8g7 b1c3 c7c5 g1f3 d8a5 f1e2 d7d6
+Pterodactyl Defense: Sicilian, Siroccopteryx	e2e4 g7g6 d2d4 f8g7 b1c3 c7c5 g1f3 d8a5 f1c4
+Pterodactyl Defense: Western, Anhanguera	e2e4 g7g6 d2d4 f8g7 g1f3 c7c5 c1e3 d8a5
+Pterodactyl Defense: Western, Siroccopteryx	e2e4 g7g6 g1f3 f8g7 d2d4 c7c5 f1c4 c5d4 f3d4 d8a5
+Rat Defense: Accelerated Gurgenidze	e2e4 g7g6 d2d4 d7d6 b1c3 c7c6
+Czech Defense	e2e4 d7d6 d2d4 g8f6 b1c3 c7c6
+King's Pawn Game: Maróczy Defense	e2e4 d7d6 d2d4 e7e5
+Lion Defense: Anti-Philidor	e2e4 d7d6 d2d4 g8f6 b1c3 b8d7 f2f4
+Lion Defense: Anti-Philidor, Lion's Cave	e2e4 d7d6 d2d4 g8f6 b1c3 b8d7 f2f4 e7e5
+Lion Defense: Anti-Philidor, Lion's Cave, Lion Claw Gambit	e2e4 d7d6 d2d4 g8f6 b1c3 b8d7 f2f4 e7e5 g1f3 e5d4 d1d4 c7c6 f1c4 d6d5
+Lion Defense: Bayonet Attack	e2e4 d7d6 d2d4 g8f6 b1c3 b8d7 g2g4
+Modern Defense: Geller's System	e2e4 g7g6 d2d4 f8g7 g1f3 d7d6 c2c3
+Pirc Defense	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6
+Pirc Defense: 150 Attack	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 c1e3 c7c6 d1d2
+Pirc Defense: 150 Attack, Inner Doll Defense	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 c1e3 c7c6 d1d2 c8g4
+Pirc Defense: 150 Attack, Sveshnikov-Jansa Attack	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 c1e3 c7c6 h2h3
+Pirc Defense: Bayonet Attack	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 f1e2 f8g7 h2h4
+Pirc Defense: Byrne Variation	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 c1g5
+Pirc Defense: Chinese Variation	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 f1e2 f8g7 g2g4
+Pirc Defense: Kholmov System	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 f1c4
+Pirc Defense: Sveshnikov System	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 g2g3
+Pirc Defense: Classical Variation	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 g1f3
+Pirc Defense: Classical Variation	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 g1f3 f8g7
+Pirc Defense: Classical Variation, Quiet System	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 g1f3 f8g7 f1e2
+Pirc Defense: Classical Variation, Quiet System, Chigorin Line	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 g1f3 f8g7 f1e2 e8g8 e1g1 b8c6
+Pirc Defense: Classical Variation, Quiet System, Czech Defense	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 g1f3 f8g7 f1e2 e8g8 e1g1 c7c6
+Pirc Defense: Classical Variation, Quiet System, Parma Defense	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 g1f3 f8g7 f1e2 e8g8 e1g1 c8g4
+Pirc Defense: Classical Variation, Schlechter Variation	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 g1f3 f8g7 h2h3
+Pirc Defense: Austrian Attack	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 f2f4
+Pirc Defense: Austrian Attack	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 f2f4 f8g7 g1f3 e8g8
+Pirc Defense: Austrian Attack, Dragon Formation	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 f2f4 f8g7 g1f3 c7c5
+Pirc Defense: Austrian Attack, Kurajica Variation	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 f2f4 f8g7 g1f3 e8g8 c1e3
+Pirc Defense: Austrian Attack, Ljubojevic Variation	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 f2f4 f8g7 f1c4
+Pirc Defense: Austrian Attack, Unzicker Attack	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 f2f4 f8g7 g1f3 e8g8 e4e5
+Pirc Defense: Austrian Attack, Unzicker Attack, Bronstein Variation	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 f2f4 f8g7 g1f3 e8g8 e4e5 f6d7 h2h4
+Pirc Defense: Austrian Attack, Weiss Variation	e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 f2f4 f8g7 g1f3 e8g8 f1d3
+Caro-Kann Defense	e2e4 c7c6
+Caro-Kann Defense	e2e4 c7c6 b1c3
+Caro-Kann Defense	e2e4 c7c6 b1c3 d7d5
+Caro-Kann Defense: Accelerated Panov Attack	e2e4 c7c6 c2c4
+Caro-Kann Defense: Accelerated Panov Attack	e2e4 c7c6 c2c4 d7d5
+Caro-Kann Defense: Accelerated Panov Attack, Modern Variation	e2e4 c7c6 c2c4 d7d5 e4d5 c6d5 c4d5 g8f6
+Caro-Kann Defense: Accelerated Panov Attack, Open Variation	e2e4 c7c6 c2c4 e7e5
+Caro-Kann Defense: Accelerated Panov Attack, Pseudo-Scandinavian	e2e4 c7c6 c2c4 d7d5 e4d5 d8d5
+Caro-Kann Defense: Accelerated Panov Attack, Van Weersel Attack	e2e4 c7c6 c2c4 d7d5 c4d5 c6d5 d1b3
+Caro-Kann Defense: Apocalypse Attack	e2e4 c7c6 g1f3 d7d5 e4d5 c6d5 f3e5
+Caro-Kann Defense: Breyer Variation	e2e4 c7c6 d2d3
+Caro-Kann Defense: Breyer Variation, Stein Attack	e2e4 c7c6 d2d3 d7d5 b1d2 g7g6 g1f3 f8g7 g2g3 e7e5 f1g2 g8e7 e1g1 e8g8 b2b4
+Caro-Kann Defense: Euwe Attack	e2e4 c7c6 b2b3
+Caro-Kann Defense: Goldman Variation	e2e4 c7c6 b1c3 d7d5 d1f3
+Caro-Kann Defense: Hector Gambit	e2e4 c7c6 b1c3 d7d5 g1f3 d5e4 f3g5
+Caro-Kann Defense: Hillbilly Attack	e2e4 c7c6 f1c4
+Caro-Kann Defense: Hillbilly Attack, Schaeffer Gambit	e2e4 c7c6 f1c4 d7d5 c4b3 d5e4 d1h5
+Caro-Kann Defense: Labahn Attack	e2e4 c7c6 b2b4
+Caro-Kann Defense: Labahn Attack, Double Gambit	e2e4 c7c6 b2b4 d7d5 b4b5
+Caro-Kann Defense: Labahn Attack, Polish Variation	e2e4 c7c6 b2b4 e7e5 c1b2
+Caro-Kann Defense: Scorpion-Horus Gambit	e2e4 c7c6 b1c3 d7d5 d2d3 d5e4 c1g5
+Caro-Kann Defense: Spike Variation	e2e4 c7c6 g2g4
+Caro-Kann Defense: Spike Variation, Scorpion-Grob Gambit	e2e4 c7c6 g2g4 d7d5 b1c3 d5e4 d2d3
+Caro-Kann Defense: Toikkanen Gambit	e2e4 c7c6 c2c4 d7d5 e4e5
+Caro-Kann Defense: Two Knights Attack	e2e4 c7c6 b1c3 d7d5 g1f3
+Caro-Kann Defense: Two Knights Attack, Mindeno Variation	e2e4 c7c6 b1c3 d7d5 g1f3 c8g4
+Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line	e2e4 c7c6 b1c3 d7d5 g1f3 c8g4 h2h3 g4f3
+Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Retreat Line	e2e4 c7c6 b1c3 d7d5 g1f3 c8g4 h2h3 g4h5
+Caro-Kann Defense	e2e4 c7c6 d2d4
+Caro-Kann Defense	e2e4 c7c6 d2d4 d7d5
+Caro-Kann Defense: Advance Variation	e2e4 c7c6 d2d4 d7d5 e4e5
+Caro-Kann Defense: Advance Variation, Bayonet Attack	e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 g2g4
+Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense	e2e4 c7c6 d2d4 d7d5 e4e5 c6c5
+Caro-Kann Defense: Advance Variation, Bronstein Variation	e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 g1e2
+Caro-Kann Defense: Advance Variation, Prins Attack	e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 b2b4
+Caro-Kann Defense: Advance Variation, Short Variation	e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 g1f3
+Caro-Kann Defense: Advance Variation, Tal Variation	e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 h2h4
+Caro-Kann Defense: Advance Variation, Van der Wiel Attack	e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 b1c3
+Caro-Kann Defense: Advance Variation, Van der Wiel Attack	e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 b1c3 e7e6 g2g4 f5g6 g1e2 c6c5 h2h4
+Caro-Kann Defense: Advance Variation, Van der Wiel Attack, Dreyev Defense	e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 b1c3 d8b6
+Caro-Kann Defense: Advance, Short Variation	e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 c2c3 e7e6 f1e2
+Caro-Kann Defense: De Bruycker Defense	e2e4 c7c6 d2d4 b8a6
+Caro-Kann Defense: De Bruycker Defense	e2e4 c7c6 d2d4 b8a6 b1c3 a6c7
+Caro-Kann Defense: Edinburgh Variation	e2e4 c7c6 d2d4 d7d5 b1d2 d8b6
+Caro-Kann Defense: Maróczy Variation	e2e4 c7c6 d2d4 d7d5 f2f3
+Caro-Kann Defense: Maróczy Variation, Maróczy Gambit	e2e4 c7c6 d2d4 d7d5 f2f3 d5e4 f3e4 e7e5 g1f3 e5d4 f1c4
+Caro-Kann Defense: Masi Variation	e2e4 c7c6 d2d4 g8f6
+Caro-Kann Defense: Massachusetts Defense	e2e4 c7c6 d2d4 f7f5
+Caro-Kann Defense: Mieses Attack, Landau Gambit	e2e4 c7c6 d2d4 d7d5 f1d3 g8f6 e4e5 f6d7 e5e6
+Caro-Kann Defense: Mieses Gambit	e2e4 c7c6 d2d4 d7d5 c1e3
+Caro-Kann Defense: Modern Variation	e2e4 c7c6 d2d4 d7d5 b1d2
+Caro-Kann Defense: Ulysses Gambit	e2e4 c7c6 d2d4 d7d5 g1f3 d5e4 f3g5
+Caro-Kann Defense: Exchange Variation	e2e4 c7c6 d2d4 d7d5 e4d5
+Caro-Kann Defense: Exchange Variation, Bulla Attack	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 g2g4
+Caro-Kann Defense: Exchange Variation, Rubinstein Variation	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 f1d3 b8c6 c2c3 g8f6 c1f4
+Caro-Kann Defense: Panov Attack	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4
+Caro-Kann Defense: Panov Attack	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 g8f6 b1c3
+Caro-Kann Defense: Panov Attack, Gunderam Attack	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 g8f6 c4c5
+Caro-Kann Defense: Panov Attack, Modern Defense	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 g8f6 b1c3 b8c6
+Caro-Kann Defense: Panov Attack, Modern Defense, Carlsbad Line	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 g8f6 b1c3 b8c6 c1g5 e7e6
+Caro-Kann Defense: Panov Attack, Modern Defense, Czerniak Line	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 g8f6 b1c3 b8c6 c1g5 d8a5
+Caro-Kann Defense: Panov Attack, Modern Defense, Mieses Line	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 g8f6 b1c3 b8c6 g1f3 c8g4
+Caro-Kann Defense: Panov Attack, Modern Defense, Reifir-Spielmann Line	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 g8f6 b1c3 b8c6 c1g5 d8b6
+Caro-Kann Defense: Panov-Botvinnik, Herzog Defense	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 g8f6 b1c3 b8c6 c1g5 d5c4 d4d5 c6a5
+Caro-Kann Defense: Panov Attack	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 g8f6 b1c3 e7e6
+Caro-Kann Defense: Panov Attack, Fianchetto Defense	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 g8f6 b1c3 g7g6
+Caro-Kann Defense: Panov Attack, Fianchetto Defense, Fianchetto Gambit	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 g8f6 b1c3 g7g6 c4d5 f8g7
+Caro-Kann Defense: Panov Attack, Main Line	e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 g8f6 b1c3 e7e6 g1f3 f8b4
+Caro-Kann Defense	e2e4 c7c6 d2d4 d7d5 b1c3
+Caro-Kann Defense	e2e4 c7c6 d2d4 d7d5 b1c3 d5e4
+Caro-Kann Defense: Alekhine Gambit	e2e4 c7c6 d2d4 d7d5 b1c3 d5e4 c3e4 g8f6 f1d3
+Caro-Kann Defense: Campomanes Attack	e2e4 c7c6 d2d4 d7d5 b1c3 g8f6
+Caro-Kann Defense: Forgacs Variation	e2e4 c7c6 d2d4 d7d5 b1c3 d5e4 c3e4 g8f6 e4f6 e7f6 f1c4
+Caro-Kann Defense: Gurgenidze Counterattack	e2e4 c7c6 d2d4 d7d5 b1c3 b7b5
+Caro-Kann Defense: Gurgenidze System	e2e4 c7c6 d2d4 d7d5 b1c3 g7g6
+Caro-Kann Defense: Main Line	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4
+Caro-Kann Defense: Rasa-Studier Gambit	e2e4 c7c6 d2d4 d7d5 b1c3 d5e4 f2f3
+Caro-Kann Defense: Tartakower Variation	e2e4 c7c6 d2d4 d7d5 b1c3 d5e4 c3e4 g8f6 e4f6 e7f6
+Caro-Kann Defense: von Hennig Gambit	e2e4 c7c6 d2d4 d7d5 b1c3 d5e4 f1c4
+Caro-Kann Defense: Bronstein-Larsen Variation	e2e4 c7c6 d2d4 d7d5 b1c3 d5e4 c3e4 g8f6 e4f6 g7f6
+Caro-Kann Defense: Finnish Variation	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 h7h6
+Caro-Kann Defense: Karpov Variation	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 b8d7
+Caro-Kann Defense: Karpov Variation, Modern Main Line	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 b8d7 e4g5 g8f6 f1d3 e7e6 g1f3 f8d6 d1e2 h7h6 g5e4 f6e4 e2e4
+Caro-Kann Defense: Karpov Variation, Modern Variation	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 b8d7 e4g5
+Caro-Kann Defense: Karpov Variation, Modern Variation, Ivanchuk Defense	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 b8d7 e4g5 d7f6
+Caro-Kann Defense: Karpov Variation, Modern Variation, Kasparov Attack	e2e4 c7c6 d2d4 d7d5 b1c3 d5e4 c3e4 b8d7 g1f3 g8f6 e4g3
+Caro-Kann Defense: Karpov Variation, Smyslov Variation	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 b8d7 f1c4 g8f6 e4g5 e7e6 d1e2 d7b6
+Caro-Kann Defense: Karpov Variation, Smyslov Variation, Main Line	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 b8d7 f1c4 g8f6 e4g5 e7e6 d1e2 d7b6 c4b3
+Caro-Kann Defense: Karpov Variation, Tiviakov-Fischer Attack	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 b8d7 f1c4 g8f6 e4f6 d7f6
+Caro-Kann Defense: Classical Variation	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 c8f5
+Caro-Kann Defense: Classical Variation, Flohr Variation	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 c8f5 e4g3 f5g6 g1h3
+Caro-Kann Defense: Classical Variation, Main Line	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 c8f5 e4g3 f5g6 h2h4
+Caro-Kann Defense: Classical Variation, Maróczy Attack	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 c8f5 e4g3 f5g6 f2f4
+Caro-Kann Defense: Classical Variation	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 c8f5 e4g3 f5g6 h2h4 h7h6 g1f3 b8d7
+Caro-Kann Defense: Classical Variation, Lobron System	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 c8f5 e4g3 f5g6 h2h4 h7h6 g1f3 b8d7 h4h5 g6h7 f1d3 h7d3 d1d3 e7e6 c1d2 g8f6 e1c1 f8e7
+Caro-Kann Defense: Classical Variation, Seirawan Variation	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 c8f5 e4g3 f5g6 h2h4 h7h6 g1f3 b8d7 h4h5 g6h7 f1d3 h7d3 d1d3 g8f6 c1d2 e7e6 e1c1 f8d6
+Caro-Kann Defense: Classical Variation, Spassky Variation	e2e4 c7c6 d2d4 d7d5 b1d2 d5e4 d2e4 c8f5 e4g3 f5g6 h2h4 h7h6 g1f3 b8d7 h4h5
+Sicilian Defense	e2e4 c7c5
+Sicilian Defense: Amazon Attack	e2e4 c7c5 d1g4
+Sicilian Defense: Big Clamp Formation	e2e4 c7c5 d2d3 b8c6 c2c3 d7d6 f2f4
+Sicilian Defense: Bowdler Attack	e2e4 c7c5 f1c4
+Sicilian Defense: Brick Variation	e2e4 c7c5 g1h3
+Sicilian Defense: Euwe Attack, Prins Gambit	e2e4 c7c5 b2b3 d7d5 c1b2
+Sicilian Defense: Gloria Variation	e2e4 c7c5 c2c4 d7d6 b1c3 b8c6 g2g3 h7h5
+Sicilian Defense: Grob Variation	e2e4 c7c5 g2g4
+Sicilian Defense: Keres Variation	e2e4 c7c5 g1e2
+Sicilian Defense: King David's Opening	e2e4 c7c5 e1e2
+Sicilian Defense: Kronberger Variation	e2e4 c7c5 b1a3
+Sicilian Defense: Kronberger Variation, Nemeth Gambit	e2e4 c7c5 b1a3 b8c6 d2d4 c5d4 f1c4
+Sicilian Defense: Lasker-Dunne Attack	e2e4 c7c5 g2g3
+Sicilian Defense: Mengarini Variation	e2e4 c7c5 a2a3
+Sicilian Defense: Myers Attack, with a4	e2e4 c7c5 a2a4
+Sicilian Defense: Myers Attack, with h4	e2e4 c7c5 h2h4
+Sicilian Defense: Snyder Variation	e2e4 c7c5 b2b3
+Sicilian Defense: Snyder Variation, Queen Fianchetto Variation	e2e4 c7c5 b2b3 b7b6
+Sicilian Defense: Staunton-Cochrane Variation	e2e4 c7c5 c2c4
+Sicilian Defense: Wing Gambit	e2e4 c7c5 b2b4
+Sicilian Defense: Wing Gambit, Abrahams Variation	e2e4 c7c5 b2b4 c5b4 c1b2
+Sicilian Defense: Wing Gambit, Carlsbad Variation	e2e4 c7c5 b2b4 c5b4 a2a3 b4a3
+Sicilian Defense: Wing Gambit, Marienbad Variation	e2e4 c7c5 b2b4 c5b4 a2a3 d7d5 e4d5 d8d5 c1b2
+Sicilian Defense: Wing Gambit, Marshall Variation	e2e4 c7c5 b2b4 c5b4 a2a3
+Sicilian Defense: Wing Gambit, Nanu Gambit	e2e4 c7c5 b2b4 c5b4 a2a3 d7d5 e4d5 d8d5 g1f3 e7e5 c2c4 d5e6 f1d3
+Sicilian Defense: Wing Gambit, Romanian Defense	e2e4 c7c5 b2b4 c5b4 a2a3 d7d5 e4d5 d8d5 g1f3 e7e5 c1b2 b8c6 c2c4 d5e6
+Sicilian Defense: Wing Gambit, Santasiere Variation	e2e4 c7c5 b2b4 c5b4 c2c4
+Bird Opening: Dutch Variation, Batavo Gambit	e2e4 c7c5 f2f4 d7d5 g1f3 d5e4
+Sicilian Defense: Coles Sicilian Gambit	e2e4 c7c5 d2d4 c5d4 d1d4 b8c6 d4d1 g8f6 f1c4
+Sicilian Defense: Halasz Gambit	e2e4 c7c5 d2d4 c5d4 f2f4
+Sicilian Defense: McDonnell Attack	e2e4 c7c5 f2f4
+Sicilian Defense: McDonnell Attack, Tal Gambit	e2e4 c7c5 f2f4 d7d5 e4d5 g8f6
+Sicilian Defense: Morphy Gambit	e2e4 c7c5 d2d4 c5d4 g1f3
+Sicilian Defense: Morphy Gambit, Andreaschek Gambit	e2e4 c7c5 d2d4 c5d4 g1f3 e7e5 c2c3
+Sicilian Defense: Smith-Morra Gambit	e2e4 c7c5 d2d4
+Sicilian Defense: Smith-Morra Gambit	e2e4 c7c5 d2d4 c5d4 c2c3
+Sicilian Defense: Smith-Morra Gambit Accepted, Chicago Defense	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 d7d6 g1f3 e7e6 f1c4 g8f6 e1g1 a7a6
+Sicilian Defense: Smith-Morra Gambit Accepted, Classical Formation	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 b8c6 g1f3 d7d6 f1c4 a7a6 e1g1 g8f6
+Sicilian Defense: Smith-Morra Gambit Accepted, Fianchetto Defense	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 b8c6 g1f3 g7g6
+Sicilian Defense: Smith-Morra Gambit Accepted, Finegold Defense	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 e7e6 g1f3 d7d6 f1c4 a7a6 e1g1 f8e7 d1e2 g8f6
+Sicilian Defense: Smith-Morra Gambit Accepted, Kan Formation	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 e7e6 g1f3 a7a6
+Sicilian Defense: Smith-Morra Gambit Accepted, Larsen Defense	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 b8c6 g1f3 e7e6 f1c4 d8c7 d1e2 a7a6 e1g1 f8d6
+Sicilian Defense: Smith-Morra Gambit Accepted, Morphy Defense	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 b8c6 g1f3 e7e6 f1c4 f8c5
+Sicilian Defense: Smith-Morra Gambit Accepted, Morphy Defense Deferred	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 b8c6 g1f3 e7e6 f1c4 a7a6 e1g1 b7b5 c4b3 f8c5
+Sicilian Defense: Smith-Morra Gambit Accepted, Paulsen Formation	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 b8c6 g1f3 e7e6 f1c4 a7a6
+Sicilian Defense: Smith-Morra Gambit Accepted, Pin Defense	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 b8c6 g1f3 e7e6 f1c4 f8b4
+Sicilian Defense: Smith-Morra Gambit Accepted, Scheveningen Formation	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 b8c6 g1f3 d7d6 f1c4 e7e6
+Sicilian Defense: Smith-Morra Gambit Accepted, Sozin Formation	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 b8c6 f1c4 e7e6 g1f3 d7d6 e1g1 a7a6 d1e2 b7b5
+Sicilian Defense: Smith-Morra Gambit Accepted, Taimanov Formation	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 e7e6 f1c4 a7a6 g1f3 g8e7
+Sicilian Defense: Smith-Morra Gambit Declined, Alapin Formation	e2e4 c7c5 d2d4 c5d4 c2c3 g8f6
+Sicilian Defense: Smith-Morra Gambit Declined, Center Formation	e2e4 c7c5 d2d4 c5d4 c2c3 e7e5
+Sicilian Defense: Smith-Morra Gambit Declined, Dubois Variation	e2e4 c7c5 d2d4 c5d4 c2c3 d4d3 c3c4
+Sicilian Defense: Smith-Morra Gambit Declined, Push Variation	e2e4 c7c5 d2d4 c5d4 c2c3 d4d3
+Sicilian Defense: Smith-Morra Gambit Declined, Scandinavian Formation	e2e4 c7c5 d2d4 c5d4 c2c3 d7d5
+Sicilian Defense: Smith-Morra Gambit Declined, Wing Formation	e2e4 c7c5 d2d4 c5d4 c2c3 d8a5
+Sicilian Defense: Smith-Morra Gambit, Chicago Defense	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 b1c3 b8c6 f1c4 e7e6 g1f3 d7d6 e1g1 a7a6 d1e2 b7b5 c4b3 a8a7
+Sicilian Defense: Smith-Morra Gambit, Danish Variation	e2e4 c7c5 d2d4 c5d4 c2c3 d4c3 g1f3
+Sicilian Defense: Alapin Variation	e2e4 c7c5 c2c3
+Sicilian Defense: Alapin Variation, Barmen Defense	e2e4 c7c5 c2c3 d7d5 e4d5 d8d5
+Sicilian Defense: Alapin Variation, Barmen Defense, Central Exchange	e2e4 c7c5 c2c3 d7d5 e4d5 d8d5 d2d4 c5d4 c3d4 b8c6 g1f3 c8g4
+Sicilian Defense: Alapin Variation, Barmen Defense, Endgame Variation	e2e4 c7c5 c2c3 d7d5 e4d5 d8d5 d2d4 c5d4 c3d4 b8c6 g1f3 c8g4 b1c3 g4f3 g2f3 d5d4 d1d4 c6d4
+Sicilian Defense: Alapin Variation, Barmen Defense, Milner-Barry Attack	e2e4 c7c5 c2c3 d7d5 e4d5 d8d5 d2d4 b8c6 g1f3 c5d4 c3d4 e7e5 b1c3 f8b4 f1e2
+Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line	e2e4 c7c5 c2c3 d7d5 e4d5 d8d5 d2d4 g8f6 g1f3 c8g4
+Sicilian Defense: Alapin Variation, Smith-Morra Declined	e2e4 c7c5 c2c3 g8f6 e4e5 f6d5 d2d4 c5d4
+Sicilian Defense: Alapin Variation, Stoltz Attack	e2e4 c7c5 c2c3 g8f6 e4e5 f6d5 g1f3 b8c6 f1c4 d5b6 c4b3
+Sicilian Defense: Alapin Variation, Stoltz Attack, Ivanchuk Line	e2e4 c7c5 c2c3 g8f6 e4e5 f6d5 g1f3 b8c6 f1c4 d5b6 c4b3 c5c4 b3c2 d8c7 d1e2 g7g5
+Sicilian Defense: Heidenfeld Variation	e2e4 c7c5 c2c3 g8f6 e4e5 f6d5 g1f3 b8c6 b1a3
+Sicilian Defense: Closed	e2e4 c7c5 b1c3
+Sicilian Defense: Closed	e2e4 c7c5 b1c3 e7e6
+Sicilian Defense: Closed	e2e4 c7c5 b1c3 e7e6 g2g3
+Sicilian Defense: Closed, Chameleon Variation	e2e4 c7c5 b1c3 b8c6 g1e2
+Sicilian Defense: Closed, Grob Attack	e2e4 c7c5 b1c3 b8c6 g2g4
+Sicilian Defense: Closed, Korchnoi Defense	e2e4 c7c5 b1c3 e7e6 g2g3 d7d5
+Sicilian Defense: Closed, Traditional	e2e4 c7c5 b1c3 b8c6
+Sicilian Defense: Grand Prix Attack	e2e4 c7c5 b1c3 b8c6 f2f4
+Sicilian Defense: Grand Prix Attack, Schofman Variation	e2e4 c7c5 b1c3 b8c6 f2f4 g7g6 g1f3 f8g7 f1c4 e7e6 f4f5
+Sicilian Defense: Closed	e2e4 c7c5 b1c3 b8c6 g2g3 g7g6
+Sicilian Defense: Closed	e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7
+Sicilian Defense: Closed, Fianchetto Variation	e2e4 c7c5 b1c3 b8c6 g2g3
+Sicilian Defense: Closed, Smyslov Variation	e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 e7e6 c1e3 c6d4 c3e2
+Sicilian Defense: Closed	e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6
+Sicilian Defense: Closed	e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6 f2f4
+Sicilian Defense: Closed, Botvinnik Defense, Edge Variation	e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6 f2f4 e7e5 g1h3 g8e7
+Sicilian Defense: Closed, Botvinnik Defense, with Nge2	e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6 g1e2 e7e5
+Sicilian Defense: Closed, Botvinnik Defense, with f4	e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6 f2f4 e7e5
+Sicilian Defense: Closed	e2e4 c7c5 b1c3 b8c6 g2g3 g7g6 f1g2 f8g7 d2d3 d7d6 c1e3
+Modern Defense: Pterodactyl Variation	e2e4 c7c5 g1f3 g7g6 d2d4 f8g7 b1c3 d8a5
+Pterodactyl Defense: Sicilian, Anhanguera	e2e4 c7c5 g1f3 g7g6 d2d4 f8g7 b1c3 d8a5 c1e3
+Pterodactyl Defense: Sicilian, Benoni Gambit	e2e4 c7c5 g1f3 g7g6 d2d4 f8g7 b1c3 d8a5 d4d5
+Pterodactyl Defense: Sicilian, Pteranodon	e2e4 c7c5 g1f3 g7g6 d2d4 f8g7 d4c5 d8a5 b1c3 g7c3 b2c3
+Pterodactyl Defense: Sicilian, Rhamphorhynchus	e2e4 c7c5 g1f3 g7g6 d2d4 f8g7 d4c5 d8a5 b1c3
+Pterodactyl Defense: Sicilian, Unpin	e2e4 c7c5 g1f3 g7g6 d2d4 f8g7 b1c3 d8a5 c1d2
+Pterodactyl Defense: Western, Pterodactyl	e2e4 c7c5 g1f3 g7g6 c2c3 f8g7 d2d4 d8a5
+Pterodactyl Defense: Western, Rhamphorhynchus	e2e4 c7c5 g1f3 g7g6 d2d4 f8g7 d4c5 d8a5
+Sicilian Defense	e2e4 c7c5 g1f3
+Sicilian Defense: Acton Extension	e2e4 c7c5 g1f3 g7g6 c2c4 f8h6
+Sicilian Defense: Brussels Gambit	e2e4 c7c5 g1f3 f7f5
+Sicilian Defense: Bücker Variation	e2e4 c7c5 g1f3 h7h6
+Sicilian Defense: Double-Dutch Gambit	e2e4 c7c5 g1f3 f7f5 e4f5 g8h6
+Sicilian Defense: Frederico Variation	e2e4 c7c5 g1f3 g7g6 d2d4 f7f5
+Sicilian Defense: Hyperaccelerated Dragon	e2e4 c7c5 g1f3 g7g6
+Sicilian Defense: Hyperaccelerated Fianchetto	e2e4 c7c5 g1f3 g7g6 d2d4
+Sicilian Defense: Hyperaccelerated Pterodactyl	e2e4 c7c5 g1f3 g7g6 d2d4 f8g7
+Sicilian Defense: Hyperaccelerated Pterodactyl, Exchange Variation	e2e4 c7c5 g1f3 g7g6 d2d4 f8g7 d4c5 d8a5 b1c3 g7c3 b2c3 a5c3
+Sicilian Defense: Jalalabad Variation	e2e4 c7c5 g1f3 e7e5
+Sicilian Defense: Katalimov Variation	e2e4 c7c5 g1f3 b7b6
+Sicilian Defense: Mongoose Variation	e2e4 c7c5 g1f3 d8a5
+Sicilian Defense: Polish Gambit	e2e4 c7c5 g1f3 b7b5
+Sicilian Defense: Quinteros Variation	e2e4 c7c5 g1f3 d8c7
+Sicilian Defense: O'Kelly Variation	e2e4 c7c5 g1f3 a7a6
+Sicilian Defense: O'Kelly Variation, Aronin System	e2e4 c7c5 g1f3 a7a6 f1e2
+Sicilian Defense: O'Kelly Variation, Kieseritzky System	e2e4 c7c5 g1f3 a7a6 b2b3
+Sicilian Defense: O'Kelly Variation, Maróczy Bind	e2e4 c7c5 g1f3 a7a6 c2c4
+Sicilian Defense: O'Kelly Variation, Maróczy Bind, Paulsen Line	e2e4 c7c5 g1f3 a7a6 c2c4 e7e6
+Sicilian Defense: O'Kelly Variation, Maróczy Bind, Robatsch Line	e2e4 c7c5 g1f3 a7a6 c2c4 d7d6
+Sicilian Defense: O'Kelly Variation, Normal System	e2e4 c7c5 g1f3 a7a6 d2d4
+Sicilian Defense: O'Kelly Variation, Normal System, Cortlever Gambit	e2e4 c7c5 g1f3 a7a6 d2d4 c5d4 f1c4
+Sicilian Defense: O'Kelly Variation, Normal System, Smith-Morra Line	e2e4 c7c5 g1f3 a7a6 d2d4 c5d4 c2c3
+Sicilian Defense: O'Kelly Variation, Normal System, Taimanov Line	e2e4 c7c5 g1f3 a7a6 d2d4 c5d4 f3d4 e7e5
+Sicilian Defense: O'Kelly Variation, Normal System, Zagorovsky Line	e2e4 c7c5 g1f3 a7a6 d2d4 c5d4 d1d4
+Sicilian Defense: O'Kelly Variation, Quiet System	e2e4 c7c5 g1f3 a7a6 d2d3
+Sicilian Defense: O'Kelly Variation, Réti System	e2e4 c7c5 g1f3 a7a6 g2g3
+Sicilian Defense: O'Kelly Variation, Venice System	e2e4 c7c5 g1f3 a7a6 c2c3
+Sicilian Defense: O'Kelly Variation, Venice System, Barcza Line	e2e4 c7c5 g1f3 a7a6 c2c3 g8f6
+Sicilian Defense: O'Kelly Variation, Venice System, Gambit Line	e2e4 c7c5 g1f3 a7a6 c2c3 d7d5 e4d5 g8f6
+Sicilian Defense: O'Kelly Variation, Venice System, Ljubojevic Line	e2e4 c7c5 g1f3 a7a6 c2c3 b7b5
+Sicilian Defense: O'Kelly Variation, Venice System, Steiner Line	e2e4 c7c5 g1f3 a7a6 c2c3 d7d6
+Sicilian Defense: O'Kelly Variation, Wing Gambit	e2e4 c7c5 g1f3 a7a6 b2b4
+Sicilian Defense: O'Kelly Variation, Yerevan System	e2e4 c7c5 g1f3 a7a6 b1c3
+Sicilian Defense: Nimzowitsch Variation	e2e4 c7c5 g1f3 g8f6
+Sicilian Defense: Nimzowitsch Variation, Advance Variation	e2e4 c7c5 g1f3 g8f6 e4e5
+Sicilian Defense: Nimzowitsch Variation, Closed Variation	e2e4 c7c5 g1f3 g8f6 b1c3
+Sicilian Defense: Nimzowitsch Variation, Exchange Variation	e2e4 c7c5 g1f3 g8f6 e4e5 f6d5 b1c3 d5c3
+Sicilian Defense: Nimzowitsch Variation, Main Line	e2e4 c7c5 g1f3 g8f6 e4e5 f6d5 b1c3 e7e6 c3d5 e6d5 d2d4 b8c6
+Sicilian Defense: Closed, Anti-Sveshnikov Variation, Kharlov-Kramnik Line	e2e4 c7c5 g1f3 b8c6 b1c3 e7e5 f1c4 f8e7 d2d3 d7d6 f3d2 e7g5
+Sicilian Defense: Nyezhmetdinov-Rossolimo Attack	e2e4 c7c5 g1f3 b8c6 f1b5
+Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, San Francisco Gambit	e2e4 c7c5 g1f3 b8c6 f1b5 c6a5 b2b4
+Sicilian Defense: Old Sicilian	e2e4 c7c5 g1f3 b8c6
+Sicilian Defense: Portsmouth Gambit	e2e4 c7c5 g1f3 b8c6 b2b4
+Sicilian Defense: Rossolimo Variation, Brooklyn Retreat Defense	e2e4 c7c5 g1f3 b8c6 f1b5 c6b8
+Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation	e2e4 c7c5 g1f3 b8c6 f1b5 g7g6
+Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Gufeld Gambit	e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 c2c3 e7e5 d2d4
+Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Lutikov Gambit	e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 c2c3 g8f6 d2d4
+Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Totsky Attack	e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 c2c3 g8f6 d1a4
+Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Gurgenidze Variation	e2e4 c7c5 g1f3 b8c6 f1b5 g7g6 e1g1 f8g7 f1e1 e7e5 b2b4
+Sicilian Defense: Accelerated Dragon	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6
+Sicilian Defense: Flohr Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 d8c7
+Sicilian Defense: Franco-Sicilian Variation	e2e4 c7c5 g1f3 b8c6 d2d4 e7e6
+Sicilian Defense: Godiva Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 d8b6
+Sicilian Defense: Kalashnikov Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 e7e5 d4b5 d7d6
+Sicilian Defense: Löwenthal Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 e7e5
+Sicilian Defense: Nimzo-American Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 d7d5
+Sicilian Defense: O'Kelly Variation, Maróczy Bind, Geller Line	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 a7a6 c2c4 e7e5
+Sicilian Defense: Open	e2e4 c7c5 g1f3 b8c6 d2d4
+Sicilian Defense: Open	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4
+Sicilian Defense: Open	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4
+Sicilian Defense: Four Knights Variation, Cobra Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e6 d4b5 f8c5
+Sicilian Defense: Lasker-Pelikan Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5
+Sicilian Defense: Lasker-Pelikan Variation, Bird Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5 d4b5 d7d6 c1g5 a7a6 b5a3 c8e6
+Sicilian Defense: Lasker-Pelikan Variation, Exchange Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5 d4c6
+Sicilian Defense: Lasker-Pelikan Variation, Retreat Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5 d4f3
+Sicilian Defense: Lasker-Pelikan Variation, Schlechter Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5 d4b3
+Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5 d4b5 d7d6 c1g5 a7a6 b5a3 b7b5
+Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5 d4b5 d7d6 c1g5 a7a6 b5a3 b7b5 g5f6 g7f6 c3d5 f6f5
+Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5 d4b5 d7d6 c1g5 a7a6 b5a3 b7b5 c3d5
+Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Novosibirsk Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5 d4b5 d7d6 c1g5 a7a6 b5a3 b7b5 g5f6 g7f6 c3d5 f8g7
+Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Peresypkin's Sacrifice	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5 d4b5 d7d6 c1g5 a7a6 b5a3 b7b5 g5f6 g7f6 c3d5 f6f5 f1b5
+Sicilian Defense: Open	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6
+Sicilian Defense: Accelerated Dragon, Exchange Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 d4c6
+Sicilian Defense: Accelerated Dragon, Modern Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 b1c3
+Sicilian Defense: Accelerated Dragon, Modern Bc4 Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 b1c3 f8g7 c1e3 g8f6 f1c4
+Sicilian Defense: Dragon Variation, Modern Bc4 Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 b1c3 f8g7 c1e3 g8f6 f1c4 d7d6
+Sicilian Defense: Accelerated Dragon, Maróczy Bind	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 c2c4
+Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 c2c4 g8f6 b1c3 c6d4 d1d4 d7d6
+Sicilian Defense: Accelerated Dragon, Maróczy Bind	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 c2c4 f8g7
+Sicilian Defense: Accelerated Dragon, Simagin Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 c2c4 f8g7 d4c2 d7d6 f1e2 g8h6
+Sicilian Defense: Accelerated Dragon, Maróczy Bind	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 c2c4 f8g7 c1e3
+Sicilian Defense: Accelerated Dragon, Maróczy Bind, Breyer Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 c2c4 f8g7 c1e3 g8f6 b1c3 f6g4
+Sicilian Defense: Alapin Variation, Sherzer Variation	e2e4 c7c5 g1f3 e7e6 c2c3 g8f6 e4e5 f6d5 d2d4 b8c6
+Sicilian Defense: Delayed Alapin Variation	e2e4 c7c5 g1f3 e7e6 c2c3
+Sicilian Defense: Drazic Variation	e2e4 c7c5 g1f3 e7e6 d2d4 a7a6
+Sicilian Defense: Four Knights Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6
+Sicilian Defense: Four Knights Variation, Exchange Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 d4c6
+Sicilian Defense: French Variation	e2e4 c7c5 g1f3 e7e6
+Sicilian Defense: French Variation, Normal	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6
+Sicilian Defense: French Variation, Open	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4
+Sicilian Defense: French Variation, Westerinen Attack	e2e4 c7c5 g1f3 e7e6 b2b3
+Sicilian Defense: Gaw-Paw Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 d8b6
+Sicilian Defense: Kan Variation, Wing Attack, Fianchetto Variation	e2e4 c7c5 g1f3 e7e6 b1c3 a7a6 g2g3 b7b5 d2d4 c5d4 f3d4
+Sicilian Defense: Kramnik Variation	e2e4 c7c5 g1f3 e7e6 c2c4
+Sicilian Defense: Kveinis Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 d8b6
+Sicilian Defense: Marshall Counterattack	e2e4 c7c5 g1f3 e7e6 d2d4 d7d5
+Sicilian Defense: Paulsen-Basman Defense	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 f8c5
+Sicilian Defense: Pin Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 f8b4
+Sicilian Defense: Pin Variation, Jaffe Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 f8b4 f1d3 e6e5
+Sicilian Defense: Pin Variation, Koch Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 f8b4 e4e5
+Sicilian Defense: Smith-Morra Gambit Deferred	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 c2c3
+Sicilian Defense: Wing Gambit Deferred	e2e4 c7c5 g1f3 e7e6 b2b4
+Sicilian Defense: Kan Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6
+Sicilian Defense: Kan Variation, Maróczy Bind, Bronstein Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 c2c4 g8f6 b1c3 f8b4 f1d3 b8c6
+Sicilian Defense: Kan Variation, Maróczy Bind, Bronstein Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 c2c4 g8f6 b1c3 f8b4 f1d3 b8c6 d3c2
+Sicilian Defense: Kan Variation, Maróczy Bind, Hedgehog Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 c2c4 g7g6
+Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 c2c4
+Sicilian Defense: Kan Variation, Gipslis Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 f1d3 g8f6 e1g1 d7d6 c2c4 g7g6
+Sicilian Defense: Kan Variation, Modern Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 f1d3
+Sicilian Defense: Kan Variation, Polugaevsky Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 f1d3 f8c5
+Sicilian Defense: Kan Variation, Swiss Cheese Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 f1d3 g7g6
+Sicilian Defense: Kan Variation, Knight Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 b1c3
+Sicilian Defense: Kan Variation, Wing Attack	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 b1c3 b7b5
+Sicilian Defense: Kan Variation, Wing Attack, Christiansen's Dream	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 b1c3 b7b5 f1d3 d8b6 c1e3 f8c5 d1g4
+Sicilian Defense: Kan Variation, Wing Attack, Spraggett Attack	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 a7a6 b1c3 b7b5 f1d3 d8b6 d4f3
+Sicilian Defense: Taimanov Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6
+Sicilian Defense: Taimanov Variation, Gary Gambit	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 d4b5 d7d6 c2c4 g8f6 b1c3 a7a6 b5a3 d6d5
+Sicilian Defense: Taimanov Variation, Modern Line	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 d4b5 d7d6 c2c4 g8f6 b1c3 a7a6 b5a3 f8e7 f1e2 e8g8 e1g1 b7b6
+Sicilian Defense: Taimanov Variation, Szén Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 d4b5
+Sicilian Defense: Taimanov Variation, American Attack	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 b1c3 g8f6 d4b5 f8b4 b5d6
+Sicilian Defense: Taimanov Variation, Normal Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 b1c3
+Sicilian Defense: Taimanov Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 b1c3 a7a6
+Sicilian Defense: Taimanov Variation, Bastrikov Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 b1c3 d8c7
+Sicilian Defense: Taimanov Variation, Bastrikov Variation, Ponomariov Gambit	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 b1c3 d8c7 d4b5 c7b8 c1e3 a7a6 e3b6
+Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 b1c3 d8c7 c1e3
+Sicilian Defense: Taimanov Variation, Bastrikov Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 b1c3 d8c7 c1e3 a7a6 f1e2
+Sicilian Defense	e2e4 c7c5 g1f3 d7d6 d2d4
+Sicilian Defense	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4
+Sicilian Defense: Delayed Alapin	e2e4 c7c5 g1f3 d7d6 c2c3
+Sicilian Defense: Delayed Alapin, Basman-Palatnik Double Gambit	e2e4 c7c5 g1f3 d7d6 c2c3 g8f6 f1e2 b8c6 d2d4 c5d4 c3d4 f6e4 d4d5 d8a5 b1c3 e4c3 b2c3
+Sicilian Defense: Delayed Alapin, Basman-Palatnik Gambit	e2e4 c7c5 g1f3 d7d6 c2c3 g8f6 f1e2 b8c6 d2d4 c5d4 c3d4 f6e4
+Sicilian Defense: Kopec System	e2e4 c7c5 g1f3 d7d6 f1d3
+Sicilian Defense: Kotov Gambit	e2e4 c7c5 g1f3 d7d6 g2g3 b7b5
+Sicilian Defense: Modern Variations	e2e4 c7c5 g1f3 d7d6
+Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order	e2e4 c7c5 g1f3 d7d6 d2d4 g8f6
+Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted	e2e4 c7c5 g1f3 d7d6 d2d4 g8f6 d4c5 f6e4
+Sicilian Defense: Modern Variations, Tartakower	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 c2c3
+Sicilian Defense: Wing Gambit, Deferred Variation	e2e4 c7c5 g1f3 d7d6 b2b4
+Sicilian Defense: Moscow Variation	e2e4 c7c5 g1f3 d7d6 f1b5
+Sicilian Defense: Moscow Variation, Dorfman Gambit	e2e4 c7c5 g1f3 d7d6 f1b5 b8c6 e1g1 c8d7 d1e2 g7g6 e4e5
+Sicilian Defense: Moscow Variation, Moscow Gambit	e2e4 c7c5 g1f3 d7d6 f1b5 b8c6 e1g1 c8d7 c2c3 g8f6 f1e1 a7a6 b5c6 d7c6 d2d4 c6e4 c1g5
+Sicilian Defense: Moscow Variation, Haag Gambit	e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 d8d7 e1g1 b8c6 c2c3 g8f6 d2d4
+Sicilian Defense: Moscow Variation, Main Line	e2e4 c7c5 g1f3 d7d6 f1b5 c8d7
+Sicilian Defense: Moscow Variation, Sokolsky Variation	e2e4 c7c5 g1f3 d7d6 f1b5 c8d7 b5d7 d8d7 c2c4
+Sicilian Defense: Chekhover Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4
+Sicilian Defense: Chekhover Variation, Zaitsev Defense	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 d1d4 b8c6 f1b5 d8d7
+Sicilian Defense: Dragon Variation, Accelerated Dragon	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g7g6
+Sicilian Defense: Modern Variations, Ginsberg Gambit	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f1c4
+Sicilian Defense: Modern Variations, Main Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6
+Sicilian Defense: Prins Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f2f3
+Sicilian Defense: Prins Variation, Venice Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 f2f3 e7e5 f1b5
+Sicilian Defense: Classical Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6
+Sicilian Defense: Classical Variation, Fianchetto Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 g2g3
+Sicilian Defense: Kupreichik Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 c8d7
+Sicilian Defense: Spielmann Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 d4e2
+Sicilian Defense: Venice Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 e7e5 f1b5
+Sicilian Defense: Yates Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1d3
+Sicilian Defense: Classical Variation, Anti-Sozin Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1c4 d8b6
+Sicilian Defense: Classical Variation, Sozin Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 f1c4
+Sicilian Defense: Magnus Smith Trap	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1c4 g7g6 d4c6 b7c6 e4e5
+Sicilian Defense: Boleslavsky Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 f1e2 e7e5
+Sicilian Defense: Boleslavsky Variation, Louma Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1e2 e7e5 d4c6
+Sicilian Defense: Classical Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 f1e2
+Sicilian Defense: Classical Variation, Dragon Transfer	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 f1e2 c6d4 d1d4 g7g6
+Sicilian Defense: Boleslavsky Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1e2 e7e5 d4b3
+Sicilian Defense: Richter-Rauzer Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5
+Sicilian Defense: Richter-Rauzer Variation, Dragon Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 c1g5 g7g6
+Sicilian Defense: Richter-Rauzer Variation, Modern Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 c8d7
+Sicilian Defense: Richter-Rauzer Variation, Modern Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 c1g5 c8d7 d1d2
+Sicilian Defense: Richter-Rauzer Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6
+Sicilian Defense: Richter-Rauzer Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6 d1d3
+Sicilian Defense: Richter-Rauzer Variation, Exchange Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6 d4c6
+Sicilian Defense: Richter-Rauzer Variation, Podebrady Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 c1g5 e7e6 d4b3
+Sicilian Defense: Richter-Rauzer Variation, Vitolins Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6 f1b5
+Sicilian Defense: Richter-Rauzer Variation, Classical Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6 d1d2 f8e7
+Sicilian Defense: Richter-Rauzer Variation, Classical Variation, Kantscher Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6 d1d2 f8e7 e1c1 c6d4 d2d4 a7a6 f2f4 b7b5
+Sicilian Defense: Richter-Rauzer Variation, Ivanov Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6 d1d2 d8b6
+Sicilian Defense: Richter-Rauzer Variation, Traditional Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6 d1d2
+Sicilian Defense: Richter-Rauzer Variation, Classical Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 c1g5 e7e6 d1d2 f8e7 e1c1 e8g8 f2f4 e6e5
+Sicilian Defense: Richter-Rauzer Variation, Classical Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6 d1d2 f8e7 e1c1 e8g8 f2f4
+Sicilian Defense: Richter-Rauzer Variation, Classical Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6 d1d2 f8e7 e1c1 e8g8 f2f4 c6d4 d2d4
+Sicilian Defense: Richter-Rauzer Variation, Rauzer Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6 d1d2 f8e7 e1c1 e8g8 f2f4 c6d4
+Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 c1g5 e7e6 d1d2 a7a6
+Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 c1g5 e7e6 d1d2 a7a6 e1c1 c8d7
+Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 c1g5 e7e6 d1d2 a7a6 e1c1 c8d7 f2f4 f8e7
+Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 c1g5 e7e6 d1d2 a7a6 e1c1 c8d7 f2f4 f8e7 d4f3 b7b5 g5f6
+Sicilian Defense: Dragon Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6
+Sicilian Defense: Dragon Variation, Classical Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 f1e2
+Sicilian Defense: Dragon Variation, Fianchetto Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 g2g3
+Sicilian Defense: Dragon Variation, Levenfish Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 f2f4
+Sicilian Defense: Dragon Variation, Levenfish Variation, Main Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 f2f4 b8d7
+Sicilian Defense: Dragon Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3
+Sicilian Defense: Dragon Variation, Classical Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f1e2
+Sicilian Defense: Dragon Variation, Classical Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f1e2 b8c6
+Sicilian Defense: Dragon Variation, Classical Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f1e2 b8c6 d4b3
+Sicilian Defense: Dragon Variation, Classical Variation, Amsterdam Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1e2 g7g6 c1e3 f8g7 d1d2
+Sicilian Defense: Dragon Variation, Classical Variation, Grigoriev Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1e2 g7g6 c1e3 f8g7 d1d2 e8g8 e1c1
+Sicilian Defense: Dragon Variation, Classical Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 f1e2 f8g7 e1g1 b8c6 c1e3
+Sicilian Defense: Dragon Variation, Classical Variation, Battery Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 f1e2 f8g7 e1g1 e8g8 c1e3 b8c6 d1d2
+Sicilian Defense: Dragon Variation, Classical Variation, Zollner Gambit	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 c1e3 f8g7 f1e2 g8f6 b1c3 e8g8 e1g1 d7d6 f2f4 d8b6 e4e5
+Sicilian Defense: Dragon Variation, Classical Variation, Alekhine Line	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 b1c3 f8g7 c1e3 g8f6 f1e2 e8g8 e1g1 d7d6 d4b3 a7a5
+Sicilian Defense: Dragon Variation, Classical Variation, Bernard Defense	e2e4 c7c5 g1f3 g7g6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1e2 f8g7 e1g1 e8g8 c1e3 b8c6 d4b3 c8e6 f2f4 c6a5 f4f5 e6c4 e2d3 c4d3 c2d3 d6d5
+Sicilian Defense: Dragon Variation, Classical Variation, Maróczy Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 f1e2 f8g7 e1g1 e8g8 c1e3 b8c6 d4b3 c8e6 f2f4 c6a5
+Sicilian Defense: Dragon Variation, Classical Variation, Normal Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 f1e2 f8g7 e1g1 e8g8 c1e3 b8c6 d4b3
+Sicilian Defense: Dragon Variation, Classical Variation, Spielmann Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g7g6 b1c3 f8g7 c1e3 g8f6 f1e2 e8g8 d4b3 d7d6 e1g1 c8e6 f2f4 c6a5 f4f5 e6c4 e2d3
+Sicilian Defense: Dragon Variation, Classical Variation, Stockholm Attack	e2e4 c7c5 b1c3 d7d6 f2f4 b8c6 g1f3 g7g6 d2d4 c5d4 f3d4 f8g7 c1e3 g8f6 f1e2 e8g8 d4b3 c8e6 e1g1 c6a5 f4f5 e6c4 b3a5 c4e2 d1e2 d8a5 g2g4
+Sicilian Defense: Dragon Variation, Classical Variation, Tartakower Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 f1e2 f8g7 e1g1 e8g8 c1e3 b8c6 d4b3 c8e6 f2f4 d8c8
+Sicilian Defense: Dragon Variation, Yugoslav Attack, Belezky Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 b8c6
+Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3
+Sicilian Defense: Dragon Variation, Yugoslav Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 e8g8
+Sicilian Defense: Dragon Variation, Yugoslav Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 e8g8 d1d2 b8c6
+Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 b8c6 d1d2 e8g8 e1c1
+Sicilian Defense: Dragon Variation, Yugoslav Attack, Panov Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 e8g8 d1d2 b8c6 g2g4
+Sicilian Defense: Dragon Variation, Yugoslav Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 e8g8 d1d2 b8c6 f1c4 c8d7
+Sicilian Defense: Dragon Variation, Yugoslav Attack, Byrne Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 e8g8 d1d2 b8c6 f1c4 a7a5
+Sicilian Defense: Dragon Variation, Yugoslav Attack, Czerniak Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 b8c6 d1d2 e8g8 f1c4 c6d4 e3d4 c8e6
+Sicilian Defense: Dragon Variation, Yugoslav Attack, Main Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 e8g8 d1d2 b8c6 f1c4
+Sicilian Defense: Dragon Variation, Yugoslav Attack, Sosonko Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 b8c6 d1d2 e8g8 f1c4 f6d7
+Sicilian Defense: Dragon Variation, Yugoslav Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 e8g8 d1d2 b8c6 f1c4 c8d7 e1c1
+Sicilian Defense: Dragon Variation, Yugoslav Attack, Old Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 e8g8 d1d2 b8c6 f1c4 c8d7 e1c1 a8c8
+Sicilian Defense: Dragon Variation, Yugoslav Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 e8g8 d1d2 b8c6 f1c4 c8d7 h2h4 d8a5 e1c1 f8c8 c4b3
+Sicilian Defense: Dragon Variation, Yugoslav Attack, Soltis Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 g7g6 c1e3 f8g7 f2f3 e8g8 d1d2 b8c6 f1c4 c8d7 e1c1 d8a5 h2h4 f8c8 c4b3 h7h5
+Sicilian Defense: Scheveningen Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6
+Sicilian Defense: Scheveningen Variation, English Attack, with Qd2	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 e7e6 d1d2
+Sicilian Defense: Scheveningen Variation, Fianchetto Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 g2g3
+Sicilian Defense: Scheveningen Variation, Vitolins Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1b5
+Sicilian Defense: Scheveningen Variation, Keres Attack	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 g2g4
+Sicilian Defense: Scheveningen Variation, Matanovic Attack	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f2f4
+Sicilian Defense: Scheveningen Variation, Tal Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f2f4 b8c6 c1e3 f8e7 d1f3
+Sicilian Defense: Scheveningen Variation, Classical Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1e2
+Sicilian Defense: Scheveningen Variation, Modern Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 b1c3 d7d6 f1e2 g8f6
+Sicilian Defense: Scheveningen Variation, Modern Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1e2 f8e7 e1g1 e8g8 f2f4 b8c6 c1e3
+Sicilian Defense: Scheveningen Variation, Modern Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1e2 f8e7 e1g1 e8g8 f2f4 b8c6 c1e3 c8d7 d4b3
+Sicilian Defense: Najdorf Variation, Scheveningen Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f1e2 e7e6 e1g1 b8d7
+Sicilian Defense: Scheveningen Variation, Classical Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f1e2 e7e6
+Sicilian Defense: Scheveningen Variation, Classical Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f1e2 e7e6 e1g1 d8c7
+Sicilian Defense: Scheveningen Variation, Classical Main Line	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 b1c3 d8c7 f1e2 a7a6 e1g1 g8f6 c1e3 f8e7 f2f4 d7d6 d1e1 e8g8
+Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f2f4 e7e6 f1e2 d8c7 e1g1 b8c6
+Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 b1c3 d8c7 f1e2 a7a6 e1g1 g8f6 c1e3 d7d6 f2f4
+Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 b8c6 b1c3 d8c7 f1e2 a7a6 e1g1 g8f6 g1h1 f8e7 f2f4 d7d6 a2a4
+Sicilian Defense: Sozin Attack	e2e4 c7c5 g1f3 e7e6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1c4
+Sicilian Defense: Sozin Attack, Flank Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f1c4 e7e6 c4b3 b7b5
+Sicilian Defense: Sozin Attack, Fischer Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1c4 e7e6 c4b3 f8e7 c1e3 e8g8 f2f4
+Sicilian Defense: Sozin Attack, Leonhardt Variation	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1c4 e7e6
+Sicilian Defense: Sozin Attack, Main Line	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1c4 e7e6 c1e3
+Sicilian Defense: Sozin Attack, Main Line, Sherbakov Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 b8c6 f1c4 e7e6 c1e3 f8e7 c4b3 e8g8 e1g1 c6a5 f2f4 b7b6
+Sicilian Defense: Velimirovic Attack	e2e4 c7c5 g1f3 b8c6 d2d4 c5d4 f3d4 g8f6 b1c3 d7d6 f1c4 e7e6 c1e3 f8e7 d1e2
+Sicilian Defense: Najdorf Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6
+Sicilian Defense: Najdorf Variation, Adams Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 h2h3
+Sicilian Defense: Najdorf Variation, Dekker Gambit	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 g2g4
+Sicilian Defense: Najdorf Variation, English Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3
+Sicilian Defense: Najdorf Variation, English Attack, Anti-English	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 f6g4
+Sicilian Defense: Najdorf Variation, Freak Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 h1g1
+Sicilian Defense: Najdorf Variation, Lipnitsky Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f1c4
+Sicilian Defense: Scheveningen Variation, Delayed Keres Attack	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 e7e6 g2g4
+Sicilian Defense: Scheveningen Variation, Delayed Keres Attack, Perenyi Gambit	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 e7e6 g2g4 e6e5 d4f5 g7g6 g4g5
+Sicilian Defense: Scheveningen Variation, English Attack, with f3	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1e3 e7e6 f2f3
+Sicilian Defense: Najdorf Variation, Zagreb Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 g2g3
+Sicilian Defense: Najdorf Variation, Opocensky Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f1e2
+Sicilian Defense: Najdorf Variation, Opocensky Variation, Modern Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f1e2 e7e5 d4b3 f8e7 e1g1 c8e6
+Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f1e2 e7e5 d4b3 f8e7 e1g1 e8g8
+Sicilian Defense: Najdorf Variation, Amsterdam Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f2f4
+Sicilian Defense: Najdorf Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5
+Sicilian Defense: Najdorf Variation, Ivkov Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 b8d7 f1c4 d8a5 d1d2 e7e6 e1c1 b7b5 c4b3 c8b7 h1e1 d7c5 e4e5
+Sicilian Defense: Najdorf Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 e7e6
+Sicilian Defense: Najdorf Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 e7e6 f2f4
+Sicilian Defense: Najdorf Variation, Neo-Classical Defense	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 e7e6 f2f4 b8c6
+Sicilian Defense: Najdorf Variation, Polugaevsky Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 e7e6 f2f4 b7b5
+Sicilian Defense: Najdorf Variation, Polugaevsky Variation, Simagin Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 e7e6 f2f4 b7b5 e4e5 d6e5 f4e5 d8c7 d1e2
+Sicilian Defense: Najdorf Variation, Poisoned Pawn Accepted	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 e7e6 f2f4 d8b6 d1d2 b6b2 a1b1 b2a3
+Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 e7e6 f2f4 d8b6
+Sicilian Defense: Najdorf Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 e7e6 f2f4 f8e7
+Sicilian Defense: Najdorf Variation, Browne Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 e7e6 f2f4 f8e7 d1f3 h7h6 g5h4 d8c7
+Sicilian Defense: Najdorf Variation, Goteborg Variation	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 e7e6 f2f4 f8e7 d1f3 h7h6 g5h4 g7g5
+Sicilian Defense: Najdorf Variation, Traditional Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 e7e6 f2f4 f8e7 d1f3 d8c7
+Sicilian Defense: Najdorf Variation, Main Line	e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 c1g5 e7e6 f2f4 f8e7 d1f3 d8c7 e1c1 b8d7

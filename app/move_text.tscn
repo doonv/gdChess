@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://0trf33nb0vox"]
+
+[ext_resource type="Script" path="res://scripts/movetext.gd" id="1_jrfcu"]
+
+[node name="MoveText" type="RichTextLabel"]
+size_flags_vertical = 3
+theme_type_variation = &"MoveText"
+bbcode_enabled = true
+text = "[color=ffffff99]No moves played.[/color]"
+fit_content = true
+script = ExtResource("1_jrfcu")

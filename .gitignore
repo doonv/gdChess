@@ -1,0 +1,4 @@
+**/*.o
+**/*.os
+**/*.so
+.sconsign.dblite

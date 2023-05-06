@@ -1,0 +1,58 @@
+[gd_scene load_steps=3 format=3 uid="uid://4d6mhqi0cg1i"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_ac3lr"]
+outline_size = 1
+
+[sub_resource type="LabelSettings" id="LabelSettings_3sahc"]
+font_size = 8
+
+[node name="HBoxContainer" type="HBoxContainer"]
+theme_override_constants/separation = 15
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 2
+text = "1."
+label_settings = SubResource("LabelSettings_ac3lr")
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 2
+text = "e4"
+alignment = 0
+
+[node name="Button2" type="Button" parent="."]
+layout_mode = 2
+text = "e4g"
+alignment = 0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="ProgressBar" type="ProgressBar" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+value = 39.9
+fill_mode = 1
+show_percentage = false
+
+[node name="ProgressBar2" type="ProgressBar" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+value = 39.28
+fill_mode = 1
+show_percentage = false
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="."]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="VBoxContainer2"]
+layout_mode = 2
+text = "0.5s"
+label_settings = SubResource("LabelSettings_3sahc")
+vertical_alignment = 1
+
+[node name="Label2" type="Label" parent="VBoxContainer2"]
+layout_mode = 2
+text = "0.5s"
+label_settings = SubResource("LabelSettings_3sahc")
+vertical_alignment = 1

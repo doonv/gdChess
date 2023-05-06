@@ -1,0 +1,266 @@
+[gd_scene load_steps=13 format=3 uid="uid://chxcgcm8pwl13"]
+
+[ext_resource type="Script" path="res://main.gd" id="1_62fmy"]
+[ext_resource type="Theme" uid="uid://b3l5bv4r7tfsl" path="res://theme.tres" id="1_nyotf"]
+[ext_resource type="Script" path="res://scripts/board_node.gd" id="1_yitbc"]
+[ext_resource type="Texture2D" uid="uid://ch2176870fvwc" path="res://chess_pieces.png" id="2_yfu6k"]
+[ext_resource type="Script" path="res://scripts/menubar_manager.gd" id="4_xrey1"]
+[ext_resource type="Script" path="res://scripts/evalbar.gd" id="5_266h1"]
+[ext_resource type="Script" path="res://scripts/opening_label.gd" id="5_og883"]
+[ext_resource type="Script" path="res://scripts/settings.gd" id="7_2y3f4"]
+[ext_resource type="PackedScene" uid="uid://4d6mhqi0cg1i" path="res://move_display.tscn" id="8_7dio0"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_xv33o"]
+content_margin_left = 8.0
+content_margin_top = 8.0
+content_margin_right = 8.0
+content_margin_bottom = 8.0
+bg_color = Color(0.129412, 0.14902, 0.180392, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_d43gw"]
+font_size = 18
+
+[sub_resource type="StyleBoxLine" id="StyleBoxLine_rg3or"]
+color = Color(1, 1, 1, 1)
+grow_begin = 0.0
+grow_end = 0.0
+thickness = 2
+
+[node name="Main" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("1_nyotf")
+script = ExtResource("1_62fmy")
+metadata/_edit_vertical_guides_ = [510.0, -88.0, -121.0, 337.0]
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 0
+
+[node name="MenuBarPanel" type="PanelContainer" parent="VBoxContainer"]
+layout_mode = 2
+theme_type_variation = &"MenuBarPanel"
+
+[node name="MenuBar" type="MenuBar" parent="VBoxContainer/MenuBarPanel"]
+layout_mode = 2
+script = ExtResource("4_xrey1")
+
+[node name="File" type="PopupMenu" parent="VBoxContainer/MenuBarPanel/MenuBar"]
+disable_3d = true
+item_count = 4
+item_0/text = "Load FEN"
+item_0/id = 1
+item_1/text = "Load PGN"
+item_1/id = 3
+item_2/text = "Settings"
+item_2/id = 2
+item_3/text = "Exit"
+item_3/id = 0
+
+[node name="LoadFEN" type="ConfirmationDialog" parent="VBoxContainer/MenuBarPanel/MenuBar/File"]
+initial_position = 1
+title = "Load FEN"
+size = Vector2i(403, 141)
+min_size = Vector2i(400, 140)
+ok_button_text = "Load"
+dialog_hide_on_ok = false
+
+[node name="VBoxContainer" type="VBoxContainer" parent="VBoxContainer/MenuBarPanel/MenuBar/File/LoadFEN"]
+offset_left = 8.0
+offset_top = 8.0
+offset_right = 395.0
+offset_bottom = 92.0
+
+[node name="Dialog" type="Label" parent="VBoxContainer/MenuBarPanel/MenuBar/File/LoadFEN/VBoxContainer"]
+layout_mode = 2
+text = "Enter the FEN to load:"
+horizontal_alignment = 1
+
+[node name="FENInput" type="LineEdit" parent="VBoxContainer/MenuBarPanel/MenuBar/File/LoadFEN/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+placeholder_text = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
+
+[node name="QuitConfirm" type="ConfirmationDialog" parent="VBoxContainer/MenuBarPanel/MenuBar/File"]
+initial_position = 1
+title = "Quit?"
+size = Vector2i(252, 100)
+ok_button_text = "Quit"
+dialog_text = "Are you sure you want to quit?"
+
+[node name="Settings" type="Window" parent="VBoxContainer/MenuBarPanel/MenuBar/File"]
+title = "gdChess Settings"
+position = Vector2i(246, 156)
+size = Vector2i(612, 400)
+visible = false
+transient = true
+script = ExtResource("7_2y3f4")
+
+[node name="ScrollContainer" type="ScrollContainer" parent="VBoxContainer/MenuBarPanel/MenuBar/File/Settings"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_xv33o")
+horizontal_scroll_mode = 0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="VBoxContainer/MenuBarPanel/MenuBar/File/Settings/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Theme" type="Control" parent="VBoxContainer/MenuBarPanel/MenuBar/File/Settings/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="SettingContainer" type="HBoxContainer" parent="VBoxContainer/MenuBarPanel/MenuBar/File/Settings/ScrollContainer/VBoxContainer/Theme"]
+layout_mode = 2
+offset_right = 596.0
+offset_bottom = 26.0
+theme_override_constants/separation = 30
+
+[node name="SettingName" type="Label" parent="VBoxContainer/MenuBarPanel/MenuBar/File/Settings/ScrollContainer/VBoxContainer/Theme/SettingContainer"]
+layout_mode = 2
+text = "Theme"
+
+[node name="Input" type="OptionButton" parent="VBoxContainer/MenuBarPanel/MenuBar/File/Settings/ScrollContainer/VBoxContainer/Theme/SettingContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Description" type="RichTextLabel" parent="VBoxContainer/MenuBarPanel/MenuBar/File/Settings/ScrollContainer/VBoxContainer/Theme"]
+layout_mode = 2
+offset_top = 30.0
+offset_right = 596.0
+offset_bottom = 50.0
+theme_override_colors/default_color = Color(1, 1, 1, 0.568627)
+bbcode_enabled = true
+text = "The theme of gdChess. You can create a new theme by opening this project inside the Godot Engine, creating your theme, and then putting it in the [url={0}]user://Themes[/url] folder."
+fit_content = true
+scroll_active = false
+shortcut_keys_enabled = false
+
+[node name="Debug" type="PopupMenu" parent="VBoxContainer/MenuBarPanel/MenuBar"]
+disable_3d = true
+size = Vector2i(223, 143)
+hide_on_checkable_item_selection = false
+item_count = 5
+item_0/text = "Show Square Positions"
+item_0/checkable = 1
+item_0/id = 0
+item_1/text = "Move Checking"
+item_1/id = 1
+item_1/separator = true
+item_2/text = "Legal"
+item_2/checkable = 2
+item_2/id = 2
+item_3/text = "Semi Legal"
+item_3/checkable = 2
+item_3/id = 3
+item_4/text = "Illegal Moves"
+item_4/checkable = 2
+item_4/checked = true
+item_4/id = 4
+
+[node name="HSplitContainer" type="HSplitContainer" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+split_offset = 700
+
+[node name="AspectRatioContainer" type="AspectRatioContainer" parent="VBoxContainer/HSplitContainer"]
+custom_minimum_size = Vector2(200, 200)
+layout_mode = 2
+
+[node name="EvalContainer" type="Control" parent="VBoxContainer/HSplitContainer/AspectRatioContainer"]
+custom_minimum_size = Vector2(20, 0)
+layout_mode = 2
+
+[node name="EvalBar" type="ProgressBar" parent="VBoxContainer/HSplitContainer/AspectRatioContainer/EvalContainer"]
+custom_minimum_size = Vector2(20, 0)
+layout_mode = 1
+anchors_preset = -1
+anchor_bottom = 1.0
+offset_left = -30.0
+offset_right = -10.0
+grow_vertical = 2
+size_flags_horizontal = 8
+size_flags_vertical = 1
+theme = ExtResource("1_nyotf")
+theme_type_variation = &"EvalBar"
+min_value = -500.0
+max_value = 500.0
+step = 0.0
+fill_mode = 3
+show_percentage = false
+script = ExtResource("5_266h1")
+
+[node name="Board" type="Control" parent="VBoxContainer/HSplitContainer/AspectRatioContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+script = ExtResource("1_yitbc")
+pieces_texture = ExtResource("2_yfu6k")
+
+[node name="PanelContainer" type="PanelContainer" parent="VBoxContainer/HSplitContainer"]
+custom_minimum_size = Vector2(150, 0)
+layout_mode = 2
+theme_type_variation = &"SidePanelContainer"
+
+[node name="VBoxContainer" type="VBoxContainer" parent="VBoxContainer/HSplitContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxContainer/HSplitContainer/PanelContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 4
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 4
+
+[node name="OpeningLabel" type="Label" parent="VBoxContainer/HSplitContainer/PanelContainer/VBoxContainer/MarginContainer"]
+layout_mode = 2
+size_flags_vertical = 0
+text = "No openings played."
+label_settings = SubResource("LabelSettings_d43gw")
+vertical_alignment = 1
+text_overrun_behavior = 3
+script = ExtResource("5_og883")
+
+[node name="HSeparator" type="HSeparator" parent="VBoxContainer/HSplitContainer/PanelContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 0
+theme_override_styles/separator = SubResource("StyleBoxLine_rg3or")
+
+[node name="ScrollContainer" type="ScrollContainer" parent="VBoxContainer/HSplitContainer/PanelContainer/VBoxContainer"]
+layout_direction = 2
+layout_mode = 2
+size_flags_vertical = 3
+theme = ExtResource("1_nyotf")
+theme_type_variation = &"MoveList"
+
+[node name="MoveList" type="VBoxContainer" parent="VBoxContainer/HSplitContainer/PanelContainer/VBoxContainer/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="HBoxContainer" parent="VBoxContainer/HSplitContainer/PanelContainer/VBoxContainer/ScrollContainer/MoveList" instance=ExtResource("8_7dio0")]
+layout_mode = 2
+
+[connection signal="theme_changed" from="." to="VBoxContainer/HSplitContainer/AspectRatioContainer/Board" method="_on_main_theme_changed"]
+[connection signal="id_pressed" from="VBoxContainer/MenuBarPanel/MenuBar/File" to="VBoxContainer/MenuBarPanel/MenuBar" method="_on_file_id_pressed"]
+[connection signal="confirmed" from="VBoxContainer/MenuBarPanel/MenuBar/File/LoadFEN" to="VBoxContainer/MenuBarPanel/MenuBar" method="_on_load_fen_confirmed"]
+[connection signal="text_submitted" from="VBoxContainer/MenuBarPanel/MenuBar/File/LoadFEN/VBoxContainer/FENInput" to="VBoxContainer/MenuBarPanel/MenuBar" method="_on_load_fen_confirmed"]
+[connection signal="confirmed" from="VBoxContainer/MenuBarPanel/MenuBar/File/QuitConfirm" to="VBoxContainer/MenuBarPanel/MenuBar" method="_on_quit_confirm_confirmed"]
+[connection signal="close_requested" from="VBoxContainer/MenuBarPanel/MenuBar/File/Settings" to="VBoxContainer/MenuBarPanel/MenuBar/File/Settings" method="_on_close_requested"]
+[connection signal="item_selected" from="VBoxContainer/MenuBarPanel/MenuBar/File/Settings/ScrollContainer/VBoxContainer/Theme/SettingContainer/Input" to="VBoxContainer/MenuBarPanel/MenuBar/File/Settings" method="_on_theme_input_item_selected"]
+[connection signal="meta_clicked" from="VBoxContainer/MenuBarPanel/MenuBar/File/Settings/ScrollContainer/VBoxContainer/Theme/Description" to="VBoxContainer/MenuBarPanel/MenuBar/File/Settings" method="_on_description_meta_clicked"]
+[connection signal="id_pressed" from="VBoxContainer/MenuBarPanel/MenuBar/Debug" to="VBoxContainer/MenuBarPanel/MenuBar" method="_on_debug_id_pressed"]
+[connection signal="board_changed" from="VBoxContainer/HSplitContainer/AspectRatioContainer/Board" to="VBoxContainer/HSplitContainer/AspectRatioContainer/EvalContainer/EvalBar" method="_on_board_changed"]
+[connection signal="board_changed" from="VBoxContainer/HSplitContainer/AspectRatioContainer/Board" to="VBoxContainer/HSplitContainer/PanelContainer/VBoxContainer/MarginContainer/OpeningLabel" method="_on_board_changed"]
